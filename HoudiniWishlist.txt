@@ -1240,10 +1240,10 @@ dimwishlist:item=2405619467&perks=3523296417,2458213969
 // Well-Rounded
 // Fragile Focus
 //notes:Houdini (trash): Anything with Well-Rounded or Fragile Focus is garbage|tags:trash
-dimwishlist:item=2345794502&perks=744594675
-dimwishlist:item=2345794502&perks=2451262963
-dimwishlist:item=2405619467&perks=744594675
-dimwishlist:item=2405619467&perks=2451262963
+dimwishlist:item=-2345794502&perks=744594675
+dimwishlist:item=-2345794502&perks=2451262963
+dimwishlist:item=-2405619467&perks=744594675
+dimwishlist:item=-2405619467&perks=2451262963
 
 // Whistler's Whim
 // Polymer String,Flexible String,Elastic String
@@ -1600,31 +1600,41 @@ dimwishlist:item=711889599&perks=4067834857,16392701,247725512,4082225868,398821
 dimwishlist:item=711889599&perks=2801223209,16392701,247725512,4082225868,3988215619
 
 // Whistler's Whim
-// Agile Bowstring,Tactile String,High Tension String,Natural String
-//notes:Houdini (trash): Bows are only viable with optimal (500ms) Draw Time. Anything else is garbage|tags:trash
-dimwishlist:item=1574601402&perks=3768438372
-dimwishlist:item=1574601402&perks=1196733167
-dimwishlist:item=1574601402&perks=3371775011
-dimwishlist:item=1574601402&perks=1784898267
-
-dimwishlist:item=711889599&perks=3768438372
-dimwishlist:item=711889599&perks=1196733167
-dimwishlist:item=711889599&perks=3371775011
-dimwishlist:item=711889599&perks=1784898267
-
-// Whistler's Whim
 // Thresh,Cornered,Tunnel Vision
 // Archer's Tempo,Gutshot Straight
 //notes:Houdini (trash): Anything with Thresh, Cornered, Tunnel Vision, Archer's Tempo (it's in the wrong column to be useful), or Gutshot Straight is garbage|tags:trash
-dimwishlist:item=1574601402&perks=2726471870
-dimwishlist:item=1574601402&perks=1799762209
-dimwishlist:item=1574601402&perks=2946784966
-dimwishlist:item=1574601402&perks=201365942
-dimwishlist:item=1574601402&perks=1365187766
+dimwishlist:item=-1574601402&perks=2726471870
+dimwishlist:item=-1574601402&perks=1799762209
+dimwishlist:item=-1574601402&perks=2946784966
+dimwishlist:item=-1574601402&perks=201365942
+dimwishlist:item=-1574601402&perks=1365187766
 
-dimwishlist:item=711889599&perks=2726471870
-dimwishlist:item=711889599&perks=1799762209
-dimwishlist:item=711889599&perks=2946784966
-dimwishlist:item=711889599&perks=201365942
-dimwishlist:item=711889599&perks=1365187766
+dimwishlist:item=-711889599&perks=2726471870
+dimwishlist:item=-711889599&perks=1799762209
+dimwishlist:item=-711889599&perks=2946784966
+dimwishlist:item=-711889599&perks=201365942
+dimwishlist:item=-711889599&perks=1365187766
+
+// This Block is needed because we don't want the next trash block to reject a bow with otherwise acceptable perks, but one bad first column perk.
+//notes:Houdini: Bows are only viable with optimal (500ms) Draw Time. A 500ms Draw Time is achieved by either Elastic String or a Draw Time masterwork with Flexible String or Polymer String
+dimwishlist:item=1574601402&perks=852209214
+dimwishlist:item=1574601402&perks=4067834857
+dimwishlist:item=1574601402&perks=2801223209
+
+dimwishlist:item=711889599&perks=852209214
+dimwishlist:item=711889599&perks=4067834857
+dimwishlist:item=711889599&perks=2801223209
+
+// Whistler's Whim
+// Agile Bowstring,Tactile String,High Tension String,Natural String
+//notes:Houdini (trash): Bows are only viable with optimal (500ms) Draw Time. Anything else is garbage|tags:trash
+dimwishlist:item=-1574601402&perks=3768438372
+dimwishlist:item=-1574601402&perks=1196733167
+dimwishlist:item=-1574601402&perks=3371775011
+dimwishlist:item=-1574601402&perks=1784898267
+
+dimwishlist:item=-711889599&perks=3768438372
+dimwishlist:item=-711889599&perks=1196733167
+dimwishlist:item=-711889599&perks=3371775011
+dimwishlist:item=-711889599&perks=1784898267
 
