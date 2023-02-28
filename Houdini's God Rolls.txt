@@ -1,0 +1,8 @@
+title:Houdini's God Rolls
+description:Houdini's wishlist for the Noble Sacrifice clan and friends
+
+// Exalted Truth (Adept) (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3920882229&perks=1392496348,3142289711,2846385770,699525795,4008116374
+
+
