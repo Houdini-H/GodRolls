@@ -1,8 +1,8 @@
 title:Houdini's God Rolls
 description:Houdini's wishlist for the Noble Sacrifice clan and friends
 
-// Exalted Truth (Adept) (god-pvp)
-//{notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:god-pvp
+//{ Exalted Truth (Adept)
+//notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:god-pvp
 dimwishlist:item=3920882229&perks=1392496348,106909392,2846385770,699525795,4008116374
 dimwishlist:item=3920882229&perks=1482024992,106909392,2846385770,699525795,4008116374
 dimwishlist:item=3920882229&perks=1840239774,106909392,2846385770,699525795,4008116374
@@ -384,10 +384,9 @@ dimwishlist:item=1446461192&perks=2846385770,3425386926,4008116374
 dimwishlist:item=1446461192&perks=2272927194,3425386926,4008116374
 dimwishlist:item=1446461192&perks=2846385770,4104185692,4008116374
 dimwishlist:item=1446461192&perks=2272927194,4104185692,4008116374
-//}
 
-// Exalted Truth (Adept) (pve)
-//{notes:Houdini (PvE): Not a weapon I would use in PvE, but if I'm keeping a PvE roll it is Rangefinder + Frenzy (which happens to be a decent PvP roll on its own). Optimize for reload and magazine size in the minor perks|tags:pve
+// Exalted Truth (Adept)
+//notes:Houdini (PvE): Not a weapon I would use in PvE, but if I'm keeping a PvE roll it is Rangefinder + Frenzy (which happens to be a decent PvP roll on its own). Optimize for reload and magazine size in the minor perks|tags:pve
 dimwishlist:item=3920882229&perks=1392496348,106909392,2846385770,4104185692,4008116374
 dimwishlist:item=3920882229&perks=1482024992,106909392,2846385770,4104185692,4008116374
 dimwishlist:item=3920882229&perks=1840239774,106909392,2846385770,4104185692,4008116374
@@ -429,10 +428,9 @@ dimwishlist:item=1446461192&perks=1482024992,3230963543,2846385770,4104185692,40
 dimwishlist:item=1446461192&perks=1840239774,3230963543,2846385770,4104185692,4008116374
 dimwishlist:item=1446461192&perks=3250034553,3230963543,2846385770,4104185692,4008116374
 dimwishlist:item=1446461192&perks=4090651448,3230963543,2846385770,4104185692,4008116374
-//}
 
-// Exalted Truth (Adept) (trash)
-//{notes:Houdini: Anything with Slickdraw, Shot Swap, Under-Over, or Gutshot Straight is garbage. |tags:trash
+// Exalted Truth (Adept)
+//notes:Houdini: Anything with Slickdraw, Shot Swap, Under-Over, or Gutshot Straight is garbage. |tags:trash
 dimwishlist:item=-3920882229&perks=1821614984
 dimwishlist:item=-3920882229&perks=1870851715
 dimwishlist:item=-3920882229&perks=2586829431
@@ -446,8 +444,8 @@ dimwishlist:item=-3920882229&perks=1365187766
 dimwishlist:item=-1446461192&perks=1365187766
 //}
 
-// Burden of Guilt (Adept) (PvP)
-//{notes:Houdini (PvP): Perpetual Motion + High Impact Reserves is the God Roll. Charge Time, Recoil Direction and Stability are first choice in the minor perks followed by range and handling. Other perks to keep an eye on: Harmony/Swashbuckler instead of High Impact Reserves|tags:pvp
+//{ Burden of Guilt (Adept)
+//notes:Houdini (PvP): Perpetual Motion + High Impact Reserves is the God Roll. Charge Time, Recoil Direction and Stability are first choice in the minor perks followed by range and handling. Other perks to keep an eye on: Harmony/Swashbuckler instead of High Impact Reserves|tags:pvp
 dimwishlist:item=2002522739&perks=839105230,689005463,1428297954,2213355989
 dimwishlist:item=2002522739&perks=3661387068,689005463,1428297954,2213355989
 dimwishlist:item=2002522739&perks=4090651448,689005463,1428297954,2213355989
@@ -555,10 +553,9 @@ dimwishlist:item=2002522739&perks=1428297954,4082225868
 dimwishlist:item=933455006&perks=1428297954,2213355989
 dimwishlist:item=933455006&perks=1428297954,438098033
 dimwishlist:item=933455006&perks=1428297954,4082225868
-//}
 
-// Burden of Guilt (Adept) (PvE)
-//{notes:Houdini (PvE): Burden of Guilt is lacking in PvE 3rd column perks. Without Lead From Gold or Auto-Loading Holster it is hard to recommend this for PvE. If this is your only stasis fusion, the best option is Perpetual Motion with High Impact Reserves/Chill Clip/Vorpal/Swashbuckler. Prioritize charge time in the minor perks. |tags:pve
+// Burden of Guilt (Adept)
+//notes:Houdini (PvE): Burden of Guilt is lacking in PvE 3rd column perks. Without Lead From Gold or Auto-Loading Holster it is hard to recommend this for PvE. If this is your only stasis fusion, the best option is Perpetual Motion with High Impact Reserves/Chill Clip/Vorpal/Swashbuckler. Prioritize charge time in the minor perks. |tags:pve
 dimwishlist:item=2002522739&perks=839105230,689005463,1428297954,2213355989
 dimwishlist:item=2002522739&perks=3661387068,689005463,1428297954,2213355989
 dimwishlist:item=2002522739&perks=4090651448,689005463,1428297954,2213355989
@@ -712,10 +709,9 @@ dimwishlist:item=933455006&perks=1428297954,438098033
 dimwishlist:item=933455006&perks=1428297954,4082225868
 dimwishlist:item=933455006&perks=1428297954,1546637391
 dimwishlist:item=933455006&perks=1428297954,2978966579
-//}
 
 // Burden of Guilt (Adept)
-//{notes:Houdini (trash): Anything with Steady Hands, Stats for All, Well-Rounded is garbage|tags:trash
+//notes:Houdini (trash): Anything with Steady Hands, Stats for All, Well-Rounded is garbage|tags:trash
 dimwishlist:item=-2002522739&perks=509074078
 dimwishlist:item=-2002522739&perks=1583705720
 dimwishlist:item=-2002522739&perks=744594675
@@ -725,8 +721,8 @@ dimwishlist:item=-933455006&perks=1583705720
 dimwishlist:item=-933455006&perks=744594675
 //}
 
-// Allied Demand
-//{notes:Houdini (PvP): Rangefinder + Eye of the Storm is the God Roll ideally with Ricochet Rounds. Focus on Stability and Range in the minor perks, but Handling and Reload speed are also useful. Use with the Full Auto Retrofit mod. Other perks to keep an eye on: Frenzy/Multikill Clip.|tags:pvp
+//{ Allied Demand
+//notes:Houdini (PvP): Rangefinder + Eye of the Storm is the God Roll ideally with Ricochet Rounds. Focus on Stability and Range in the minor perks, but Handling and Reload speed are also useful. Use with the Full Auto Retrofit mod. Other perks to keep an eye on: Frenzy/Multikill Clip.|tags:pvp
 dimwishlist:item=1532276803&perks=1392496348,1885400500,2846385770,699525795
 dimwishlist:item=1532276803&perks=1482024992,1885400500,2846385770,699525795
 dimwishlist:item=1532276803&perks=1840239774,1885400500,2846385770,699525795
@@ -835,10 +831,9 @@ dimwishlist:item=1532276803&perks=4090651448,3230963543,2846385770,2458213969
 dimwishlist:item=1532276803&perks=2846385770,699525795
 dimwishlist:item=1532276803&perks=2846385770,4104185692
 dimwishlist:item=1532276803&perks=2846385770,2458213969
-//}
 
 // Allied Demand
-//{notes:Houdini (PvE): A sidearm needs an insane perk pool for me to keep a PvE roll for one and Allied Demand does not have an insane perk pool. Best option is Rangefinder + Frenzy (which happens to be a decent PvP roll on its own anyway). Optimize for reload and magazine size in minor perks. |tags:pve
+//notes:Houdini (PvE): A sidearm needs an insane perk pool for me to keep a PvE roll for one and Allied Demand does not have an insane perk pool. Best option is Rangefinder + Frenzy (which happens to be a decent PvP roll on its own anyway). Optimize for reload and magazine size in minor perks. |tags:pve
 dimwishlist:item=1532276803&perks=1392496348,1885400500,2846385770,4104185692
 dimwishlist:item=1532276803&perks=1482024992,1885400500,2846385770,4104185692
 dimwishlist:item=1532276803&perks=1840239774,1885400500,2846385770,4104185692
@@ -911,22 +906,21 @@ dimwishlist:item=1532276803&perks=3250034553,3230963543,2846385770,2458213969
 dimwishlist:item=1532276803&perks=4090651448,3230963543,2846385770,2458213969
 dimwishlist:item=1532276803&perks=2846385770,4104185692
 dimwishlist:item=1532276803&perks=2846385770,2458213969
-//}
 
 // Allied Demand
-//{notes:Houdini (trash): Anything with Well Rounded, Iron Reach, Gutshot Straight, Under-Over is garbage|tags:trash
+//notes:Houdini (trash): Anything with Well Rounded, Iron Reach, Gutshot Straight, Under-Over is garbage|tags:trash
 dimwishlist:item=-1532276803&perks=744594675
 dimwishlist:item=-1532276803&perks=591790007
 dimwishlist:item=-1532276803&perks=1365187766
 dimwishlist:item=-1532276803&perks=1870851715
 //}
 
-// Forgiveness
+//{ Forgiveness
 // Smallbore,Polygonal Rifling,Corkscrew Rifling,Hammer-forged Rifling,Fluted Barrel
 // Ricochet Rounds,High-Caliber Rounds,Flared Magwell,Light Mag,
 // Moving Target
 // Rapid Hit,Harmony,Multikill Clip
-//{notes:Houdini (PvP): Moving Target + Rapid Hit is the God roll, ideally with ricochet rounds. Focus on Stability and Range in the minor perks, but handling and reload speed are also useful. Use with the Full Auto Retrofit mod. Other perks to keep an eye on: Harmony, Multikill Clip|tags:pvp
+//notes:Houdini (PvP): Moving Target + Rapid Hit is the God roll, ideally with ricochet rounds. Focus on Stability and Range in the minor perks, but handling and reload speed are also useful. Use with the Full Auto Retrofit mod. Other perks to keep an eye on: Harmony, Multikill Clip|tags:pvp
 dimwishlist:item=2345794502&perks=1482024992,1885400500,588594999,247725512
 dimwishlist:item=2345794502&perks=1392496348,1885400500,588594999,247725512
 dimwishlist:item=2345794502&perks=4090651448,1885400500,588594999,247725512
@@ -1053,14 +1047,13 @@ dimwishlist:item=2405619467&perks=1840239774,679225683,588594999,2458213969
 dimwishlist:item=2405619467&perks=588594999,247725512
 dimwishlist:item=2405619467&perks=588594999,438098033
 dimwishlist:item=2405619467&perks=588594999,2458213969
-//}
 
 // Forgiveness
 // Smallbore,Polygonal Rifling,Corkscrew Rifling,Hammer-forged Rifling,Fluted Barrel
 // Flared Magwell,Light Mag,Armor-Piercing Rounds,Appended Mag,Alloy Magazine,Ricochet Rounds,High-Caliber Rounds
 // Demolitionist
 // Adrenaline Junkie,Multikill Clip
-//{notes:Houdini (PvE): Sidearms aren't very viable in PvE, but Demolionist + Adrenaline Junkie is an interesting roll on any weapon. Optimize for reload and magazine size in the minor perks. |tags:pve
+//notes:Houdini (PvE): Sidearms aren't very viable in PvE, but Demolionist + Adrenaline Junkie is an interesting roll on any weapon. Optimize for reload and magazine size in the minor perks. |tags:pve
 dimwishlist:item=2345794502&perks=1482024992,3230963543,3523296417,11612903
 dimwishlist:item=2345794502&perks=1392496348,3230963543,3523296417,11612903
 dimwishlist:item=2345794502&perks=4090651448,3230963543,3523296417,11612903
@@ -1205,25 +1198,25 @@ dimwishlist:item=2405619467&perks=3250034553,1561002382,3523296417,2458213969
 dimwishlist:item=2405619467&perks=1840239774,1561002382,3523296417,2458213969
 dimwishlist:item=2405619467&perks=3523296417,11612903
 dimwishlist:item=2405619467&perks=3523296417,2458213969
-//}
+
 
 // Forgiveness
 // Well-Rounded
 // Fragile Focus
-//{notes:Houdini (trash): Anything with Well-Rounded or Fragile Focus is garbage|tags:trash
+//notes:Houdini (trash): Anything with Well-Rounded or Fragile Focus is garbage|tags:trash
 dimwishlist:item=-2345794502&perks=744594675
 dimwishlist:item=-2345794502&perks=2451262963
 dimwishlist:item=-2405619467&perks=744594675
 dimwishlist:item=-2405619467&perks=2451262963
 //}
 
-// Whistler's Whim
+//{ Whistler's Whim
 // Polymer String,Flexible String,Elastic String
 // Fiberglass Arrow Shaft,Straight Fletching,Helical Fletching,Compact Arrow Shaft
 // Rangefinder,Moving Target
 // Opening Shot,Kill Clip,Swashbuckler,Adrenaline Junkie
 // Veist Stinger (3988215619)
-//{notes:Houdini (PvP): Rangefinder + Opening Shot with Polymer String, Fiberglass Arrow Shaft, and a Draw Time masterwork is the God roll. Moving Target + Opening Shot is temping, but the base aim assist is 74, so with a targeting mod and Opening Shot, it already has max aim assist. Any good roll must have a 50ms Draw time achieved by either Elastic String or a Draw Time masterwork with Flexible String or Polymer String. Focus on accuracy after Draw Time. Other perks to keep an eye on: Kill Clip, Adrenaline Junkie, Swashbuckler |tags:pvp
+//notes:Houdini (PvP): Rangefinder + Opening Shot with Polymer String, Fiberglass Arrow Shaft, and a Draw Time masterwork is the God roll. Moving Target + Opening Shot is temping, but the base aim assist is 74, so with a targeting mod and Opening Shot, it already has max aim assist. Any good roll must have a 50ms Draw time achieved by either Elastic String or a Draw Time masterwork with Flexible String or Polymer String. Focus on accuracy after Draw Time. Other perks to keep an eye on: Kill Clip, Adrenaline Junkie, Swashbuckler |tags:pvp
 dimwishlist:item=1574601402&perks=852209214,3429800428,2846385770,47981717,3988215619
 dimwishlist:item=1574601402&perks=4067834857,3429800428,2846385770,47981717,3988215619
 dimwishlist:item=1574601402&perks=2801223209,3429800428,2846385770,47981717,3988215619
@@ -1417,7 +1410,6 @@ dimwishlist:item=711889599&perks=2801223209,3311977193,588594999,11612903,398821
 dimwishlist:item=711889599&perks=852209214,16392701,588594999,11612903,3988215619
 dimwishlist:item=711889599&perks=4067834857,16392701,588594999,11612903,3988215619
 dimwishlist:item=711889599&perks=2801223209,16392701,588594999,11612903,3988215619
-//}
 
 // Whistler's Whim
 // Polymer String,Flexible String,Elastic String
@@ -1425,7 +1417,7 @@ dimwishlist:item=711889599&perks=2801223209,16392701,588594999,11612903,39882156
 // Rangefinder,Rapid Hit
 // Kill Clip,Adrenaline Junkie,Swashbuckler
 // Veist Stringer
-//{notes:Houdini (PvE): Rangefinder + Kill Clip with Polymer String, Fiberglass Arrow Shaft, and a Draw Time masterwork is the God roll. Archer's Tempo is in the wrong column to be useful. Any good roll must have a 50ms Draw time achieved by either Elastic String or a Draw Time masterwork with Flexible String or Polymer String. Focus on accuracy after Draw Time. Other perks to keep an eye on: Rapid Hit, Adrenaline Junkie, Swashbuckler |tags:pve
+//notes:Houdini (PvE): Rangefinder + Kill Clip with Polymer String, Fiberglass Arrow Shaft, and a Draw Time masterwork is the God roll. Archer's Tempo is in the wrong column to be useful. Any good roll must have a 50ms Draw time achieved by either Elastic String or a Draw Time masterwork with Flexible String or Polymer String. Focus on accuracy after Draw Time. Other perks to keep an eye on: Rapid Hit, Adrenaline Junkie, Swashbuckler |tags:pve
 dimwishlist:item=1574601402&perks=852209214,3429800428,2846385770,1015611457,3988215619
 dimwishlist:item=1574601402&perks=4067834857,3429800428,2846385770,1015611457,3988215619
 dimwishlist:item=1574601402&perks=2801223209,3429800428,2846385770,1015611457,3988215619
@@ -1571,12 +1563,12 @@ dimwishlist:item=711889599&perks=2801223209,3311977193,247725512,4082225868,3988
 dimwishlist:item=711889599&perks=852209214,16392701,247725512,4082225868,3988215619
 dimwishlist:item=711889599&perks=4067834857,16392701,247725512,4082225868,3988215619
 dimwishlist:item=711889599&perks=2801223209,16392701,247725512,4082225868,3988215619
-//}
+
 
 // Whistler's Whim
 // Thresh,Cornered,Tunnel Vision
 // Archer's Tempo,Gutshot Straight
-//{notes:Houdini (trash): Anything with Thresh, Cornered, Tunnel Vision, Archer's Tempo (it's in the wrong column to be useful), or Gutshot Straight is garbage|tags:trash
+//notes:Houdini (trash): Anything with Thresh, Cornered, Tunnel Vision, Archer's Tempo (it's in the wrong column to be useful), or Gutshot Straight is garbage|tags:trash
 dimwishlist:item=-1574601402&perks=2726471870
 dimwishlist:item=-1574601402&perks=1799762209
 dimwishlist:item=-1574601402&perks=2946784966
@@ -1613,12 +1605,12 @@ dimwishlist:item=-711889599&perks=3371775011
 dimwishlist:item=-711889599&perks=1784898267
 //}
 
-// The Inquisitor
+//{ The Inquisitor
 // Fluted Barrel,Arrowhead Brake,Corkscrew Rifling,
 // Assault Mag,Extended Mag,Steady Rounds,
 // Perpetual Motion
 // Opening Shot
-//{notes:Houdini (PvP): Opening Shot is the must have perk on The Inquisitor. In the third column I'm going for Perpetual Motion for the handling bump, but that isn't critical. The Inquisitor has several damage perks in the 4th column, but slug shotguns already one-shot to the head. If you have opening shot, then you don't need any additional investment in range, so focus on handling. Extended Mag and Steady Rounds are decent options to boost the in-air effectiveness. |tags:pvp
+//notes:Houdini (PvP): Opening Shot is the must have perk on The Inquisitor. In the third column I'm going for Perpetual Motion for the handling bump, but that isn't critical. The Inquisitor has several damage perks in the 4th column, but slug shotguns already one-shot to the head. If you have opening shot, then you don't need any additional investment in range, so focus on handling. Extended Mag and Steady Rounds are decent options to boost the in-air effectiveness. |tags:pvp
 dimwishlist:item=2185327324&perks=1840239774,791862061,1428297954,47981717
 dimwishlist:item=2185327324&perks=839105230,791862061,1428297954,47981717
 dimwishlist:item=2185327324&perks=4090651448,791862061,1428297954,47981717
@@ -1640,11 +1632,9 @@ dimwishlist:item=2307365&perks=1840239774,3177308360,1428297954,47981717
 dimwishlist:item=2307365&perks=839105230,3177308360,1428297954,47981717
 dimwishlist:item=2307365&perks=4090651448,3177308360,1428297954,47981717
 dimwishlist:item=2307365&perks=1428297954,47981717
-//}
-
 
 // The Inquisitor
-//{notes:Houdini (PvE): Slug shotguns are used for DPS which makes Fourth Time's the Charm a mandatory perk. For the damage perk, I'd probably pick Golden Tricorn because it has the longest effect duration, but it depends on which perk is easiest to activate in a specific encounter. For the minor perks prioritize magazine size and range without compromising reload speed. Other perks to keep an eye on: Demolitionist is potentially viable to get the free reload|tags:pve
+//notes:Houdini (PvE): Slug shotguns are used for DPS which makes Fourth Time's the Charm a mandatory perk. For the damage perk, I'd probably pick Golden Tricorn because it has the longest effect duration, but it depends on which perk is easiest to activate in a specific encounter. For the minor perks prioritize magazine size and range without compromising reload speed. Other perks to keep an eye on: Demolitionist is potentially viable to get the free reload|tags:pve
 dimwishlist:item=2185327324&perks=3250034553,106909392,1354429876,2610012052
 dimwishlist:item=2185327324&perks=839105230,106909392,1354429876,2610012052
 dimwishlist:item=2185327324&perks=4090651448,106909392,1354429876,2610012052
@@ -1902,10 +1892,9 @@ dimwishlist:item=2307365&perks=1354429876,11612903
 dimwishlist:item=2307365&perks=3523296417,11612903
 dimwishlist:item=2307365&perks=1354429876,438098033
 dimwishlist:item=2307365&perks=3523296417,438098033
-//}
 
 // The Inquisitor
-//{notes:Houdini (trash): Anything with Fragile Focus or Under-Over is garbage|tags:trash
+//notes:Houdini (trash): Anything with Fragile Focus or Under-Over is garbage|tags:trash
 dimwishlist:item=-2185327324&perks=2451262963
 dimwishlist:item=-2185327324&perks=1870851715
 
@@ -1913,12 +1902,12 @@ dimwishlist:item=-2307365&perks=2451262963
 dimwishlist:item=-2307365&perks=1870851715
 //}
 
-// Mindbender's Ambition (Adept)
+//{ Mindbender's Ambition (Adept)
 // Smallbore,Corkscrew Rifling
 // Accurized Rounds,Light Mag,Assault Mag
 // Threat Detector,Slideways,Snapshot Sights
 // Swashbuckler
-//{notes:Houdini (pvp): I'm not a huge fan of this weapon for PvP. Best roll is Threat Detector + Swashbuckler. Maximize range in the minor perks. Other perks to keep an eye on: Slideways or Snapshot Sights|tags:PvP
+//notes:Houdini (pvp): I'm not a huge fan of this weapon for PvP. Best roll is Threat Detector + Swashbuckler. Maximize range in the minor perks. Other perks to keep an eye on: Slideways or Snapshot Sights|tags:PvP
 dimwishlist:item=912150785&perks=1482024992,3142289711,4071163871,4082225868
 dimwishlist:item=912150785&perks=4090651448,3142289711,4071163871,4082225868
 dimwishlist:item=912150785&perks=1482024992,679225683,4071163871,4082225868
@@ -1961,14 +1950,13 @@ dimwishlist:item=1094005544&perks=4090651448,791862061,957782887,4082225868
 dimwishlist:item=1094005544&perks=4071163871,4082225868
 dimwishlist:item=1094005544&perks=2039302152,4082225868
 dimwishlist:item=1094005544&perks=957782887,4082225868
-//}
 
 // Mindbender's Ambition (Adept)
 // Smallbore,Corkscrew Rifling,Barrel Shroud
 // Assault Mag,Tactical Mag
 // Auto-Loading Holster,Lead from Gold
 // Incandescent
-//{notes:Houdini (PvE): Auto-Loading Holster + Incandescent is the best option here. Assault Mag is ideal in the minor perks, then focus on range. Other good options: Lead from Gold|tags:pve
+//notes:Houdini (PvE): Auto-Loading Holster + Incandescent is the best option here. Assault Mag is ideal in the minor perks, then focus on range. Other good options: Lead from Gold|tags:pve
 dimwishlist:item=912150785&perks=1482024992,791862061,3300816228,4293542123
 dimwishlist:item=912150785&perks=4090651448,791862061,3300816228,4293542123
 dimwishlist:item=912150785&perks=1300023272,791862061,3300816228,4293542123
@@ -1997,22 +1985,20 @@ dimwishlist:item=1094005544&perks=4090651448,106909392,1556840489,4293542123
 dimwishlist:item=1094005544&perks=1300023272,106909392,1556840489,4293542123
 dimwishlist:item=1094005544&perks=3300816228,4293542123
 dimwishlist:item=1094005544&perks=1556840489,4293542123
-//}
 
 // Mindbender's Ambition (Adept)
-//{notes:Houdini (PvE): For a One-Two-Punch build, go with Full Choke and Assault Mag. Ideally Auto-Loading Holster, but Lead From Gold is also good. |tags:pve
+//notes:Houdini (PvE): For a One-Two-Punch build, go with Full Choke and Assault Mag. Ideally Auto-Loading Holster, but Lead From Gold is also good. |tags:pve
 dimwishlist:item=912150785&perks=1047830412,791862061,3300816228,2679249093
 dimwishlist:item=912150785&perks=1047830412,791862061,1556840489,2679249093
 dimwishlist:item=1094005544&perks=1047830412,791862061,3300816228,2679249093
 dimwishlist:item=1094005544&perks=1047830412,791862061,1556840489,2679249093
-//}
 
 // Mindbender's Ambition (Adept)
 // Smallbore,Corkscrew Rifling,Barrel Shroud
 // Assault Mag,Tactical Mag
 // Pugilist
 // Swashbuckler
-//{notes:Houdini (PvE): For a melee build, Pugilist + Swashbuckler is an excellent option. Assault Mag is ideal in the minor perks, then focus on range.|tags:pve
+//notes:Houdini (PvE): For a melee build, Pugilist + Swashbuckler is an excellent option. Assault Mag is ideal in the minor perks, then focus on range.|tags:pve
 dimwishlist:item=912150785&perks=1482024992,791862061,691659142,4082225868
 dimwishlist:item=912150785&perks=4090651448,791862061,691659142,4082225868
 dimwishlist:item=912150785&perks=1300023272,791862061,691659142,4082225868
@@ -2027,11 +2013,10 @@ dimwishlist:item=1094005544&perks=1482024992,106909392,691659142,4082225868
 dimwishlist:item=1094005544&perks=4090651448,106909392,691659142,4082225868
 dimwishlist:item=1094005544&perks=1300023272,106909392,691659142,4082225868
 dimwishlist:item=1094005544&perks=691659142,4082225868
-//}
 
 // Mindbender's Ambition (Adept)
 // Steady Hands,Well-Rounded, Fragile Focus
-//{notes:Houdini (trash): This weapon has a lot of garbage perks. Easy dismantle if it has Steady Hands, Well-Rounded or Fragile Focus|tags:trash
+//notes:Houdini (trash): This weapon has a lot of garbage perks. Easy dismantle if it has Steady Hands, Well-Rounded or Fragile Focus|tags:trash
 dimwishlist:item=-912150785&perks=509074078
 dimwishlist:item=-912150785&perks=744594675
 dimwishlist:item=-912150785&perks=2451262963
@@ -2041,12 +2026,12 @@ dimwishlist:item=-1094005544&perks=744594675
 dimwishlist:item=-1094005544&perks=2451262963
 //}
 
-// Hung Jury SR4
+//{ Hung Jury SR4
 // Polygonal Rifling,Arrowhead Brake,Smallbore
 // Steady Rounds,Tactical Mag,Flared Magwell
 // No Distractions,Surplus,Rapid Hit
 // Box Breathing,Explosive Payload
-//{notes:Houdini (PvP): No Distractions + Box Breathing is the best roll. Scout rifles aren't very popular in PvP and even if I had a perfect roll, I probably won't keep one. Maximize stability in the minor perks. Other perks to keep an eye on: Surplus, Rapid Hit, Explosive Payload. |tags:pvp
+//notes:Houdini (PvP): No Distractions + Box Breathing is the best roll. Scout rifles aren't very popular in PvP and even if I had a perfect roll, I probably won't keep one. Maximize stability in the minor perks. Other perks to keep an eye on: Surplus, Rapid Hit, Explosive Payload. |tags:pvp
 dimwishlist:item=4074251943&perks=1392496348,3177308360,2866798147,2551157718,2839173408
 dimwishlist:item=4074251943&perks=839105230,3177308360,2866798147,2551157718,2839173408
 dimwishlist:item=4074251943&perks=1482024992,3177308360,2866798147,2551157718,2839173408
@@ -2170,14 +2155,13 @@ dimwishlist:item=772231794&perks=247725512,2551157718,2839173408
 dimwishlist:item=772231794&perks=2866798147,3038247973,2839173408
 dimwishlist:item=772231794&perks=3436462433,3038247973,2839173408
 dimwishlist:item=772231794&perks=247725512,3038247973,2839173408
-//}
 
 // Hung Jury SR4
 // Arrowhead Brake,Polygonal Rifling,Smallbore
 // Tactical Mag,Appended Mag,Alloy Magazine
 // Rapid Hit
 // Frenzy,Explosive Payload
-//{notes:Houdini (PvE): Rapid Hit + Frenzy is the best roll. These days I don't use primary weapons in PvE very often and the kinetic slot is crowded with good options. Maximize recoil direction, stability, and magazine size in the minor perks. Other perks to keep an eye on: Explosive Payload|tags:pve
+//notes:Houdini (PvE): Rapid Hit + Frenzy is the best roll. These days I don't use primary weapons in PvE very often and the kinetic slot is crowded with good options. Maximize recoil direction, stability, and magazine size in the minor perks. Other perks to keep an eye on: Explosive Payload|tags:pve
 dimwishlist:item=4074251943&perks=839105230,106909392,247725512,4104185692
 dimwishlist:item=4074251943&perks=1392496348,106909392,247725512,4104185692
 dimwishlist:item=4074251943&perks=1482024992,106909392,247725512,4104185692
@@ -2221,12 +2205,11 @@ dimwishlist:item=4074251943&perks=247725512,3038247973
 
 dimwishlist:item=772231794&perks=247725512,4104185692
 dimwishlist:item=772231794&perks=247725512,3038247973
-//}
 
 // Hung Jury SR4
 // Offhand Strike,Shoot to Loot,Subsistence
 // Adagio,Gutshot Straight
-//{notes:Houdini (trash): Anything with Offhand Strike, Shoot to Loot, Subsistence, Adagio, or Gutshot Straight is a dismantle|tags:trash
+//notes:Houdini (trash): Anything with Offhand Strike, Shoot to Loot, Subsistence, Adagio, or Gutshot Straight is a dismantle|tags:trash
 dimwishlist:item=-4074251943&perks=3050799639
 dimwishlist:item=-4074251943&perks=3700496672
 dimwishlist:item=-4074251943&perks=1820235745
@@ -2242,12 +2225,12 @@ dimwishlist:item=-772231794&perks=3673922083
 dimwishlist:item=-772231794&perks=1365187766
 //}
 
-// Eyasluna
+//{ Eyasluna
 // Steadyhand HCS,Fastdraw HCS
 // Ricochet Rounds,High-Caliber Rounds
 // Rangefinder, Perpetual Motion
 // Snapshot Sights,Moving Target,
-//{notes:Houdini (PvP): Range Finder + Snapshot Sights is the best roll, but there are lots of good options on this weapon. Maximize stability in the minor perks, ideally with Ricochet Rounds or High-Caliber Rounds. Other perks to keep an eye on: Perpetual Motion, Moving Target|tags:pvp
+//notes:Houdini (PvP): Range Finder + Snapshot Sights is the best roll, but there are lots of good options on this weapon. Maximize stability in the minor perks, ideally with Ricochet Rounds or High-Caliber Rounds. Other perks to keep an eye on: Perpetual Motion, Moving Target|tags:pvp
 dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,957782887
 dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,957782887
 dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,957782887
@@ -2269,14 +2252,13 @@ dimwishlist:item=235827225&perks=2846385770,957782887
 dimwishlist:item=235827225&perks=1428297954,957782887
 dimwishlist:item=235827225&perks=2846385770,588594999
 dimwishlist:item=235827225&perks=1428297954,588594999
-//}
 
 // Eyasluna
 // Fastdraw HCS,Steadyhand HCS,Truesight HCS
 // Armor-Piercing Rounds,Ricochet Rounds,High-Caliber Rounds
 // Rangefinder, Perpetual Motion,Rapid Hit
 // Demolitionist,Headstone
-//{notes:Houdini (PvE): Both Demolitionist and Headstone are excellent 4th column options for a Stasis PvE build. In the third column, I like Rangefinder to help with longer range engagements, but there are several viable options. All scope or magazine options are viable. Other perks to keep an eye on: Perpetual Motion, Rapid Hit|tags:pve
+//notes:Houdini (PvE): Both Demolitionist and Headstone are excellent 4th column options for a Stasis PvE build. In the third column, I like Rangefinder to help with longer range engagements, but there are several viable options. All scope or magazine options are viable. Other perks to keep an eye on: Perpetual Motion, Rapid Hit|tags:pve
 dimwishlist:item=235827225&perks=1926090094,1968497646,2846385770,3523296417
 dimwishlist:item=235827225&perks=1926090095,1968497646,2846385770,3523296417
 dimwishlist:item=235827225&perks=1926090092,1968497646,2846385770,3523296417
@@ -2338,10 +2320,9 @@ dimwishlist:item=235827225&perks=247725512,3523296417
 dimwishlist:item=235827225&perks=2846385770,124408337
 dimwishlist:item=235827225&perks=1428297954,124408337
 dimwishlist:item=235827225&perks=247725512,124408337
-//}
 
 // Eyasluna
-//{notes:Houdini (trash): Heating Up and Outlaw are not automatic dismantle unless they are with your only Demolitionist/Headstone roll|tags:trash
+//notes:Houdini (trash): Heating Up and Outlaw are not automatic dismantle unless they are with your only Demolitionist/Headstone roll|tags:trash
 dimwishlist:item=235827225&perks=1570042021
 dimwishlist:item=235827225&perks=1168162263
 dimwishlist:item=235827225&perks=3124871000
