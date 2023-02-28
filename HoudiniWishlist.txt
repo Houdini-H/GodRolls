@@ -1,10 +1,6 @@
 title:Houdini's God Rolls
 description:Houdini's wishlist for the Noble Sacrifice clan and friends
 
-// 140 HC
-// Barrel Perks: 1392496348 1482024992 1840239774 3250034553 4090651448
-// Mag Perks: 106909392 3142289711 3177308360 3230963543
-
 // Exalted Truth (Adept) (god-pvp)
 //notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:god-pvp
 dimwishlist:item=3920882229&perks=1392496348,106909392,2846385770,699525795,4008116374
@@ -1617,13 +1613,13 @@ dimwishlist:item=-711889599&perks=1365187766
 
 // This Block is needed because we don't want the next trash block to reject a bow with otherwise acceptable perks, but one bad first column perk.
 //notes:Houdini: Bows are only viable with optimal (500ms) Draw Time. A 500ms Draw Time is achieved by either Elastic String or a Draw Time masterwork with Flexible String or Polymer String
-dimwishlist:item=1574601402&perks=852209214
-dimwishlist:item=1574601402&perks=4067834857
-dimwishlist:item=1574601402&perks=2801223209
-
-dimwishlist:item=711889599&perks=852209214
-dimwishlist:item=711889599&perks=4067834857
-dimwishlist:item=711889599&perks=2801223209
+//dimwishlist:item=1574601402&perks=852209214
+//dimwishlist:item=1574601402&perks=4067834857
+//dimwishlist:item=1574601402&perks=2801223209
+//
+//dimwishlist:item=711889599&perks=852209214
+//dimwishlist:item=711889599&perks=4067834857
+//dimwishlist:item=711889599&perks=2801223209
 
 // Whistler's Whim
 // Agile Bowstring,Tactile String,High Tension String,Natural String
@@ -1637,4 +1633,6 @@ dimwishlist:item=-711889599&perks=3768438372
 dimwishlist:item=-711889599&perks=1196733167
 dimwishlist:item=-711889599&perks=3371775011
 dimwishlist:item=-711889599&perks=1784898267
+
+
 
