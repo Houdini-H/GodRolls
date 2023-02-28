@@ -2351,8 +2351,50 @@ dimwishlist:item=4248569242&perks=1840239774,791862061,1866048759,3050799639
 //notes:Houdini (PvE): Heritage is the best slug shotgun in the game. Go with Fluted Barrel, Tactical Mag, Reconstruction and Recombination with a Handling Masterwork. For a DPS specific option, go with Focused Fury instead of Recombination. |tags:pve
 dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,469285294
 dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,2896038713
-
 //}
+
+//{ Gunnora's Axe 
+// Fluted Barrel,Hammer-Forged Rifling
+// Accurized Rounds
+// Moving Target,Threat Detector
+// Opening Shot
+//notes:Houdini (PvP): Moving Target + Opening Shot is the best roll for PvP. With Opening Shot, try to hit 75 base range and dump the rest of the minor stats in handling. Opening Shot is the gold standard for shotguns, so I wouldn't keep anything else in the 4th column. Threat Detector is a reasonable backup option in the 3rd column. |tags:pvp
+dimwishlist:item=487361141&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=487361141&perks=3250034553,3142289711,588594999,47981717
+dimwishlist:item=487361141&perks=1840239774,3142289711,4071163871,47981717
+dimwishlist:item=487361141&perks=3250034553,3142289711,4071163871,47981717
+
+dimwishlist:item=487361141&perks=588594999,47981717
+dimwishlist:item=487361141&perks=4071163871,47981717
+
+// Fluted Barrel,Arrowhead Brake
+// Tactical Mag,Appended Mag
+// Auto-Loading Holster : Threat Detector
+// Vorpal Weapon : Voltshot,Vorpal Weapon
+//notes:Houdini (PvE): For PvE boss DPS go with Auto-Loading Holster + Vorpal Weapon; for general PvE usage go with Threat Detector + Voltshot. For the minor perks focus on magazine size and then handling. |tags:pve
+dimwishlist:item=487361141&perks=1840239774,106909392,3300816228,1546637391
+dimwishlist:item=487361141&perks=839105230,106909392,3300816228,1546637391
+dimwishlist:item=487361141&perks=1840239774,1087426260,3300816228,1546637391
+dimwishlist:item=487361141&perks=839105230,1087426260,3300816228,1546637391
+
+dimwishlist:item=487361141&perks=3300816228,1546637391
+
+dimwishlist:item=487361141&perks=1840239774,106909392,4071163871,2173046394
+dimwishlist:item=487361141&perks=839105230,106909392,4071163871,2173046394
+dimwishlist:item=487361141&perks=1840239774,1087426260,4071163871,2173046394
+dimwishlist:item=487361141&perks=839105230,1087426260,4071163871,2173046394
+dimwishlist:item=487361141&perks=1840239774,106909392,4071163871,1546637391
+dimwishlist:item=487361141&perks=839105230,106909392,4071163871,1546637391
+dimwishlist:item=487361141&perks=1840239774,1087426260,4071163871,1546637391
+dimwishlist:item=487361141&perks=839105230,1087426260,4071163871,1546637391
+
+dimwishlist:item=487361141&perks=4071163871,2173046394
+dimwishlist:item=487361141&perks=4071163871,1546637391
+
+//notes:Houdini (??? trash ???): Anything with Slickdraw is trash|tags:trash
+dimwishlist:item=-487361141&perks=1821614984
+//}
+
 
 
 
