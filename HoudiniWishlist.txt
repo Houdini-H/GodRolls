@@ -2328,7 +2328,31 @@ dimwishlist:item=235827225&perks=1168162263
 dimwishlist:item=235827225&perks=3124871000
 //}
 
+//{ Heritage
+// Fluted Barrel
+// Assault Mag
+// Slideshot,Threat Detector
+// Moving Target
+//notes:Houdini (PvP): As a general purpose PvP shotgun: Fluted Barrel, Assault Mag, Slideshot, Moving Target with a Handling Masterwork. If you never slide, go Threat Detector instead. |tags:pvp
+dimwishlist:item=4248569242&perks=1840239774,791862061,3161816588,588594999
+dimwishlist:item=4248569242&perks=1840239774,791862061,4071163871,588594999
 
+// Fluted Barrel
+// Assault Mag
+// Hip-Fire Grip
+// Offhand Strike
+//notes:Houdini (PvP): An alternative PvP roll for Heritage is a hip fire focused weapon with: Fluted Barrel, Assault Mag, Hip-Fire Grip, Offhand Strike, and a Handling Masterwork|tags:pvp
+dimwishlist:item=4248569242&perks=1840239774,791862061,1866048759,3050799639
+
+// Fluted Barrel
+// Tactical Mag
+// Reconstruction
+// Recombination,Focused Fury
+//notes:Houdini (PvE): Heritage is the best slug shotgun in the game. Go with Fluted Barrel, Tactical Mag, Reconstruction and Recombination with a Handling Masterwork. For a DPS specific option, go with Focused Fury instead of Recombination. |tags:pve
+dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,469285294
+dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,2896038713
+
+//}
 
 
 
