@@ -2,7 +2,7 @@ title:Houdini's God Rolls
 description:Houdini's wishlist for the Noble Sacrifice clan and friends
 
 // Exalted Truth (Adept) (god-pvp)
-//notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:god-pvp
+//{notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:god-pvp
 dimwishlist:item=3920882229&perks=1392496348,106909392,2846385770,699525795,4008116374
 dimwishlist:item=3920882229&perks=1482024992,106909392,2846385770,699525795,4008116374
 dimwishlist:item=3920882229&perks=1840239774,106909392,2846385770,699525795,4008116374
@@ -24,8 +24,6 @@ dimwishlist:item=3920882229&perks=1840239774,3230963543,2846385770,699525795,400
 dimwishlist:item=3920882229&perks=3250034553,3230963543,2846385770,699525795,4008116374
 dimwishlist:item=3920882229&perks=4090651448,3230963543,2846385770,699525795,4008116374
 
-// Exalted Truth (god-pvp)
-//notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:god-pvp
 dimwishlist:item=1446461192&perks=1392496348,106909392,2846385770,699525795,4008116374
 dimwishlist:item=1446461192&perks=1482024992,106909392,2846385770,699525795,4008116374
 dimwishlist:item=1446461192&perks=1840239774,106909392,2846385770,699525795,4008116374
@@ -47,8 +45,6 @@ dimwishlist:item=1446461192&perks=1840239774,3230963543,2846385770,699525795,400
 dimwishlist:item=1446461192&perks=3250034553,3230963543,2846385770,699525795,4008116374
 dimwishlist:item=1446461192&perks=4090651448,3230963543,2846385770,699525795,4008116374
 
-// Exalted Truth (Adept) (pvp)
-//notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:pvp
 dimwishlist:item=3920882229&perks=1392496348,106909392,2846385770,699525795,4008116374
 dimwishlist:item=3920882229&perks=1482024992,106909392,2846385770,699525795,4008116374
 dimwishlist:item=3920882229&perks=1840239774,106909392,2846385770,699525795,4008116374
@@ -210,8 +206,6 @@ dimwishlist:item=3920882229&perks=1840239774,3230963543,2272927194,4104185692,40
 dimwishlist:item=3920882229&perks=3250034553,3230963543,2272927194,4104185692,4008116374
 dimwishlist:item=3920882229&perks=4090651448,3230963543,2272927194,4104185692,4008116374
 
-// Exalted Truth (pvp)
-//notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:pvp
 dimwishlist:item=1446461192&perks=1392496348,106909392,2846385770,699525795,4008116374
 dimwishlist:item=1446461192&perks=1482024992,106909392,2846385770,699525795,4008116374
 dimwishlist:item=1446461192&perks=1840239774,106909392,2846385770,699525795,4008116374
@@ -373,8 +367,6 @@ dimwishlist:item=1446461192&perks=1840239774,3230963543,2272927194,4104185692,40
 dimwishlist:item=1446461192&perks=3250034553,3230963543,2272927194,4104185692,4008116374
 dimwishlist:item=1446461192&perks=4090651448,3230963543,2272927194,4104185692,4008116374
 
-// Exalted Truth (Adept) (pvp)
-//notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:pvp
 dimwishlist:item=3920882229&perks=2846385770,699525795,4008116374
 dimwishlist:item=3920882229&perks=2272927194,699525795,4008116374
 dimwishlist:item=3920882229&perks=2846385770,1015611457,4008116374
@@ -384,8 +376,6 @@ dimwishlist:item=3920882229&perks=2272927194,3425386926,4008116374
 dimwishlist:item=3920882229&perks=2846385770,4104185692,4008116374
 dimwishlist:item=3920882229&perks=2272927194,4104185692,4008116374
 
-// Exalted Truth (pvp)
-//notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:pvp
 dimwishlist:item=1446461192&perks=2846385770,699525795,4008116374
 dimwishlist:item=1446461192&perks=2272927194,699525795,4008116374
 dimwishlist:item=1446461192&perks=2846385770,1015611457,4008116374
@@ -394,9 +384,10 @@ dimwishlist:item=1446461192&perks=2846385770,3425386926,4008116374
 dimwishlist:item=1446461192&perks=2272927194,3425386926,4008116374
 dimwishlist:item=1446461192&perks=2846385770,4104185692,4008116374
 dimwishlist:item=1446461192&perks=2272927194,4104185692,4008116374
+//}
 
 // Exalted Truth (Adept) (pve)
-//notes:Houdini (PvE): Not a weapon I would use in PvE, but if I'm keeping a PvE roll it is Rangefinder + Frenzy (which happens to be a decent PvP roll on its own). Optimize for reload and magazine size in the minor perks|tags:pve
+//{notes:Houdini (PvE): Not a weapon I would use in PvE, but if I'm keeping a PvE roll it is Rangefinder + Frenzy (which happens to be a decent PvP roll on its own). Optimize for reload and magazine size in the minor perks|tags:pve
 dimwishlist:item=3920882229&perks=1392496348,106909392,2846385770,4104185692,4008116374
 dimwishlist:item=3920882229&perks=1482024992,106909392,2846385770,4104185692,4008116374
 dimwishlist:item=3920882229&perks=1840239774,106909392,2846385770,4104185692,4008116374
@@ -418,8 +409,6 @@ dimwishlist:item=3920882229&perks=1840239774,3230963543,2846385770,4104185692,40
 dimwishlist:item=3920882229&perks=3250034553,3230963543,2846385770,4104185692,4008116374
 dimwishlist:item=3920882229&perks=4090651448,3230963543,2846385770,4104185692,4008116374
 
-// Exalted Truth (pve)
-//notes:Houdini (PvE): Not a weapon I would use in PvE, but if I'm keeping a PvE roll it is Rangefinder + Frenzy (which happens to be a decent PvP roll on its own). Optimize for reload and magazine size in the minor perks|tags:pve
 dimwishlist:item=1446461192&perks=1392496348,106909392,2846385770,4104185692,4008116374
 dimwishlist:item=1446461192&perks=1482024992,106909392,2846385770,4104185692,4008116374
 dimwishlist:item=1446461192&perks=1840239774,106909392,2846385770,4104185692,4008116374
@@ -440,29 +429,26 @@ dimwishlist:item=1446461192&perks=1482024992,3230963543,2846385770,4104185692,40
 dimwishlist:item=1446461192&perks=1840239774,3230963543,2846385770,4104185692,4008116374
 dimwishlist:item=1446461192&perks=3250034553,3230963543,2846385770,4104185692,4008116374
 dimwishlist:item=1446461192&perks=4090651448,3230963543,2846385770,4104185692,4008116374
+//}
 
 // Exalted Truth (Adept) (trash)
-//notes:Houdini: Anything with Slickdraw, Shot Swap, Under-Over, or Gutshot Straight is garbage. |tags:trash
+//{notes:Houdini: Anything with Slickdraw, Shot Swap, Under-Over, or Gutshot Straight is garbage. |tags:trash
 dimwishlist:item=-3920882229&perks=1821614984
 dimwishlist:item=-3920882229&perks=1870851715
 dimwishlist:item=-3920882229&perks=2586829431
 
-// Exalted Truth (trash)
-//notes:Houdini: Anything with Slickdraw, Shot Swap, Under-Over, or Gutshot Straight is garbage. |tags:trash
 dimwishlist:item=-1446461192&perks=1821614984
 dimwishlist:item=-1446461192&perks=1870851715
 dimwishlist:item=-1446461192&perks=2586829431
 
-// Exalted Truth (adept) (trash)
-//notes:Houdini: Anything with Slickdraw, Shot Swap, Under-Over, or Gutshot Straight is garbage. |tags:trash
 dimwishlist:item=-3920882229&perks=1365187766
 
-// Exalted Truth (trash)
-//notes:Houdini: Anything with Slickdraw, Shot Swap, Under-Over, or Gutshot Straight is garbage. |tags:trash
 dimwishlist:item=-1446461192&perks=1365187766
+//}
 
 // Burden of Guilt (Adept) (PvP)
 //notes:Houdini (PvP): Perpetual Motion + High Impact Reserves is the God Roll. Charge Time, Recoil Direction and Stability are first choice in the minor perks followed by range and handling. Other perks to keep an eye on: Harmony/Swashbuckler instead of High Impact Reserves|tags:pvp
+//{
 dimwishlist:item=2002522739&perks=839105230,689005463,1428297954,2213355989
 dimwishlist:item=2002522739&perks=3661387068,689005463,1428297954,2213355989
 dimwishlist:item=2002522739&perks=4090651448,689005463,1428297954,2213355989
@@ -476,8 +462,6 @@ dimwishlist:item=2002522739&perks=1840239774,3868766766,1428297954,2213355989
 dimwishlist:item=2002522739&perks=1392496348,3868766766,1428297954,2213355989
 dimwishlist:item=2002522739&perks=1482024992,3868766766,1428297954,2213355989
 
-// Burden of Guilt (PvP)
-//notes:Houdini (PvP): Perpetual Motion + High Impact Reserves is the God Roll. Charge Time, Recoil Direction and Stability are first choice in the minor perks followed by range and handling. Other perks to keep an eye on: Harmony/Swashbuckler instead of High Impact Reserves|tags:pvp
 dimwishlist:item=933455006&perks=839105230,689005463,1428297954,2213355989
 dimwishlist:item=933455006&perks=3661387068,689005463,1428297954,2213355989
 dimwishlist:item=933455006&perks=4090651448,689005463,1428297954,2213355989
@@ -491,8 +475,6 @@ dimwishlist:item=933455006&perks=1840239774,3868766766,1428297954,2213355989
 dimwishlist:item=933455006&perks=1392496348,3868766766,1428297954,2213355989
 dimwishlist:item=933455006&perks=1482024992,3868766766,1428297954,2213355989
 
-// Burden of Guilt (Adept) (PvP)
-//notes:Houdini (PvP): Perpetual Motion + High Impact Reserves is the God Roll. Charge Time, Recoil Direction and Stability are first choice in the minor perks followed by range and handling. Other perks to keep an eye on: Harmony/Swashbuckler instead of High Impact Reserves|tags:pvp
 dimwishlist:item=2002522739&perks=839105230,689005463,1428297954,2213355989
 dimwishlist:item=2002522739&perks=3661387068,689005463,1428297954,2213355989
 dimwishlist:item=2002522739&perks=4090651448,689005463,1428297954,2213355989
@@ -530,8 +512,6 @@ dimwishlist:item=2002522739&perks=1840239774,3868766766,1428297954,4082225868
 dimwishlist:item=2002522739&perks=1392496348,3868766766,1428297954,4082225868
 dimwishlist:item=2002522739&perks=1482024992,3868766766,1428297954,4082225868
 
-// Burden of Guilt (PvP)
-//notes:Houdini (PvP): Perpetual Motion + High Impact Reserves is the God Roll. Charge Time, Recoil Direction and Stability are first choice in the minor perks followed by range and handling. Other perks to keep an eye on: Harmony/Swashbuckler instead of High Impact Reserves|tags:pvp
 dimwishlist:item=933455006&perks=839105230,689005463,1428297954,2213355989
 dimwishlist:item=933455006&perks=3661387068,689005463,1428297954,2213355989
 dimwishlist:item=933455006&perks=4090651448,689005463,1428297954,2213355989
@@ -569,20 +549,17 @@ dimwishlist:item=933455006&perks=1840239774,3868766766,1428297954,4082225868
 dimwishlist:item=933455006&perks=1392496348,3868766766,1428297954,4082225868
 dimwishlist:item=933455006&perks=1482024992,3868766766,1428297954,4082225868
 
-// Burden of Guilt (Adept) (PvP)
-//notes:Houdini (PvP): Perpetual Motion + High Impact Reserves is the God Roll. Charge Time, Recoil Direction and Stability are first choice in the minor perks followed by range and handling. Other perks to keep an eye on: Harmony/Swashbuckler instead of High Impact Reserves|tags:pvp
 dimwishlist:item=2002522739&perks=1428297954,2213355989
 dimwishlist:item=2002522739&perks=1428297954,438098033
 dimwishlist:item=2002522739&perks=1428297954,4082225868
 
-// Burden of Guilt (PvP)
-//notes:Houdini (PvP): Perpetual Motion + High Impact Reserves is the God Roll. Charge Time, Recoil Direction and Stability are first choice in the minor perks followed by range and handling. Other perks to keep an eye on: Harmony/Swashbuckler instead of High Impact Reserves|tags:pvp
 dimwishlist:item=933455006&perks=1428297954,2213355989
 dimwishlist:item=933455006&perks=1428297954,438098033
 dimwishlist:item=933455006&perks=1428297954,4082225868
+//}
 
 // Burden of Guilt (Adept) (PvE)
-//notes:Houdini (PvE): Burden of Guilt is lacking in PvE 3rd column perks. Without Lead From Gold or Auto-Loading Holster it is hard to recommend this for PvE. If this is your only stasis fusion, the best option is Perpetual Motion with High Impact Reserves/Chill Clip/Vorpal/Swashbuckler. Prioritize charge time in the minor perks. |tags:pve
+//{notes:Houdini (PvE): Burden of Guilt is lacking in PvE 3rd column perks. Without Lead From Gold or Auto-Loading Holster it is hard to recommend this for PvE. If this is your only stasis fusion, the best option is Perpetual Motion with High Impact Reserves/Chill Clip/Vorpal/Swashbuckler. Prioritize charge time in the minor perks. |tags:pve
 dimwishlist:item=2002522739&perks=839105230,689005463,1428297954,2213355989
 dimwishlist:item=2002522739&perks=3661387068,689005463,1428297954,2213355989
 dimwishlist:item=2002522739&perks=4090651448,689005463,1428297954,2213355989
@@ -654,8 +631,6 @@ dimwishlist:item=2002522739&perks=3250034553,2680121939,1428297954,2978966579
 dimwishlist:item=2002522739&perks=1392496348,2680121939,1428297954,2978966579
 dimwishlist:item=2002522739&perks=1482024992,2680121939,1428297954,2978966579
 
-// Burden of Guilt (PvE)
-//notes:Houdini (PvE): Burden of Guilt is lacking in PvE 3rd column perks. Without Lead From Gold or Auto-Loading Holster it is hard to recommend this for PvE. If this is your only stasis fusion, the best option is Perpetual Motion with High Impact Reserves/Chill Clip/Vorpal/Swashbuckler. Prioritize charge time in the minor perks. |tags:pve
 dimwishlist:item=933455006&perks=839105230,689005463,1428297954,2213355989
 dimwishlist:item=933455006&perks=3661387068,689005463,1428297954,2213355989
 dimwishlist:item=933455006&perks=4090651448,689005463,1428297954,2213355989
@@ -727,36 +702,32 @@ dimwishlist:item=933455006&perks=3250034553,2680121939,1428297954,2978966579
 dimwishlist:item=933455006&perks=1392496348,2680121939,1428297954,2978966579
 dimwishlist:item=933455006&perks=1482024992,2680121939,1428297954,2978966579
 
-// Burden of Guilt (Adept)
-//notes:Houdini (PvE): Burden of Guilt is lacking in PvE 3rd column perks. Without Lead From Gold or Auto-Loading Holster it is hard to recommend this for PvE. If this is your only stasis fusion, the best option is Perpetual Motion with High Impact Reserves/Chill Clip/Vorpal/Swashbuckler. Prioritize charge time in the minor perks. |tags:pve
 dimwishlist:item=2002522739&perks=1428297954,2213355989
 dimwishlist:item=2002522739&perks=1428297954,438098033
 dimwishlist:item=2002522739&perks=1428297954,4082225868
 dimwishlist:item=2002522739&perks=1428297954,1546637391
 dimwishlist:item=2002522739&perks=1428297954,2978966579
 
-// Burden of Guilt
-//notes:Houdini (PvE): Burden of Guilt is lacking in PvE 3rd column perks. Without Lead From Gold or Auto-Loading Holster it is hard to recommend this for PvE. If this is your only stasis fusion, the best option is Perpetual Motion with High Impact Reserves/Chill Clip/Vorpal/Swashbuckler. Prioritize charge time in the minor perks. |tags:pve
 dimwishlist:item=933455006&perks=1428297954,2213355989
 dimwishlist:item=933455006&perks=1428297954,438098033
 dimwishlist:item=933455006&perks=1428297954,4082225868
 dimwishlist:item=933455006&perks=1428297954,1546637391
 dimwishlist:item=933455006&perks=1428297954,2978966579
+//}
 
 // Burden of Guilt (Adept)
-//notes:Houdini (trash): Anything with Steady Hands, Stats for All, Well-Rounded is garbage|tags:trash
+//{notes:Houdini (trash): Anything with Steady Hands, Stats for All, Well-Rounded is garbage|tags:trash
 dimwishlist:item=-2002522739&perks=509074078
 dimwishlist:item=-2002522739&perks=1583705720
 dimwishlist:item=-2002522739&perks=744594675
 
-// Burden of Guilt
-//notes:Houdini (trash): Anything with Steady Hands, Stats for All, Well-Rounded is garbage|tags:trash
 dimwishlist:item=-933455006&perks=509074078
 dimwishlist:item=-933455006&perks=1583705720
 dimwishlist:item=-933455006&perks=744594675
+//}
 
 // Allied Demand
-//notes:Houdini (PvP): Rangefinder + Eye of the Storm is the God Roll ideally with Ricochet Rounds. Focus on Stability and Range in the minor perks, but Handling and Reload speed are also useful. Use with the Full Auto Retrofit mod. Other perks to keep an eye on: Frenzy/Multikill Clip.|tags:pvp
+//{notes:Houdini (PvP): Rangefinder + Eye of the Storm is the God Roll ideally with Ricochet Rounds. Focus on Stability and Range in the minor perks, but Handling and Reload speed are also useful. Use with the Full Auto Retrofit mod. Other perks to keep an eye on: Frenzy/Multikill Clip.|tags:pvp
 dimwishlist:item=1532276803&perks=1392496348,1885400500,2846385770,699525795
 dimwishlist:item=1532276803&perks=1482024992,1885400500,2846385770,699525795
 dimwishlist:item=1532276803&perks=1840239774,1885400500,2846385770,699525795
@@ -865,9 +836,10 @@ dimwishlist:item=1532276803&perks=4090651448,3230963543,2846385770,2458213969
 dimwishlist:item=1532276803&perks=2846385770,699525795
 dimwishlist:item=1532276803&perks=2846385770,4104185692
 dimwishlist:item=1532276803&perks=2846385770,2458213969
+//}
 
 // Allied Demand
-//notes:Houdini (PvE): A sidearm needs an insane perk pool for me to keep a PvE roll for one and Allied Demand does not have an insane perk pool. Best option is Rangefinder + Frenzy (which happens to be a decent PvP roll on its own anyway). Optimize for reload and magazine size in minor perks. |tags:pve
+//{notes:Houdini (PvE): A sidearm needs an insane perk pool for me to keep a PvE roll for one and Allied Demand does not have an insane perk pool. Best option is Rangefinder + Frenzy (which happens to be a decent PvP roll on its own anyway). Optimize for reload and magazine size in minor perks. |tags:pve
 dimwishlist:item=1532276803&perks=1392496348,1885400500,2846385770,4104185692
 dimwishlist:item=1532276803&perks=1482024992,1885400500,2846385770,4104185692
 dimwishlist:item=1532276803&perks=1840239774,1885400500,2846385770,4104185692
@@ -940,13 +912,15 @@ dimwishlist:item=1532276803&perks=3250034553,3230963543,2846385770,2458213969
 dimwishlist:item=1532276803&perks=4090651448,3230963543,2846385770,2458213969
 dimwishlist:item=1532276803&perks=2846385770,4104185692
 dimwishlist:item=1532276803&perks=2846385770,2458213969
+//}
 
 // Allied Demand
-//notes:Houdini (trash): Anything with Well Rounded, Iron Reach, Gutshot Straight, Under-Over is garbage|tags:trash
+//{notes:Houdini (trash): Anything with Well Rounded, Iron Reach, Gutshot Straight, Under-Over is garbage|tags:trash
 dimwishlist:item=-1532276803&perks=744594675
 dimwishlist:item=-1532276803&perks=591790007
 dimwishlist:item=-1532276803&perks=1365187766
 dimwishlist:item=-1532276803&perks=1870851715
+//}
 
 // Forgiveness
 // Smallbore,Polygonal Rifling,Corkscrew Rifling,Hammer-forged Rifling,Fluted Barrel
@@ -2047,13 +2021,25 @@ dimwishlist:item=1094005544&perks=691659142,4082225868
 // Mindbender's Ambition (Adept)
 // Steady Hands,Well-Rounded, Fragile Focus
 //notes:Houdini (trash): This weapon has a lot of garbage perks. Easy dismantle if it has Steady Hands, Well-Rounded or Fragile Focus|tags:trash
-dimwishlist:item=912150785&perks=509074078
-dimwishlist:item=912150785&perks=744594675
-dimwishlist:item=912150785&perks=2451262963
+dimwishlist:item=-912150785&perks=509074078
+dimwishlist:item=-912150785&perks=744594675
+dimwishlist:item=-912150785&perks=2451262963
 
-dimwishlist:item=1094005544&perks=509074078
-dimwishlist:item=1094005544&perks=744594675
-dimwishlist:item=1094005544&perks=2451262963
+dimwishlist:item=-1094005544&perks=509074078
+dimwishlist:item=-1094005544&perks=744594675
+dimwishlist:item=-1094005544&perks=2451262963
+
+
+//{ Hung Jury SR4
+
+// Hung Jury SR4 (Adept)
+//
+//
+// No Distractions,Surplus,Rapid Hit
+// Box Breathing,Explosive Payload
+//
+
+//}
 
 
 
