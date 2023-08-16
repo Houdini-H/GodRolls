@@ -2804,6 +2804,53 @@ dimwishlist:item=-2715240478&perks=2726471870
 
 //}
 
+//{ Randy's Throwing Knife
+// Arrowhead Brake
+// Ricochet Rounds, High-Caliber Rounds
+// Zen Moment, Perpetual Motion
+// Box Breathing, Kill Clip
+//notes:Houdini (PvP): God roll is Zen Moment + Box Breathing. Optimize for recoil direction and stability in the minor perks. Perpetual Motion + Kill Clip is another viable option for more aggressive players. |tags:pvp
+dimwishlist:item=3292795429&perks=839105230,1885400500,2387244414,2551157718
+dimwishlist:item=3292795429&perks=839105230,1561002382,2387244414,2551157718
+dimwishlist:item=3292795429&perks=839105230,1885400500,1428297954,2551157718
+dimwishlist:item=3292795429&perks=839105230,1561002382,1428297954,2551157718
+dimwishlist:item=3292795429&perks=839105230,1885400500,2387244414,1015611457
+dimwishlist:item=3292795429&perks=839105230,1561002382,2387244414,1015611457
+dimwishlist:item=3292795429&perks=839105230,1885400500,1428297954,1015611457
+dimwishlist:item=3292795429&perks=839105230,1561002382,1428297954,1015611457
+dimwishlist:item=3292795429&perks=839105230,2387244414,2551157718
+dimwishlist:item=3292795429&perks=839105230,1428297954,2551157718
+dimwishlist:item=3292795429&perks=839105230,2387244414,1015611457
+dimwishlist:item=3292795429&perks=839105230,1428297954,1015611457
+
+
+// Arrowhead Brake
+// Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds
+// Rapid Hit, Perpetual Motion
+// Kinetic Tremors
+//notes:Houdini (PvE): God roll is Rapid Hit + Kinetic Tremors. Optimize for recoil direction and handling in the minor perks. It's just a scout rifle, and it's been a long time since I've used a scout rifle in PvE.|tags:pve
+dimwishlist:item=3292795429&perks=839105230,1885400500,247725512,3891536761
+dimwishlist:item=3292795429&perks=839105230,1561002382,247725512,3891536761
+dimwishlist:item=3292795429&perks=839105230,1968497646,247725512,3891536761
+dimwishlist:item=3292795429&perks=839105230,1885400500,1428297954,3891536761
+dimwishlist:item=3292795429&perks=839105230,1561002382,1428297954,3891536761
+dimwishlist:item=3292795429&perks=839105230,1968497646,1428297954,3891536761
+dimwishlist:item=3292795429&perks=247725512,3891536761
+dimwishlist:item=3292795429&perks=1428297954,3891536761
+
+//notes:Houdini: Junk perks: Perfect Float, Under-Over, Slickdraw, Shot swap, Offhand Strike, Discord, Encore, Thresh, Adaptive Munitions, 
+dimwishlist:item=-3292795429&perks=1870851715
+dimwishlist:item=-3292795429&perks=711628886
+dimwishlist:item=-3292795429&perks=1821614984
+dimwishlist:item=-3292795429&perks=2586829431
+dimwishlist:item=-3292795429&perks=416023159
+dimwishlist:item=-3292795429&perks=3978468247
+dimwishlist:item=-3292795429&perks=1195158366
+dimwishlist:item=-3292795429&perks=2726471870
+dimwishlist:item=-3292795429&perks=1048183818
+
+//}
+
 //////////////////////////////////////
 /// NIGHTFALL WEAPONS
 //////////////////////////////////////
@@ -4225,6 +4272,17 @@ dimwishlist:item=963710795&perks=839105230,1483536627,2039302152,3523296417
 dimwishlist:item=963710795&perks=1840239774,1483536627,2039302152,3523296417
 dimwishlist:item=963710795&perks=1392496348,1483536627,2039302152,3523296417
 dimwishlist:item=963710795&perks=1482024992,1483536627,2039302152,3523296417
+
+//}
+
+//{ Nasreddin
+// Jagged Edge
+// Swordmaster's Guard
+// Relentless Strikes
+// Whirlwind Blade, Surrounded
+//notes:Houdini (PvE): God roll is Relentless Strikes + Whirlwind Blade. Surrounded is also viable in some situations. |tags:pve
+dimwishlist:item=1456017061&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=1456017061&perks=3666208348,269888150,1749209109,3708227201
 
 //}
 
