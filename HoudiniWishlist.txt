@@ -4465,6 +4465,103 @@ dimwishlist:item=-177568179&perks=331667533
 
 //}
 
+//{ Mechabre
+// Fluted Barrel,Corkscrew Rifling,Smallbore
+// Accurized Rounds
+// Snapshot Sights
+// Opening Shot
+//notes:Houdini (PvP): God Roll is Snapshot Sights + Opening Shot. Optimize for handling, range, and then stability in the minor perks. |tags:pvp
+dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717
+dimwishlist:item=3871226707&perks=4090651448,3142289711,957782887,47981717
+dimwishlist:item=3871226707&perks=1482024992,3142289711,957782887,47981717
+dimwishlist:item=3871226707&perks=957782887,47981717
+
+// Fluted Barrel,Corkscrew Rifling,Smallbore
+// Tactical Mag, Appended Mag
+// Triple Tap,Clown Cartridge,Auto-Loading Holster
+// Vorpal Weapon
+//notes:Houdini (PvE): I'm definitely not worried about farming one of these. Best roll is probably Triple Tap + Vorpal Weapon. Optimize reload speed and handling in the minor perks. |tags:pve
+dimwishlist:item=3871226707&perks=1840239774,106909392,3400784728,1546637391
+dimwishlist:item=3871226707&perks=4090651448,106909392,3400784728,1546637391
+dimwishlist:item=3871226707&perks=1482024992,106909392,3400784728,1546637391
+dimwishlist:item=3871226707&perks=1840239774,1087426260,3400784728,1546637391
+dimwishlist:item=3871226707&perks=4090651448,1087426260,3400784728,1546637391
+dimwishlist:item=3871226707&perks=1482024992,1087426260,3400784728,1546637391
+dimwishlist:item=3871226707&perks=1840239774,106909392,2284787283,1546637391
+dimwishlist:item=3871226707&perks=4090651448,106909392,2284787283,1546637391
+dimwishlist:item=3871226707&perks=1482024992,106909392,2284787283,1546637391
+dimwishlist:item=3871226707&perks=1840239774,1087426260,2284787283,1546637391
+dimwishlist:item=3871226707&perks=4090651448,1087426260,2284787283,1546637391
+dimwishlist:item=3871226707&perks=1482024992,1087426260,2284787283,1546637391
+dimwishlist:item=3871226707&perks=1840239774,106909392,3300816228,1546637391
+dimwishlist:item=3871226707&perks=4090651448,106909392,3300816228,1546637391
+dimwishlist:item=3871226707&perks=1482024992,106909392,3300816228,1546637391
+dimwishlist:item=3871226707&perks=1840239774,1087426260,3300816228,1546637391
+dimwishlist:item=3871226707&perks=4090651448,1087426260,3300816228,1546637391
+dimwishlist:item=3871226707&perks=1482024992,1087426260,3300816228,1546637391
+
+//}
+
+//{ Jurassic Green
+// Arrowhead Brake
+// Flared Magwell, Tactical Mag, Accurized Rounds
+// Keep Away,Perpetual Motion
+// Headseeker
+//notes:Houdini (PvP): God Roll is Keep Away + Headseeker. Arrowhead Brake is important for recoil direction. Otherwise optimize for stability and range in the minor perks. |tags:pvp
+dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,460017080
+dimwishlist:item=3103255595&perks=839105230,106909392,3619207468,460017080
+dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,460017080
+dimwishlist:item=3103255595&perks=839105230,3230963543,1428297954,460017080
+dimwishlist:item=3103255595&perks=839105230,106909392,1428297954,460017080
+dimwishlist:item=3103255595&perks=839105230,3142289711,1428297954,460017080
+dimwishlist:item=3103255595&perks=839105230,3619207468,460017080
+dimwishlist:item=3103255595&perks=839105230,1428297954,460017080
+dimwishlist:item=3103255595&perks=3619207468,460017080
+dimwishlist:item=3103255595&perks=1428297954,460017080
+
+// Arrowhead Brake
+// Tactical Mag,Flared Magwell, 
+// Heal Clip,Perpetual Motion
+// Frenzy, Golden Tricorn,
+//notes:Houdini (PvE): Realistically I'm not using a pulse in PvE. Best roll is Heal Clip + Frenzy. Arrowhead Brake is important for recoil direction. Otherwise optimize for reload speed in the minor perks. |tags:pve
+dimwishlist:item=3103255595&perks=839105230,106909392,3017780555,4104185692
+dimwishlist:item=3103255595&perks=839105230,3230963543,3017780555,4104185692
+dimwishlist:item=3103255595&perks=839105230,106909392,1428297954,4104185692
+dimwishlist:item=3103255595&perks=839105230,3230963543,1428297954,4104185692
+dimwishlist:item=3103255595&perks=839105230,106909392,3017780555,2610012052
+dimwishlist:item=3103255595&perks=839105230,3230963543,3017780555,2610012052
+dimwishlist:item=3103255595&perks=839105230,106909392,1428297954,2610012052
+dimwishlist:item=3103255595&perks=839105230,3230963543,1428297954,2610012052
+dimwishlist:item=3103255595&perks=839105230,3017780555,4104185692
+dimwishlist:item=3103255595&perks=839105230,1428297954,4104185692
+dimwishlist:item=3103255595&perks=839105230,3017780555,2610012052
+dimwishlist:item=3103255595&perks=839105230,1428297954,2610012052
+dimwishlist:item=3103255595&perks=3017780555,4104185692
+dimwishlist:item=3103255595&perks=1428297954,4104185692
+dimwishlist:item=3103255595&perks=3017780555,2610012052
+dimwishlist:item=3103255595&perks=1428297954,2610012052
+
+//}
+
+//{ Acosmic
+// Quick Launch
+// Proximity Grenades
+// Impulse Amplifier
+// Explosive Light
+//notes:Houdini (PvP): God roll is Impulse Amplifier + Explosive Light with Proximity Grenades. Optimize for velocity in the minor perks. |tags:pvp
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3194351027
+dimwishlist:item=413901114&perks=951095735,3194351027
+
+// Quick Launch
+// Spike Grenades
+// Clown Cartridge
+// Explosive Light
+//notes:Houdini (PvE): Probably not worth holding onto one of these since there are better options in the game. Best roll is Clown Cartridge + Explosive Light. Optimize for reload speed in the minor perks. |tags:pve
+dimwishlist:item=413901114&perks=3525010810,3301904089,2284787283,3194351027
+dimwishlist:item=413901114&perks=2284787283,3194351027
+
+//}
+
 
 //////////////////////////////////////
 /// EXOTIC WEAPONS
