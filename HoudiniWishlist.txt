@@ -2543,6 +2543,65 @@ dimwishlist:item=-1973107014&perks=1821614984
 
 //}
 
+//{ Cataphract GL3 
+// Quick Launch
+// Proximity Grenades
+// Impulse Amplifier
+// Chain Reaction
+//notes:Houdini (PvP): God roll is Impulse Amplifier + Chain Reaction with Proximity Grenades. Optimize for velocity and handling in the minor perks|tags:pvp
+dimwishlist:item=874623537&perks=3525010810,409831596,951095735,2396489472
+dimwishlist:item=874623537&perks=409831596,951095735,2396489472
+dimwishlist:item=874623537&perks=951095735,2396489472
+dimwishlist:item=2738601016&perks=3525010810,409831596,951095735,2396489472
+dimwishlist:item=2738601016&perks=409831596,951095735,2396489472
+dimwishlist:item=2738601016&perks=951095735,2396489472
+
+// Quick Launch
+// Spike Grenades
+// Envious Assassin, Auto-Loading Holster, Demolitionist
+// Bait and Switch, Explosive Light
+//notes:Houdini (PvE): God roll is Envious Assassin + Bait and Switch with Spike Grenades. Optimize for velocity, reload speed, and handling in the minor perks. Other viable perks include Auto-Loading Holster, Demolitionist. Explosive Light is a reasonable damage perk but the priority should be on Bait and Switch. |tags:pve
+dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=874623537&perks=3525010810,3301904089,3300816228,3078487919
+dimwishlist:item=874623537&perks=3525010810,3301904089,3523296417,3078487919
+dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,3194351027
+dimwishlist:item=874623537&perks=3525010810,3301904089,3300816228,3194351027
+dimwishlist:item=874623537&perks=3525010810,3301904089,3523296417,3194351027
+dimwishlist:item=874623537&perks=968510818,3078487919
+dimwishlist:item=874623537&perks=3300816228,3078487919
+dimwishlist:item=874623537&perks=3523296417,3078487919
+dimwishlist:item=874623537&perks=968510818,3194351027
+dimwishlist:item=874623537&perks=3300816228,3194351027
+dimwishlist:item=874623537&perks=3523296417,3194351027
+dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=2738601016&perks=3525010810,3301904089,3300816228,3078487919
+dimwishlist:item=2738601016&perks=3525010810,3301904089,3523296417,3078487919
+dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3194351027
+dimwishlist:item=2738601016&perks=3525010810,3301904089,3300816228,3194351027
+dimwishlist:item=2738601016&perks=3525010810,3301904089,3523296417,3194351027
+dimwishlist:item=2738601016&perks=968510818,3078487919
+dimwishlist:item=2738601016&perks=3300816228,3078487919
+dimwishlist:item=2738601016&perks=3523296417,3078487919
+dimwishlist:item=2738601016&perks=968510818,3194351027
+dimwishlist:item=2738601016&perks=3300816228,3194351027
+dimwishlist:item=2738601016&perks=3523296417,3194351027
+
+
+//}
+
+//{ Eye of Sol 
+// Fluted Barrel
+// Accurized Rounds
+// Moving Target
+// Snapshot Sights
+//notes:Houdini (PvP): Moving Target + Snapshot Sights is the best option available. Optimize for handling, range, and then stability in the minor perks. |tags:pvp
+dimwishlist:item=2059255495&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=2059255495&perks=588594999,957782887
+dimwishlist:item=1401300690&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=1401300690&perks=588594999,957782887
+
+//}
+
 //////////////////////////////////////
 /// IRON BANNER WEAPONS
 //////////////////////////////////////
@@ -2892,6 +2951,33 @@ dimwishlist:item=2189073092&perks=3619207468,365154968
 dimwishlist:item=2189073092&perks=923806249,1890422124
 dimwishlist:item=2189073092&perks=1359896290,1890422124
 dimwishlist:item=2189073092&perks=3619207468,1890422124
+
+//}
+
+//{ Riiswalker
+// Barrel Shroud,Corkscrew Rifling
+// Accurized Rounds,Assault Mag
+// Slideshot
+// Opening Shot
+//notes:Houdini (PvP): Hold on to any old rolls with Quickdraw. The current best roll is Slideshot + Opening Shot. Optimize for range and handling in the minor perks. |tags:pvp
+dimwishlist:item=1764868900&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=1764868900&perks=4090651448,3142289711,3161816588,47981717
+dimwishlist:item=1764868900&perks=1300023272,791862061,3161816588,47981717
+dimwishlist:item=1764868900&perks=4090651448,791862061,3161816588,47981717
+dimwishlist:item=1764868900&perks=3161816588,47981717
+
+// Barrel Shroud,Corkscrew Rifling
+// Assault Mag
+// Slideshot, Surplus
+// Vorpal Weapon
+//notes:Houdini (PvE): For PvE shotgun swapping anything with Vorpal will work. Slideshot or Surplus are probably the best option. Optimize for handling in the minor perks. |tags:pve
+dimwishlist:item=1764868900&perks=1300023272,791862061,3161816588,1546637391
+dimwishlist:item=1764868900&perks=4090651448,791862061,3161816588,1546637391
+dimwishlist:item=1764868900&perks=1300023272,791862061,3436462433,1546637391
+dimwishlist:item=1764868900&perks=4090651448,791862061,3436462433,1546637391
+dimwishlist:item=1764868900&perks=3161816588,1546637391
+dimwishlist:item=1764868900&perks=3436462433,1546637391
+dimwishlist:item=1764868900&perks=1546637391
 
 //}
 
@@ -4202,12 +4288,13 @@ dimwishlist:item=4248569242&perks=1840239774,791862061,4071163871,588594999
 dimwishlist:item=4248569242&perks=1840239774,791862061,1866048759,3050799639
 
 // Fluted Barrel
-// Tactical Mag
+// Assault Mag, Tactical Mag
 // Reconstruction
-// Recombination,Focused Fury
-//notes:Houdini (PvE): Heritage is the best slug shotgun in the game. Go with Fluted Barrel, Tactical Mag, Reconstruction and Recombination with a Handling Masterwork. For a DPS specific option, go with Focused Fury instead of Recombination. |tags:pve
+// Recombination
+//notes:Houdini (PvE): Go with Fluted Barrel, Assault Mag, Reconstruction and Recombination with a Handling Masterwork.|tags:pve
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294
 dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,469285294
-dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,2896038713
+
 //}
 
 //////////////////////////////////////
@@ -4293,13 +4380,15 @@ dimwishlist:item=1986287028&perks=3250034553,1885400500,3418782618,4104185692
 dimwishlist:item=135029084&perks=1840239774,3142289711,1523832109,47981717
 dimwishlist:item=522366885&perks=1840239774,3142289711,1523832109,47981717
 
-// Arrowhead Brake
-// Tactical Mag
+// Fluted Barrel
+// Assault Mag,Tactical Mag
 // Reconstruction
-// Focused Fury
-//notes:Houdini (PvE): God Roll is Reconstruction + Focused Fury with Arrowhead Brake, Tactical Mag, and a Handling masterwork|tags:pve
-dimwishlist:item=135029084&perks=839105230,106909392,1523832109,2896038713
-dimwishlist:item=522366885&perks=839105230,106909392,1523832109,2896038713
+// Vorpal Weapon
+//notes:Houdini (PvE): God Roll is Reconstruction + Vorpal Weapon with Fluted Barrel, Assault Mag, and a Handling masterwork. Ideal for double slug swapping with Heritage|tags:pve
+dimwishlist:item=135029084&perks=1840239774,791862061,1523832109,1546637391
+dimwishlist:item=135029084&perks=1840239774,106909392,1523832109,1546637391
+dimwishlist:item=522366885&perks=1840239774,791862061,1523832109,1546637391
+dimwishlist:item=522366885&perks=1840239774,106909392,1523832109,1546637391
 
 //}
 
@@ -4806,6 +4895,45 @@ dimwishlist:item=413901114&perks=951095735,3194351027
 //notes:Houdini (PvE): Probably not worth holding onto one of these since there are better options in the game. Best roll is Clown Cartridge + Explosive Light. Optimize for reload speed in the minor perks. |tags:pve
 dimwishlist:item=413901114&perks=3525010810,3301904089,2284787283,3194351027
 dimwishlist:item=413901114&perks=2284787283,3194351027
+
+//}
+
+//////////////////////////////////////
+/// DAWNING WEAPONS
+//////////////////////////////////////
+
+//{ Stay Frosty
+// Arrowhead Brake
+// Tactical Mag,Accurized Rounds
+// Moving Target
+// Headseeker
+// God Roll is Moving Target + Headseeker. Ideally you want one with Arrowhead Brake to help control the recoil. Optimize for stability in the minor perks. 
+//notes:Houdini (PvP): God Roll is Moving Target + Headseeker. Ideally you want one with Arrowhead Brake to help control the recoil. Optimize for stability in the minor perks. |tags:pvp
+dimwishlist:item=1891321753&perks=839105230,106909392,588594999,460017080
+dimwishlist:item=1891321753&perks=839105230,3142289711,588594999,460017080
+dimwishlist:item=1891321753&perks=839105230,588594999,460017080
+dimwishlist:item=1891321753&perks=588594999,460017080
+
+//}
+
+//{ Cold Front
+// Smallbore
+// Accurized Rounds
+// Tap the Trigger
+// Rangefinder
+//notes:Houdini (PvP): Best option is Tap the Trigger + Rangefinder. Optimize for stability and range in the minor perks. I wouldn't recommend holding on to one of these unless you don't have access to Immortal. |tags:pvp
+dimwishlist:item=3206190066&perks=1482024992,3142289711,1890422124,2846385770
+dimwishlist:item=3206190066&perks=1890422124,2846385770
+
+// Smallbore
+// Tactical Mag
+// Unrelenting,Subsistence
+// Frenzy
+//notes:Houdini (PvE): Best option is Unrelenting + Frenzy. Optimize for stability and range in the minor perks. I wouldn't recommend holding on to one of these unless you don't have a better kinetic SMG option|tags:pve
+dimwishlist:item=3206190066&perks=1482024992,106909392,3108830275,4104185692
+dimwishlist:item=3206190066&perks=1482024992,106909392,1820235745,4104185692
+dimwishlist:item=3206190066&perks=3108830275,4104185692
+dimwishlist:item=3206190066&perks=1820235745,4104185692
 
 //}
 
