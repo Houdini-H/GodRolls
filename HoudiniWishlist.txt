@@ -2602,6 +2602,58 @@ dimwishlist:item=1401300690&perks=588594999,957782887
 
 //}
 
+//{ Incisor
+// Smallbore
+// Light Battery
+// Perpetual Motion,Zen Moment,Dynamic Sway Reduction
+// Kill Clip,Tap the Trigger
+//notes:Houdini (PvP): For PvP, I'm going against my usual recommendations and picking Perpetual Motion with Kill Clip. For more neutral game based perk selection, go with Dynamic Sway Reduction and Tap the Trigger|tags:pvp
+dimwishlist:item=2421180981&perks=1482024992,2749775325,1428297954,1015611457
+dimwishlist:item=2421180981&perks=1482024992,2749775325,2387244414,1015611457
+dimwishlist:item=2421180981&perks=1482024992,2749775325,1359896290,1015611457
+dimwishlist:item=2421180981&perks=1482024992,2749775325,1428297954,1890422124
+dimwishlist:item=2421180981&perks=1482024992,2749775325,2387244414,1890422124
+dimwishlist:item=2421180981&perks=1482024992,2749775325,1359896290,1890422124
+dimwishlist:item=2421180981&perks=1428297954,1015611457
+dimwishlist:item=2421180981&perks=2387244414,1015611457
+dimwishlist:item=2421180981&perks=1359896290,1015611457
+dimwishlist:item=2421180981&perks=1428297954,1890422124
+dimwishlist:item=2421180981&perks=2387244414,1890422124
+dimwishlist:item=2421180981&perks=1359896290,1890422124
+dimwishlist:item=4248997900&perks=1482024992,2749775325,1428297954,1015611457
+dimwishlist:item=4248997900&perks=1482024992,2749775325,2387244414,1015611457
+dimwishlist:item=4248997900&perks=1482024992,2749775325,1359896290,1015611457
+dimwishlist:item=4248997900&perks=1482024992,2749775325,1428297954,1890422124
+dimwishlist:item=4248997900&perks=1482024992,2749775325,2387244414,1890422124
+dimwishlist:item=4248997900&perks=1482024992,2749775325,1359896290,1890422124
+dimwishlist:item=4248997900&perks=1428297954,1015611457
+dimwishlist:item=4248997900&perks=2387244414,1015611457
+dimwishlist:item=4248997900&perks=1359896290,1015611457
+dimwishlist:item=4248997900&perks=1428297954,1890422124
+dimwishlist:item=4248997900&perks=2387244414,1890422124
+dimwishlist:item=4248997900&perks=1359896290,1890422124
+
+// Smallbore, Fluted Barrel
+// Enhanced Battery
+// Envious Assassin,Slice
+// Killing Tally
+//notes:Houdini (PvE): God roll is Envious Assassin + Killing Tally. For Hunter builds, Slice is also potentially viable because of the short dodge cool down. Optimize for reload speed in the minor perks. |tags:pve
+dimwishlist:item=2421180981&perks=1482024992,2680121939,968510818,2782457288
+dimwishlist:item=2421180981&perks=1840239774,2680121939,968510818,2782457288
+dimwishlist:item=2421180981&perks=1482024992,2680121939,923806249,2782457288
+dimwishlist:item=2421180981&perks=1840239774,2680121939,923806249,2782457288
+dimwishlist:item=2421180981&perks=968510818,2782457288
+dimwishlist:item=2421180981&perks=923806249,2782457288
+dimwishlist:item=4248997900&perks=1482024992,2680121939,968510818,2782457288
+dimwishlist:item=4248997900&perks=1840239774,2680121939,968510818,2782457288
+dimwishlist:item=4248997900&perks=1482024992,2680121939,923806249,2782457288
+dimwishlist:item=4248997900&perks=1840239774,2680121939,923806249,2782457288
+dimwishlist:item=4248997900&perks=968510818,2782457288
+dimwishlist:item=4248997900&perks=923806249,2782457288
+
+	
+//}
+
 //////////////////////////////////////
 /// IRON BANNER WEAPONS
 //////////////////////////////////////
@@ -3176,7 +3228,7 @@ dimwishlist:item=-3292795429&perks=1048183818
 // Accurized Rounds,Flared Magwell,
 // Dynamic Sway Reduction,Moving Target,Perpetual Motion
 // Target Lock,Tap the Trigger,Rangefinder,Collective Action
-//notes:Houdini (PvP): God roll is Dynamic Sway Reduction + Target Lock. Optimize for Stability and range in the minor perks. Other viable perks: Moving Target, Perpetual Motion, Tap the Trigger, Rangefinder, Collective Action. |tags:pvp
+//notes:Houdini (PvP): God roll is Dynamic Sway Reduction + Target Lock. I'm also specifically looking for a Moving Target + Target Lock roll for Peacekeeper Titan builds. Optimize for Stability and range in the minor perks. Other viable perks: Moving Target, Perpetual Motion, Tap the Trigger, Rangefinder, Collective Action. |tags:pvp
 dimwishlist:item=2510526114&perks=1482024992,3142289711,1359896290,365154968
 dimwishlist:item=2510526114&perks=1392496348,3142289711,1359896290,365154968
 dimwishlist:item=2510526114&perks=3250034553,3142289711,1359896290,365154968
@@ -3347,6 +3399,27 @@ dimwishlist:item=2510526114&perks=3523296417,365154968
 dimwishlist:item=2510526114&perks=1428297954,365154968
 dimwishlist:item=2510526114&perks=3523296417,3324494224
 dimwishlist:item=2510526114&perks=1428297954,3324494224
+
+//}
+
+//{ Retrofuturist
+// Barrel Shroud, Corkscrew Rifling
+// Assault Mag
+// Auto-Loading Holster, Quickdraw
+// Vorpal Weapon, Frenzy
+//notes:Houdini (PvE): I want one of these for double pellet shotgun swapping. God roll is Auto-Loading Holster + Vorpal Weapon. Optimize for handling in the minor perks. Other viable perks include Quickdraw if running Rain of Fire or Frenzy. |tags:pve
+dimwishlist:item=1612781792&perks=1300023272,791862061,3300816228,1546637391
+dimwishlist:item=1612781792&perks=4090651448,791862061,3300816228,1546637391
+dimwishlist:item=1612781792&perks=1300023272,791862061,706527188,1546637391
+dimwishlist:item=1612781792&perks=4090651448,791862061,706527188,1546637391
+dimwishlist:item=1612781792&perks=1300023272,791862061,3300816228,4104185692
+dimwishlist:item=1612781792&perks=4090651448,791862061,3300816228,4104185692
+dimwishlist:item=1612781792&perks=1300023272,791862061,706527188,4104185692
+dimwishlist:item=1612781792&perks=4090651448,791862061,706527188,4104185692
+dimwishlist:item=1612781792&perks=3300816228,1546637391
+dimwishlist:item=1612781792&perks=706527188,1546637391
+dimwishlist:item=1612781792&perks=3300816228,4104185692
+dimwishlist:item=1612781792&perks=706527188,4104185692
 
 //}
 
@@ -4011,6 +4084,27 @@ dimwishlist:item=496556698&perks=2801223209,3429800428,201365942,4293542123
 dimwishlist:item=192784503&perks=2801223209,3429800428,201365942,555281244
 dimwishlist:item=192784503&perks=2801223209,3429800428,201365942,3365897133
 dimwishlist:item=192784503&perks=2801223209,3429800428,201365942,4293542123
+
+//}
+
+//{ Undercurrent
+// Quick Launch
+// High-Velocity Rounds
+// Demolitionist,Lead From Gold,Ambitious Assassin
+// Voltshot,Adrenaline Junkie
+//notes:Houdini (PvE): Not as good as Forbearance, but I'd still keep a roll. God roll is Demolitionist + Voltshot. Optimize for reload speed and velocity in the minor perks. Other viable options: Lead From Gold, Ambitious Assassin, Adrenaline Junkie.  |tags:pve
+dimwishlist:item=672957262&perks=3525010810,2822142346,3523296417,2173046394
+dimwishlist:item=672957262&perks=3525010810,2822142346,1556840489,2173046394
+dimwishlist:item=672957262&perks=3525010810,2822142346,2010801679,2173046394
+dimwishlist:item=672957262&perks=3525010810,2822142346,3523296417,11612903
+dimwishlist:item=672957262&perks=3525010810,2822142346,1556840489,11612903
+dimwishlist:item=672957262&perks=3525010810,2822142346,2010801679,11612903
+dimwishlist:item=672957262&perks=3523296417,2173046394
+dimwishlist:item=672957262&perks=1556840489,2173046394
+dimwishlist:item=672957262&perks=2010801679,2173046394
+dimwishlist:item=672957262&perks=3523296417,11612903
+dimwishlist:item=672957262&perks=1556840489,11612903
+dimwishlist:item=672957262&perks=2010801679,11612903
 
 //}
 
@@ -4937,6 +5031,37 @@ dimwishlist:item=3206190066&perks=1820235745,4104185692
 
 //}
 
+//{ Glacioclasm
+// Arrowhead Brake
+// Accelerated Coils
+// Under Pressure,Slideshot
+// Eye of the Storm,High Impact Reserves
+//notes:Houdini (PvP): God roll is Under Pressure + Eye of the Storm. Other viable perks include Slideshot and High Impact Reserves. Optimize for charge time, recoil direction, and stability in the minor perks. |tags:pvp
+dimwishlist:item=2728851518&perks=839105230,689005463,1645158859,699525795
+dimwishlist:item=2728851518&perks=839105230,689005463,3161816588,699525795
+dimwishlist:item=2728851518&perks=839105230,689005463,1645158859,2213355989
+dimwishlist:item=2728851518&perks=839105230,689005463,3161816588,2213355989
+dimwishlist:item=2728851518&perks=1645158859,699525795
+dimwishlist:item=2728851518&perks=3161816588,699525795
+dimwishlist:item=2728851518&perks=1645158859,2213355989
+dimwishlist:item=2728851518&perks=3161816588,2213355989
+
+
+// Arrowhead Brake
+// Accelerated Coils
+// Overflow,Slideshot
+// Controlled Burst,Reservoir Burst
+//notes:Houdini (PvE):  I'm probably not keeping one of these for PvE, but if I did it would be Overflow + Controlled Burst. Optimize for charge time and recoil direction in the minor perks. Other viable perks include Slideshot and Reservoir Burst|tags:pve
+dimwishlist:item=2728851518&perks=839105230,689005463,3643424744,2594592626
+dimwishlist:item=2728851518&perks=839105230,689005463,3161816588,2594592626
+dimwishlist:item=2728851518&perks=839105230,689005463,3643424744,1427256713
+dimwishlist:item=2728851518&perks=839105230,689005463,3161816588,1427256713
+dimwishlist:item=2728851518&perks=3643424744,2594592626
+dimwishlist:item=2728851518&perks=3161816588,2594592626
+dimwishlist:item=2728851518&perks=3643424744,1427256713
+dimwishlist:item=2728851518&perks=3161816588,1427256713
+
+//}
 
 //////////////////////////////////////
 /// EXOTIC WEAPONS
@@ -5239,6 +5364,19 @@ dimwishlist:item=334171687&perks=3161816588,47981717
 dimwishlist:item=334171687&perks=2846385770,957782887
 dimwishlist:item=334171687&perks=3161816588,957782887
 
+// Hammer-Forged Rifling, Smallbore
+// Ricochet Rounds
+// Perpetual Motion, Rangefinder
+// Opening Shot
+//notes:Houdini (PvP): God Roll is Perpetual Motion + Opening Shot. Optimize for range and stability in the minor perks. Rangefinder is also a reasonable choice. Realistically speaking there are better 140s, so I'm probably not keeping one of these. |tags:pvp
+dimwishlist:item=3723679465&perks=3250034553,1885400500,1428297954,47981717
+dimwishlist:item=3723679465&perks=1482024992,1885400500,1428297954,47981717
+dimwishlist:item=3723679465&perks=3250034553,1885400500,2846385770,47981717
+dimwishlist:item=3723679465&perks=1482024992,1885400500,2846385770,47981717
+dimwishlist:item=3723679465&perks=1428297954,47981717
+dimwishlist:item=3723679465&perks=2846385770,47981717
+
+
 // Steadyhand HCS,Fastdraw HCS
 // Appended Mag,Alloy Magazine,Ricochet Rounds,High-Caliber Rounds,
 // Slideshot,Rangefinder,Rapid Hit
@@ -5268,6 +5406,17 @@ dimwishlist:item=334171687&perks=1926090095,1885400500,247725512,1546637391
 dimwishlist:item=334171687&perks=1926090094,1885400500,247725512,1546637391
 dimwishlist:item=334171687&perks=1926090095,1561002382,247725512,1546637391
 dimwishlist:item=334171687&perks=1926090094,1561002382,247725512,1546637391
+
+// Smallbore, Fluted Barrel
+// Ricochet Rounds, Armor-Piercing Rounds
+// Perpetual Motion
+// Voltshot
+//notes:Houdini (PvE): There are better options for Arc hand cannons in PvE. God roll is Perpetual Motion + Voltshot. Optimize for reload speed in the minor perks. |tags:pve
+dimwishlist:item=3723679465&perks=1482024992,1885400500,1428297954,2173046394
+dimwishlist:item=3723679465&perks=1840239774,1885400500,1428297954,2173046394
+dimwishlist:item=3723679465&perks=1482024992,1968497646,1428297954,2173046394
+dimwishlist:item=3723679465&perks=1840239774,1968497646,1428297954,2173046394
+dimwishlist:item=3723679465&perks=1428297954,2173046394
 
 // Waking Vigil
 //notes:Houdini (trash): Anything with Disruption Break or Outlaw is trash
@@ -5994,3 +6143,18 @@ dimwishlist:item=-1999754402&perks=3722653512
 
 //}
 
+//////////////////////////////////////
+/// SEASON OF THE WISH (Season 23) WEAPONS
+//////////////////////////////////////
+
+//{ Appetence
+// Fluted Barrel
+// Enhanced Battery
+// Demolitionist,Overflow
+// Killing Tally
+//notes:Houdini (PvE): I'm very tempted to run Overflow with this, but for Stasis builds I think Demolitionist is the better option. God Roll: Demolitionist + Killing Tally with Fluted Barrel, Enhanced Battery and a Range masterwork. |tags:pve
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3523296417,2782457288
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3643424744,2782457288
+
+	
+//}
