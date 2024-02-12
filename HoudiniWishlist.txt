@@ -6476,10 +6476,9 @@ dimwishlist:item=-1999754402&perks=3722653512
 // Demolitionist,Overflow
 // Killing Tally
 //notes:Houdini (PvE): I'm very tempted to run Overflow with this, but for Stasis builds I think Demolitionist is the better option. God Roll: Demolitionist + Killing Tally with Fluted Barrel, Enhanced Battery and a Range masterwork. |tags:pve
-dimwishlist:item=4153087276&perks=1840239774,2680121939,3523296417,2782457288
-dimwishlist:item=4153087276&perks=1840239774,2680121939,3643424744,2782457288
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3523296417,557221067
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3643424744,557221067
 
-	
 //}
 
 //{ Doomed Petitioner
