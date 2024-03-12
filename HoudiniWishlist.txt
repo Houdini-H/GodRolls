@@ -2605,51 +2605,39 @@ dimwishlist:item=1401300690&perks=588594999,957782887
 //{ Incisor
 // Smallbore
 // Light Battery
-// Perpetual Motion,Zen Moment,Dynamic Sway Reduction
-// Kill Clip,Tap the Trigger
-//notes:Houdini (PvP): For PvP, I'm going against my usual recommendations and picking Perpetual Motion with Kill Clip. For more neutral game based perk selection, go with Dynamic Sway Reduction and Tap the Trigger|tags:pvp
-dimwishlist:item=2421180981&perks=1482024992,2749775325,1428297954,1015611457
-dimwishlist:item=2421180981&perks=1482024992,2749775325,2387244414,1015611457
-dimwishlist:item=2421180981&perks=1482024992,2749775325,1359896290,1015611457
+// Zen Moment,Perpetual Motion,Dynamic Sway Reduction
+// Tap the Trigger
+//notes:Houdini (PvP): For PvP, you probably won't have enough ammo to make kill-clip work, so Zen Moment + Tap the Trigger is the best option. Dynamic Sway Reduction or Perpetual Motion is also viable. |tags:pvp
 dimwishlist:item=2421180981&perks=1482024992,2749775325,1428297954,1890422124
 dimwishlist:item=2421180981&perks=1482024992,2749775325,2387244414,1890422124
 dimwishlist:item=2421180981&perks=1482024992,2749775325,1359896290,1890422124
-dimwishlist:item=2421180981&perks=1428297954,1015611457
-dimwishlist:item=2421180981&perks=2387244414,1015611457
-dimwishlist:item=2421180981&perks=1359896290,1015611457
 dimwishlist:item=2421180981&perks=1428297954,1890422124
 dimwishlist:item=2421180981&perks=2387244414,1890422124
 dimwishlist:item=2421180981&perks=1359896290,1890422124
-dimwishlist:item=4248997900&perks=1482024992,2749775325,1428297954,1015611457
-dimwishlist:item=4248997900&perks=1482024992,2749775325,2387244414,1015611457
-dimwishlist:item=4248997900&perks=1482024992,2749775325,1359896290,1015611457
 dimwishlist:item=4248997900&perks=1482024992,2749775325,1428297954,1890422124
 dimwishlist:item=4248997900&perks=1482024992,2749775325,2387244414,1890422124
 dimwishlist:item=4248997900&perks=1482024992,2749775325,1359896290,1890422124
-dimwishlist:item=4248997900&perks=1428297954,1015611457
-dimwishlist:item=4248997900&perks=2387244414,1015611457
-dimwishlist:item=4248997900&perks=1359896290,1015611457
 dimwishlist:item=4248997900&perks=1428297954,1890422124
 dimwishlist:item=4248997900&perks=2387244414,1890422124
 dimwishlist:item=4248997900&perks=1359896290,1890422124
 
 // Smallbore, Fluted Barrel
 // Enhanced Battery
-// Envious Assassin,Slice
+// Subsistence,Envious Assassin
 // Killing Tally
-//notes:Houdini (PvE): God roll is Envious Assassin + Killing Tally. For Hunter builds, Slice is also potentially viable because of the short dodge cool down. Optimize for reload speed in the minor perks. |tags:pve
-dimwishlist:item=2421180981&perks=1482024992,2680121939,968510818,557221067
-dimwishlist:item=2421180981&perks=1840239774,2680121939,968510818,557221067
-dimwishlist:item=2421180981&perks=1482024992,2680121939,923806249,557221067
-dimwishlist:item=2421180981&perks=1840239774,2680121939,923806249,557221067
-dimwishlist:item=2421180981&perks=968510818,557221067
-dimwishlist:item=2421180981&perks=923806249,557221067
-dimwishlist:item=4248997900&perks=1482024992,2680121939,968510818,557221067
-dimwishlist:item=4248997900&perks=1840239774,2680121939,968510818,557221067
-dimwishlist:item=4248997900&perks=1482024992,2680121939,923806249,557221067
-dimwishlist:item=4248997900&perks=1840239774,2680121939,923806249,557221067
-dimwishlist:item=4248997900&perks=968510818,557221067
-dimwishlist:item=4248997900&perks=923806249,557221067
+//notes:Houdini (PvE): God roll is Subsistence + Killing Tally. I'll also hold on to Envious Assassin, but Envious Assassin is unlikely to activate since I'm likely using my trace rifle for add clearing and not getting a lot of kills with my other weapons. For Hunters a Slice + Kill Clip roll also has potential.  Optimize for reload speed in the minor perks|tags:pve
+dimwishlist:item=2421180981&perks=1482024992,2680121939,1820235745,2782457288
+dimwishlist:item=2421180981&perks=1840239774,2680121939,1820235745,2782457288
+dimwishlist:item=2421180981&perks=1482024992,2680121939,968510818,2782457288
+dimwishlist:item=2421180981&perks=1840239774,2680121939,968510818,2782457288
+dimwishlist:item=2421180981&perks=1820235745,2782457288
+dimwishlist:item=2421180981&perks=968510818,2782457288
+dimwishlist:item=4248997900&perks=1482024992,2680121939,1820235745,2782457288
+dimwishlist:item=4248997900&perks=1840239774,2680121939,1820235745,2782457288
+dimwishlist:item=4248997900&perks=1482024992,2680121939,968510818,2782457288
+dimwishlist:item=4248997900&perks=1840239774,2680121939,968510818,2782457288
+dimwishlist:item=4248997900&perks=1820235745,2782457288
+dimwishlist:item=4248997900&perks=968510818,2782457288
 
 //}
 
@@ -4709,23 +4697,57 @@ dimwishlist:item=342514437&perks=839105230,1885400500,1523832109,3299896859
 //////////////////////////////////////
 
 //{ Taraxippos
+
+// 2024
+// Arrowhead Brake
+// Steady Rounds,Flared Magwell,Tactical Mag
+// Zen Moment,Eye of the Storm,Moving Target
+// Explosive Payload
+// Not much has changed this year. God Roll is still Zen Moment + Explosive Payload. Eye of the Storm or Moving Target are also viable perks. Optimize for recoil direction and stability in the minor perks. 
+//notes:Houdini (PvP): Not much has changed this year. God Roll is still Zen Moment + Explosive Payload. Eye of the Storm or Moving Target are also viable perks. Optimize for recoil direction and stability in the minor perks. |tags:pvp
+dimwishlist:item=3007479950&perks=839105230,3177308360,2387244414,3038247973
+dimwishlist:item=3007479950&perks=839105230,3230963543,2387244414,3038247973
+dimwishlist:item=3007479950&perks=839105230,106909392,2387244414,3038247973
+dimwishlist:item=3007479950&perks=839105230,3177308360,699525795,3038247973
+dimwishlist:item=3007479950&perks=839105230,3230963543,699525795,3038247973
+dimwishlist:item=3007479950&perks=839105230,106909392,699525795,3038247973
+dimwishlist:item=3007479950&perks=839105230,3177308360,588594999,3038247973
+dimwishlist:item=3007479950&perks=839105230,3230963543,588594999,3038247973
+dimwishlist:item=3007479950&perks=839105230,106909392,588594999,3038247973
+dimwishlist:item=3007479950&perks=2387244414,3038247973
+dimwishlist:item=3007479950&perks=699525795,3038247973
+dimwishlist:item=3007479950&perks=588594999,3038247973
+
+// Arrowhead Brake
+// Tactical Mag,Flared Magwell,
+// Fourth Time's The Charm
+// Explosive Payload, Precision Instrument
+//notes:Houdini (PvE): Last year I held onto a Gutshot + Explosive Payload roll; I didn't use it once. This year it's not worth the vault space. If I needed a strand scout rifle I would craft a Fang of Ir Yut. If I had to choose go with Fourth Time's the Charm and Explosive Payload. Optimize for recoil direction and reload speed in the minor perks. |tags:pve
+dimwishlist:item=3007479950&perks=839105230,106909392,1354429876,3038247973
+dimwishlist:item=3007479950&perks=839105230,3230963543,1354429876,3038247973
+dimwishlist:item=3007479950&perks=839105230,106909392,1354429876,555281244
+dimwishlist:item=3007479950&perks=839105230,3230963543,1354429876,555281244
+dimwishlist:item=3007479950&perks=1354429876,3038247973
+dimwishlist:item=3007479950&perks=1354429876,555281244
+
+// 2023
 // Arrowhead Brake
 // Steady Rounds,Flared Magwell,Tactical Mag
 // Zen Moment,No Distractions,Moving Target
 // Explosive Payload
 //notes:Houdini (PvP): God roll is Zen Moment + Explosive Payload. Prioritize recoil direction and stability in the minor perks. Other top tier perks: No Distractions or Moving Target|tags:pvp
-dimwishlist:item=1389546626&perks=839105230,3177308360,2387244414,3038247973,2839173408
-dimwishlist:item=1389546626&perks=839105230,3230963543,2387244414,3038247973,2839173408
-dimwishlist:item=1389546626&perks=839105230,106909392,2387244414,3038247973,2839173408
-dimwishlist:item=1389546626&perks=839105230,3177308360,2866798147,3038247973,2839173408
-dimwishlist:item=1389546626&perks=839105230,3230963543,2866798147,3038247973,2839173408
-dimwishlist:item=1389546626&perks=839105230,106909392,2866798147,3038247973,2839173408
-dimwishlist:item=1389546626&perks=839105230,3177308360,588594999,3038247973,2839173408
-dimwishlist:item=1389546626&perks=839105230,3230963543,588594999,3038247973,2839173408
-dimwishlist:item=1389546626&perks=839105230,106909392,588594999,3038247973,2839173408
-dimwishlist:item=1389546626&perks=2387244414,3038247973,2839173408
-dimwishlist:item=1389546626&perks=2866798147,3038247973,2839173408
-dimwishlist:item=1389546626&perks=588594999,3038247973,2839173408
+dimwishlist:item=1389546626&perks=839105230,3177308360,2387244414,3038247973
+dimwishlist:item=1389546626&perks=839105230,3230963543,2387244414,3038247973
+dimwishlist:item=1389546626&perks=839105230,106909392,2387244414,3038247973
+dimwishlist:item=1389546626&perks=839105230,3177308360,2866798147,3038247973
+dimwishlist:item=1389546626&perks=839105230,3230963543,2866798147,3038247973
+dimwishlist:item=1389546626&perks=839105230,106909392,2866798147,3038247973
+dimwishlist:item=1389546626&perks=839105230,3177308360,588594999,3038247973
+dimwishlist:item=1389546626&perks=839105230,3230963543,588594999,3038247973
+dimwishlist:item=1389546626&perks=839105230,106909392,588594999,3038247973
+dimwishlist:item=1389546626&perks=2387244414,3038247973
+dimwishlist:item=1389546626&perks=2866798147,3038247973
+dimwishlist:item=1389546626&perks=588594999,3038247973
 
 // Arrowhead Brake
 // Tactical Mag,Flared Magwell,
@@ -4742,6 +4764,72 @@ dimwishlist:item=1389546626&perks=1354429876,831391274,1702976605
 //}
 
 //{ The Title
+
+// 2024
+// Smallbore,Hammer forged Rifling
+// Ricochet Rounds,High-Caliber Rounds
+// Dynamic Sway Reduction, Threat Detector, Perpetual Motion
+// Rangefinder,Collective Action
+//notes:Houdini (PvP): I held onto a Perpetual Motion + Rangefinder Roll last year with perk perks in all of the other columns and never used it once. Probably not worth wasting your time for, but this might be viable as a Collection Action SMG for Stasis Titans.|tags:pvp
+dimwishlist:item=655712834&perks=1482024992,1885400500,1359896290,2846385770
+dimwishlist:item=655712834&perks=3250034553,1885400500,1359896290,2846385770
+dimwishlist:item=655712834&perks=1482024992,1561002382,1359896290,2846385770
+dimwishlist:item=655712834&perks=3250034553,1561002382,1359896290,2846385770
+dimwishlist:item=655712834&perks=1482024992,1885400500,4071163871,2846385770
+dimwishlist:item=655712834&perks=3250034553,1885400500,4071163871,2846385770
+dimwishlist:item=655712834&perks=1482024992,1561002382,4071163871,2846385770
+dimwishlist:item=655712834&perks=3250034553,1561002382,4071163871,2846385770
+dimwishlist:item=655712834&perks=1482024992,1885400500,1428297954,2846385770
+dimwishlist:item=655712834&perks=3250034553,1885400500,1428297954,2846385770
+dimwishlist:item=655712834&perks=1482024992,1561002382,1428297954,2846385770
+dimwishlist:item=655712834&perks=3250034553,1561002382,1428297954,2846385770
+dimwishlist:item=655712834&perks=1482024992,1885400500,1359896290,3324494224
+dimwishlist:item=655712834&perks=3250034553,1885400500,1359896290,3324494224
+dimwishlist:item=655712834&perks=1482024992,1561002382,1359896290,3324494224
+dimwishlist:item=655712834&perks=3250034553,1561002382,1359896290,3324494224
+dimwishlist:item=655712834&perks=1482024992,1885400500,4071163871,3324494224
+dimwishlist:item=655712834&perks=3250034553,1885400500,4071163871,3324494224
+dimwishlist:item=655712834&perks=1482024992,1561002382,4071163871,3324494224
+dimwishlist:item=655712834&perks=3250034553,1561002382,4071163871,3324494224
+dimwishlist:item=655712834&perks=1482024992,1885400500,1428297954,3324494224
+dimwishlist:item=655712834&perks=3250034553,1885400500,1428297954,3324494224
+dimwishlist:item=655712834&perks=1482024992,1561002382,1428297954,3324494224
+dimwishlist:item=655712834&perks=3250034553,1561002382,1428297954,3324494224
+dimwishlist:item=655712834&perks=1359896290,2846385770
+dimwishlist:item=655712834&perks=4071163871,2846385770
+dimwishlist:item=655712834&perks=1428297954,2846385770
+dimwishlist:item=655712834&perks=1359896290,3324494224
+dimwishlist:item=655712834&perks=4071163871,3324494224
+dimwishlist:item=655712834&perks=1428297954,3324494224
+
+// Smallbore,Hammer Forged Rifling
+// Ricochet Rounds,High-Caliber Rounds
+// Repulsor Brace,Threat Detector
+// Destabilizing Rounds,Surrounded
+//notes:Houdini (PvE): In PvE, I would hold onto a Repulsor Brace + Destablizing Rounds version. Repulsor Brace being in the 3rd column is actually very nice for PvE. The annoying thing is that the reload speed on this SMG is terrible. |tags:pve
+dimwishlist:item=655712834&perks=1482024992,1885400500,776531651,2048641572
+dimwishlist:item=655712834&perks=3250034553,1885400500,776531651,2048641572
+dimwishlist:item=655712834&perks=1482024992,1561002382,776531651,2048641572
+dimwishlist:item=655712834&perks=3250034553,1561002382,776531651,2048641572
+dimwishlist:item=655712834&perks=1482024992,1885400500,4071163871,2048641572
+dimwishlist:item=655712834&perks=3250034553,1885400500,4071163871,2048641572
+dimwishlist:item=655712834&perks=1482024992,1561002382,4071163871,2048641572
+dimwishlist:item=655712834&perks=3250034553,1561002382,4071163871,2048641572
+dimwishlist:item=655712834&perks=1482024992,1885400500,776531651,3708227201
+dimwishlist:item=655712834&perks=3250034553,1885400500,776531651,3708227201
+dimwishlist:item=655712834&perks=1482024992,1561002382,776531651,3708227201
+dimwishlist:item=655712834&perks=3250034553,1561002382,776531651,3708227201
+dimwishlist:item=655712834&perks=1482024992,1885400500,4071163871,3708227201
+dimwishlist:item=655712834&perks=3250034553,1885400500,4071163871,3708227201
+dimwishlist:item=655712834&perks=1482024992,1561002382,4071163871,3708227201
+dimwishlist:item=655712834&perks=3250034553,1561002382,4071163871,3708227201
+dimwishlist:item=655712834&perks=776531651,2048641572
+dimwishlist:item=655712834&perks=4071163871,2048641572
+dimwishlist:item=655712834&perks=776531651,3708227201
+dimwishlist:item=655712834&perks=4071163871,3708227201
+
+
+// 2023
 // Hammer-forged Rifling,Polygonal Rifling,Smallbore
 // Ricochet Rounds,High-Caliber Rounds,
 // Dynamic Sway Reduction,Perpetual Motion
@@ -4870,6 +4958,24 @@ dimwishlist:item=-3559361670&perks=1365187766
 dimwishlist:item=-3559361670&perks=968510818
 dimwishlist:item=-3559361670&perks=2217963031
 
+//}
+
+//{ Hullabaloo
+// Quick Launch
+// High-Velocity Rounds
+// Voltshot, Auto-Loading Holster
+// Chain Reaction, Golden Tricorn
+//notes:Houdini (PvE): Voltshot + Chain Reaction is probably the only roll I'll keep. It seems unlikely we will ever be in a meta where I want to use a heavy weapon for ad clear, but this definitely has potential as a heavy weapon Forbearance. Auto-Loading Holster is also viable, but I would stay away from Envious Assassin since if you are using your heavy for ad clear you probably don't have an ad clear special or primary weapon in the loadout. Golden Tricorn is also interesting for Arc builds, but I probably won't keep one of those over Chain Reaction. Optimize for reload speed in the minor perks. |tags:pve
+dimwishlist:item=657927352&perks=3525010810,2822142346,2173046394,2396489472
+dimwishlist:item=657927352&perks=3525010810,2822142346,3300816228,2396489472
+dimwishlist:item=657927352&perks=3525010810,2822142346,2173046394,2610012052
+dimwishlist:item=657927352&perks=3525010810,2822142346,3300816228,2610012052
+dimwishlist:item=657927352&perks=2173046394,2396489472
+dimwishlist:item=657927352&perks=3300816228,2396489472
+dimwishlist:item=657927352&perks=2173046394,2610012052
+dimwishlist:item=657927352&perks=3300816228,2610012052
+
+	
 //}
 
 //////////////////////////////////////
