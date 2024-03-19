@@ -2641,6 +2641,48 @@ dimwishlist:item=4248997900&perks=968510818,2782457288
 
 //}
 
+//{ The Messenger 
+// Arrowhead Brake
+// Ricochet Rounds
+// Moving Target, Rapid Hit
+// Headseeker
+//notes:Houdini (PvP): God Roll is Moving Target + Headseeker, but Rapid Hit also seems reasonable. I definitely want Arrowhead Brake to help with the recoil direction and Ricochet Rounds are always good. |tags:pvp
+dimwishlist:item=364665267&perks=839105230,1885400500,588594999,460017080
+dimwishlist:item=364665267&perks=839105230,1885400500,247725512,460017080
+dimwishlist:item=364665267&perks=588594999,460017080
+dimwishlist:item=364665267&perks=247725512,460017080
+dimwishlist:item=3796795102&perks=839105230,1885400500,588594999,460017080
+dimwishlist:item=3796795102&perks=839105230,1885400500,247725512,460017080
+dimwishlist:item=3796795102&perks=588594999,460017080
+dimwishlist:item=3796795102&perks=247725512,460017080
+
+//}
+
+//{ The Summoner 
+// Arrowhead Brake
+// Ricochet Rounds
+// Zen Moment, Heal Clip
+// Tap the Trigger, Onslaught
+//notes:Houdini (PvP): Zen Moment is a must have perk for me. In the 4th column, Target Lock is tempting, but requires hitting 6 bullets before it starts to activate (compared to pre-nerf Immortal at 4 bullets). In practice, I would rather use Tap the Trigger to ensure a consistent kill. If you want a damage perk, Onslaught seems the most interesting and would pair well with Heal Clip. |tags:pvp
+dimwishlist:item=1292594730&perks=839105230,1885400500,2387244414,1890422124
+dimwishlist:item=1292594730&perks=839105230,1885400500,3017780555,1890422124
+dimwishlist:item=1292594730&perks=839105230,1885400500,2387244414,95528736
+dimwishlist:item=1292594730&perks=839105230,1885400500,3017780555,95528736
+dimwishlist:item=1292594730&perks=2387244414,1890422124
+dimwishlist:item=1292594730&perks=3017780555,1890422124
+dimwishlist:item=1292594730&perks=2387244414,95528736
+dimwishlist:item=1292594730&perks=3017780555,95528736
+dimwishlist:item=1820994983&perks=839105230,1885400500,2387244414,1890422124
+dimwishlist:item=1820994983&perks=839105230,1885400500,3017780555,1890422124
+dimwishlist:item=1820994983&perks=839105230,1885400500,2387244414,95528736
+dimwishlist:item=1820994983&perks=839105230,1885400500,3017780555,95528736
+dimwishlist:item=1820994983&perks=2387244414,1890422124
+dimwishlist:item=1820994983&perks=3017780555,1890422124
+dimwishlist:item=1820994983&perks=2387244414,95528736
+dimwishlist:item=1820994983&perks=3017780555,95528736
+
+//}
+
 //////////////////////////////////////
 /// IRON BANNER WEAPONS
 //////////////////////////////////////
