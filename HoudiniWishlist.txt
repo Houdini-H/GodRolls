@@ -2683,6 +2683,27 @@ dimwishlist:item=1820994983&perks=3017780555,95528736
 
 //}
 
+//{ The Prophet
+// Smallbore
+// Flared Magwell
+// Keep Away
+// Kill Clip, Explosive Payload, Precision Instrument
+//notes:Houdini (PvP): It's unclear to me when I would ever use this over a DMT, but the roll I'm keeping is Keep Away + Kill Clip. Explosive Payload + Precision Instrument also seem viable, but I'm having a hard time imagining when I would want to use this other than to have fun in 6s with 2 taps. |tags:pvp
+dimwishlist:item=3019024381&perks=1482024992,3230963543,3619207468,1015611457
+dimwishlist:item=3019024381&perks=1482024992,3230963543,3619207468,3038247973
+dimwishlist:item=3019024381&perks=1482024992,3230963543,3619207468,555281244
+dimwishlist:item=3019024381&perks=3619207468,1015611457
+dimwishlist:item=3019024381&perks=3619207468,3038247973
+dimwishlist:item=3019024381&perks=3619207468,555281244
+dimwishlist:item=1968410628&perks=1482024992,3230963543,3619207468,1015611457
+dimwishlist:item=1968410628&perks=1482024992,3230963543,3619207468,3038247973
+dimwishlist:item=1968410628&perks=1482024992,3230963543,3619207468,555281244
+dimwishlist:item=1968410628&perks=3619207468,1015611457
+dimwishlist:item=1968410628&perks=3619207468,3038247973
+dimwishlist:item=1968410628&perks=3619207468,555281244
+	
+//}
+
 //////////////////////////////////////
 /// IRON BANNER WEAPONS
 //////////////////////////////////////
@@ -3059,6 +3080,57 @@ dimwishlist:item=1764868900&perks=4090651448,791862061,3436462433,1546637391
 dimwishlist:item=1764868900&perks=3161816588,1546637391
 dimwishlist:item=1764868900&perks=3436462433,1546637391
 dimwishlist:item=1764868900&perks=1546637391
+
+//}
+
+//{ Multimach CCX
+// Smallbore
+// Accurized Rounds
+// Rangefinder, Moving Target, Dynamic Sway Reduction
+// Tap the Trigger,Target Lock, 
+//notes:Houdini (PvP): Even after the nerfs, I want Rangefinder to help when dueling at longer ranges, but I'd also be happy with Moving Target. Choosing between Tap the Trigger and Target Lock is tough, but I'm leaning towards Tap The Trigger because Target Lock will only have an impact after you hit 11 shots without missing while Tap The Trigger will be active for most of our TTK. Optimize for range and stability in the minor perks. |tags:pvp
+dimwishlist:item=3211624072&perks=1482024992,3142289711,2846385770,1890422124
+dimwishlist:item=3211624072&perks=1482024992,3142289711,588594999,1890422124
+dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,1890422124
+dimwishlist:item=3211624072&perks=1482024992,3142289711,2846385770,365154968
+dimwishlist:item=3211624072&perks=1482024992,3142289711,588594999,365154968
+dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,365154968
+dimwishlist:item=3211624072&perks=2846385770,1890422124
+dimwishlist:item=3211624072&perks=588594999,1890422124
+dimwishlist:item=3211624072&perks=1359896290,1890422124
+dimwishlist:item=3211624072&perks=2846385770,365154968
+dimwishlist:item=3211624072&perks=588594999,365154968
+dimwishlist:item=3211624072&perks=1359896290,365154968
+
+// Iron Gaze, Attrition Orbs
+//notes:Houdini: Anything with Iron Gaze or Attrition Orbs is junk
+dimwishlist:item=-3211624072&perks=4152709778
+dimwishlist:item=-3211624072&perks=243981275
+
+//}
+
+//{ Tusk of the Board
+// Quick Launch
+// High-Velocity Rounds
+// Enlightened Action, Slice, Slideways
+// Chain Reaction, Deconstruct
+//notes:Houdini (PvE): Sadly the 3rd column perks make this less viable than Forbearance. The best option is Enlightened Action + Chain Reaction. I'd also keep a roll with Deconstruct for utility purposes and the occasional free ammo. Other viable perks include Slice and Slideways for more niche builds. Optimize for reload speed and velocity in the minor perks. |tags:pve
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,2396489472
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,2396489472
+dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,2396489472
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,3993379141
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,3993379141
+dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,3993379141
+dimwishlist:item=1218113510&perks=2822142346,3828510309,2396489472
+dimwishlist:item=1218113510&perks=2822142346,923806249,2396489472
+dimwishlist:item=1218113510&perks=2822142346,2039302152,2396489472
+dimwishlist:item=1218113510&perks=2822142346,3828510309,3993379141
+dimwishlist:item=1218113510&perks=2822142346,923806249,3993379141
+dimwishlist:item=1218113510&perks=2822142346,2039302152,3993379141
+
+//notes:Houdini: Anything with Vorpal Weapon or Bait and Switch is a dismantle.
+dimwishlist:item=-1218113510&perks=1546637391
+dimwishlist:item=-1218113510&perks=3078487919
 
 //}
 
