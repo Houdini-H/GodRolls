@@ -4303,6 +4303,352 @@ dimwishlist:item=1948035256&perks=106909392,2284787283,1771339417
 //}
 
 //////////////////////////////////////
+/// BRAVE WEAPONS
+//////////////////////////////////////
+
+//{ Elsie's Rifle
+// Arrowhead Brake
+// Ricochet Rounds, High-Caliber Rounds
+// Zen Moment
+// Headseeker
+//notes:Houdini (PvP): Zen Moment + Headseeker are the best option for Elsie's Rifle. I'd probably only keep a perfect roll. Arrowhead Brake is important and then optimize for stability in the minor perks. |tags:pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,460017080
+dimwishlist:item=2372514509&perks=2387244414,460017080
+dimwishlist:item=3851176026&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=3851176026&perks=839105230,1561002382,2387244414,460017080
+dimwishlist:item=3851176026&perks=2387244414,460017080
+
+//}
+
+//{ Forbearance
+// Quick Launch, Smart Drift Control
+// High-Velocity Rounds
+// Demolitionist, Ambitious Assassin 
+// Chain Reaction, Wellspring
+//notes:Houdini (PvE): The only roll worth keeping on Forbearance is Demolitionist + Chain Reaction. Ambitious Assassin is the roll you can craft so not really necessary. Wellspring is also interesting as a backup option if Chain Reaction ever gets nerfed. Optimize for reload speed, velocity, and handling in the minor perks. |tags:pve
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472
+dimwishlist:item=568611921&perks=3798852852,2822142346,3523296417,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=568611921&perks=3798852852,2822142346,2010801679,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,3592538738
+dimwishlist:item=568611921&perks=3798852852,2822142346,3523296417,3592538738
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,3592538738
+dimwishlist:item=568611921&perks=3798852852,2822142346,2010801679,3592538738
+dimwishlist:item=568611921&perks=3523296417,2396489472
+dimwishlist:item=568611921&perks=2010801679,2396489472
+dimwishlist:item=568611921&perks=3523296417,3592538738
+dimwishlist:item=568611921&perks=2010801679,3592538738
+dimwishlist:item=2480074702&perks=3525010810,2822142346,3523296417,2396489472
+dimwishlist:item=2480074702&perks=3798852852,2822142346,3523296417,2396489472
+dimwishlist:item=2480074702&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=2480074702&perks=3798852852,2822142346,2010801679,2396489472
+dimwishlist:item=2480074702&perks=3525010810,2822142346,3523296417,3592538738
+dimwishlist:item=2480074702&perks=3798852852,2822142346,3523296417,3592538738
+dimwishlist:item=2480074702&perks=3525010810,2822142346,2010801679,3592538738
+dimwishlist:item=2480074702&perks=3798852852,2822142346,2010801679,3592538738
+dimwishlist:item=2480074702&perks=3523296417,2396489472
+dimwishlist:item=2480074702&perks=2010801679,2396489472
+dimwishlist:item=2480074702&perks=3523296417,3592538738
+dimwishlist:item=2480074702&perks=2010801679,3592538738
+
+//}
+
+//{ The Mountaintop
+// Quick Launch, Smart Drift Control
+// Spike Grenades
+// Auto-Loading Holster, Ambitious Assassin 
+// Recombination, Frenzy,Vorpal Weapon
+//notes:Houdini (PvE): Auto-Loading Holster + Recombination is the best option. Frenzy or Vorpal are also viable. Ambitious Assassin may be useful in the future, but for now I don't expect to use Mountaintop as an add clear weapon. Optimize for velocity and handling in the minor perks. I'd probably go with spike grenades to keep the blast radius higher even if Implosion Rounds is higher damage. |tags:pve
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=3525010810,3301904089,2010801679,469285294
+dimwishlist:item=568611922&perks=3798852852,3301904089,2010801679,469285294
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,4104185692
+dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,4104185692
+dimwishlist:item=568611922&perks=3525010810,3301904089,2010801679,4104185692
+dimwishlist:item=568611922&perks=3798852852,3301904089,2010801679,4104185692
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,1546637391
+dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,1546637391
+dimwishlist:item=568611922&perks=3525010810,3301904089,2010801679,1546637391
+dimwishlist:item=568611922&perks=3798852852,3301904089,2010801679,1546637391
+dimwishlist:item=568611922&perks=3300816228,469285294
+dimwishlist:item=568611922&perks=2010801679,469285294
+dimwishlist:item=568611922&perks=3300816228,4104185692
+dimwishlist:item=568611922&perks=2010801679,4104185692
+dimwishlist:item=568611922&perks=3300816228,1546637391
+dimwishlist:item=568611922&perks=2010801679,1546637391
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3300816228,469285294
+dimwishlist:item=4043921923&perks=3798852852,3301904089,3300816228,469285294
+dimwishlist:item=4043921923&perks=3525010810,3301904089,2010801679,469285294
+dimwishlist:item=4043921923&perks=3798852852,3301904089,2010801679,469285294
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3300816228,4104185692
+dimwishlist:item=4043921923&perks=3798852852,3301904089,3300816228,4104185692
+dimwishlist:item=4043921923&perks=3525010810,3301904089,2010801679,4104185692
+dimwishlist:item=4043921923&perks=3798852852,3301904089,2010801679,4104185692
+dimwishlist:item=4043921923&perks=3525010810,3301904089,3300816228,1546637391
+dimwishlist:item=4043921923&perks=3798852852,3301904089,3300816228,1546637391
+dimwishlist:item=4043921923&perks=3525010810,3301904089,2010801679,1546637391
+dimwishlist:item=4043921923&perks=3798852852,3301904089,2010801679,1546637391
+dimwishlist:item=4043921923&perks=3300816228,469285294
+dimwishlist:item=4043921923&perks=2010801679,469285294
+dimwishlist:item=4043921923&perks=3300816228,4104185692
+dimwishlist:item=4043921923&perks=2010801679,4104185692
+dimwishlist:item=4043921923&perks=3300816228,1546637391
+dimwishlist:item=4043921923&perks=2010801679,1546637391
+
+
+// Quick Launch, Smart Drift Control
+// Sticky Grenades
+// Auto-Loading Holster, Impulse Amplifier
+// Recombination
+//notes:Houdini (PvP): I'm not sure Mountaintop is useful in the current PvP special ammo sandbox, but I'd keep a roll with recombination and either Auto-Loading Holster or Impulse Amplifier. Sticky Grenades seem good, optimize for velocity and handling in the minor perks. |tags:pvp
+dimwishlist:item=568611922&perks=3525010810,3373736292,3300816228,469285294
+dimwishlist:item=568611922&perks=3798852852,3373736292,3300816228,469285294
+dimwishlist:item=568611922&perks=3525010810,3373736292,951095735,469285294
+dimwishlist:item=568611922&perks=3798852852,3373736292,951095735,469285294
+dimwishlist:item=568611922&perks=3300816228,469285294
+dimwishlist:item=568611922&perks=951095735,469285294
+dimwishlist:item=4043921923&perks=3525010810,3373736292,3300816228,469285294
+dimwishlist:item=4043921923&perks=3798852852,3373736292,3300816228,469285294
+dimwishlist:item=4043921923&perks=3525010810,3373736292,951095735,469285294
+dimwishlist:item=4043921923&perks=3798852852,3373736292,951095735,469285294
+dimwishlist:item=4043921923&perks=3300816228,469285294
+dimwishlist:item=4043921923&perks=951095735,469285294
+
+//}
+
+//{ Midnight Coup
+// Smallbore
+// Accurized Rounds
+// Explosive Payload
+// Zen Moment
+//notes:Houdini (PvP): Moving Target is a waste if you are running a targeting helmet mod, so go with Explosive Payload + Zen Moment. Optimize for range and stability in the minor perks. |tags:pvp
+dimwishlist:item=2499720827&perks=1482024992,3142289711,3038247973,2387244414
+dimwishlist:item=2499720827&perks=3038247973,2387244414
+dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,2387244414
+dimwishlist:item=2763843898&perks=3038247973,2387244414
+
+// Smallbore
+// Appended Mag
+// Explosive Payload
+// Frenzy
+//notes:Houdini (PvE): In PvE, Midnight Coup is just a worse Fatebringer with an origin trait. It's probably not worth holding onto unless you don't have a good Timelost Fatebringer. Avoid Kinetic Tremors since it takes 6 shots to activate and most enemies in PvE will die before then. |tags:pve
+dimwishlist:item=2499720827&perks=1482024992,1087426260,3038247973,4104185692
+dimwishlist:item=2499720827&perks=3038247973,4104185692
+dimwishlist:item=2763843898&perks=1482024992,1087426260,3038247973,4104185692
+dimwishlist:item=2763843898&perks=3038247973,4104185692
+
+//}
+
+//{ Blast Furnace
+// Arrowhead Brake
+// Steady Rounds
+// Headseeker
+// Frenzy
+//notes:Houdini (pvp): I'm not excited about any of the 4th column perks on this weapon. Get option is Headseeker + Frenzy. I probably won't keep any rolls of this weapon in my vault. |tags:pvp
+dimwishlist:item=2372514508&perks=839105230,3177308360,460017080,4104185692
+dimwishlist:item=2533990645&perks=839105230,3177308360,460017080,4104185692
+
+//}
+
+//{ Hung Jury SR4
+// Arrowhead Brake
+// Flared Magwell
+// No Distractions
+// Box Breathing, Precision Instrument
+//notes:Houdini (PvP): Yet another Hung Jury refresh. Best option is No Distractions + Box Breathing, but Precision Instrument is also viable. Optimize for stability in the minor perks. |tags:pvp
+dimwishlist:item=205225492&perks=839105230,3230963543,2866798147,2551157718
+dimwishlist:item=205225492&perks=839105230,3230963543,2866798147,555281244
+dimwishlist:item=205225492&perks=2866798147,2551157718
+dimwishlist:item=205225492&perks=2866798147,555281244
+dimwishlist:item=1453235079&perks=839105230,3230963543,2866798147,2551157718
+dimwishlist:item=1453235079&perks=839105230,3230963543,2866798147,555281244
+dimwishlist:item=1453235079&perks=2866798147,2551157718
+dimwishlist:item=1453235079&perks=2866798147,555281244
+
+//}
+
+//{ Succession
+// Fluted Barrel
+// Tactical Mag
+// Reconstruction
+// Vorpal Weapon
+//notes:Houdini (PvE): There is no reason to keep a Brave succession if you can craft the Deepstone Crypt version. Reconstruction is mandatory and then Vorpal Weapon is the best.|tags:pve
+dimwishlist:item=570866107&perks=1840239774,106909392,1523832109,1546637391
+dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,1546637391
+
+//}
+
+//{ Luna's Howl
+// Smallbore
+// Ricochet Rounds
+// Eye of the Storm
+// Precision Instrument
+//notes:Houdini (PvP): Best roll is Eye of the Storm + Precision Instrument. Optimize for range and stability in the minor perks. Probably keep at least one good roll of this since it has a unique frame. |tags:pvp
+dimwishlist:item=2763843899&perks=1482024992,1885400500,699525795,555281244
+dimwishlist:item=2763843899&perks=699525795,555281244
+dimwishlist:item=3757612024&perks=1482024992,1885400500,699525795,555281244
+dimwishlist:item=3757612024&perks=699525795,555281244
+
+// Smallbore
+// Ricochet Rounds
+// Heal Clip 
+// Incandescent, Desperate Measures
+//notes:Houdini (PvE): Not having frenzy is annoying, so go with Heal Clip + Incandescent. Probably not worth keeping a roll of this unless you get a shiny. |tags:pve
+dimwishlist:item=2763843899&perks=1482024992,1885400500,3017780555,4293542123
+dimwishlist:item=2763843899&perks=1482024992,1885400500,3017780555,2109543898
+dimwishlist:item=2763843899&perks=3017780555,4293542123
+dimwishlist:item=2763843899&perks=3017780555,2109543898
+dimwishlist:item=3757612024&perks=1482024992,1885400500,3017780555,4293542123
+dimwishlist:item=3757612024&perks=1482024992,1885400500,3017780555,2109543898
+dimwishlist:item=3757612024&perks=3017780555,4293542123
+dimwishlist:item=3757612024&perks=3017780555,2109543898
+	
+//}
+
+//{ The Recluse
+// Smallbore
+// Ricochet Rounds
+// Repulsor Brace, Threat Detector
+// Frenzy, Surrounded
+//notes:Houdini (PvE): Master of Arms is a worse version of Frenzy, so go for Frenzy if you can. Repulsor Brace is my favorite option for Gyrfalcon Hunters, otherwise go with Threat Detector. Surrounded is good on Hunters, but Frenzy is my all around favorite perk for add-clear weapons. |tags:pve
+dimwishlist:item=1050806815&perks=1482024992,1885400500,776531651,4104185692
+dimwishlist:item=1050806815&perks=1482024992,1885400500,4071163871,4104185692
+dimwishlist:item=1050806815&perks=1482024992,1885400500,776531651,3708227201
+dimwishlist:item=1050806815&perks=1482024992,1885400500,4071163871,3708227201
+dimwishlist:item=1050806815&perks=776531651,4104185692
+dimwishlist:item=1050806815&perks=4071163871,4104185692
+dimwishlist:item=1050806815&perks=776531651,3708227201
+dimwishlist:item=1050806815&perks=4071163871,3708227201
+dimwishlist:item=3098328572&perks=1482024992,1885400500,776531651,4104185692
+dimwishlist:item=3098328572&perks=1482024992,1885400500,4071163871,4104185692
+dimwishlist:item=3098328572&perks=1482024992,1885400500,776531651,3708227201
+dimwishlist:item=3098328572&perks=1482024992,1885400500,4071163871,3708227201
+dimwishlist:item=3098328572&perks=776531651,4104185692
+dimwishlist:item=3098328572&perks=4071163871,4104185692
+dimwishlist:item=3098328572&perks=776531651,3708227201
+dimwishlist:item=3098328572&perks=4071163871,3708227201
+
+// Smallbore
+// Ricochet Rounds
+// Dynamic Sway Reduction, Threat Detector
+// Target Lock, Tap the Trigger, 
+//notes:Houdini (PvP): I kinda like Target Lock even after the nerf on Recluse. It will save 2 bullets on the body shot TTK. Overall, I'm not sure if Recluse is the next best SMG, but I'll likely hold onto at least a few rolls. |tags:pvp
+dimwishlist:item=3098328572&perks=1482024992,1885400500,1359896290,365154968
+dimwishlist:item=3098328572&perks=1482024992,1885400500,4071163871,365154968
+dimwishlist:item=3098328572&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=3098328572&perks=1482024992,1885400500,4071163871,1890422124
+dimwishlist:item=3098328572&perks=1359896290,365154968
+dimwishlist:item=3098328572&perks=4071163871,365154968
+dimwishlist:item=3098328572&perks=1359896290,1890422124
+dimwishlist:item=3098328572&perks=4071163871,1890422124
+dimwishlist:item=1050806815&perks=1482024992,1885400500,1359896290,365154968
+dimwishlist:item=1050806815&perks=1482024992,1885400500,4071163871,365154968
+dimwishlist:item=1050806815&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=1050806815&perks=1482024992,1885400500,4071163871,1890422124
+dimwishlist:item=1050806815&perks=1359896290,365154968
+dimwishlist:item=1050806815&perks=4071163871,365154968
+dimwishlist:item=1050806815&perks=1359896290,1890422124
+dimwishlist:item=1050806815&perks=4071163871,1890422124
+
+//}
+
+//{ Edge Transit
+// Quick Launch, Smart Drift Control
+// Sticky Grenades, Spike Grenades
+// Cascade Point, Envious Assassin, Auto-loading Holster
+// Bait and Switch, Deconstruct
+//notes:Houdini (PvE): Keep a roll with Sticky Grenades + Deconstruct because of the ammo generation interactions for total damage. Otherwise, the standard roll worth keeping is Cascade Point + Bait and Switch. Envious Assassin is also good if you don't already have a Cataphract with that roll. |tags:pve
+dimwishlist:item=568611923&perks=3525010810,3373736292,3751912585,3078487919
+dimwishlist:item=568611923&perks=3798852852,3373736292,3751912585,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919
+dimwishlist:item=568611923&perks=3798852852,3301904089,3751912585,3078487919
+dimwishlist:item=568611923&perks=3525010810,3373736292,968510818,3078487919
+dimwishlist:item=568611923&perks=3798852852,3373736292,968510818,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=568611923&perks=3798852852,3301904089,968510818,3078487919
+dimwishlist:item=568611923&perks=3525010810,3373736292,3300816228,3078487919
+dimwishlist:item=568611923&perks=3798852852,3373736292,3300816228,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,3300816228,3078487919
+dimwishlist:item=568611923&perks=3798852852,3301904089,3300816228,3078487919
+dimwishlist:item=568611923&perks=3525010810,3373736292,3751912585,3993379141
+dimwishlist:item=568611923&perks=3798852852,3373736292,3751912585,3993379141
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3993379141
+dimwishlist:item=568611923&perks=3798852852,3301904089,3751912585,3993379141
+dimwishlist:item=568611923&perks=3525010810,3373736292,968510818,3993379141
+dimwishlist:item=568611923&perks=3798852852,3373736292,968510818,3993379141
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3993379141
+dimwishlist:item=568611923&perks=3798852852,3301904089,968510818,3993379141
+dimwishlist:item=568611923&perks=3525010810,3373736292,3300816228,3993379141
+dimwishlist:item=568611923&perks=3798852852,3373736292,3300816228,3993379141
+dimwishlist:item=568611923&perks=3525010810,3301904089,3300816228,3993379141
+dimwishlist:item=568611923&perks=3798852852,3301904089,3300816228,3993379141
+dimwishlist:item=568611923&perks=3373736292,3751912585,3078487919
+dimwishlist:item=568611923&perks=3301904089,3751912585,3078487919
+dimwishlist:item=568611923&perks=3373736292,968510818,3078487919
+dimwishlist:item=568611923&perks=3301904089,968510818,3078487919
+dimwishlist:item=568611923&perks=3373736292,3300816228,3078487919
+dimwishlist:item=568611923&perks=3301904089,3300816228,3078487919
+dimwishlist:item=568611923&perks=3373736292,3751912585,3993379141
+dimwishlist:item=568611923&perks=3301904089,3751912585,3993379141
+dimwishlist:item=568611923&perks=3373736292,968510818,3993379141
+dimwishlist:item=568611923&perks=3301904089,968510818,3993379141
+dimwishlist:item=568611923&perks=3373736292,3300816228,3993379141
+dimwishlist:item=568611923&perks=3301904089,3300816228,3993379141
+dimwishlist:item=568611923&perks=3751912585,3078487919
+dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=568611923&perks=3300816228,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3373736292,3751912585,3078487919
+dimwishlist:item=2228325504&perks=3798852852,3373736292,3751912585,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3301904089,3751912585,3078487919
+dimwishlist:item=2228325504&perks=3798852852,3301904089,3751912585,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3373736292,968510818,3078487919
+dimwishlist:item=2228325504&perks=3798852852,3373736292,968510818,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=2228325504&perks=3798852852,3301904089,968510818,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3373736292,3300816228,3078487919
+dimwishlist:item=2228325504&perks=3798852852,3373736292,3300816228,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3301904089,3300816228,3078487919
+dimwishlist:item=2228325504&perks=3798852852,3301904089,3300816228,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3373736292,3751912585,3993379141
+dimwishlist:item=2228325504&perks=3798852852,3373736292,3751912585,3993379141
+dimwishlist:item=2228325504&perks=3525010810,3301904089,3751912585,3993379141
+dimwishlist:item=2228325504&perks=3798852852,3301904089,3751912585,3993379141
+dimwishlist:item=2228325504&perks=3525010810,3373736292,968510818,3993379141
+dimwishlist:item=2228325504&perks=3798852852,3373736292,968510818,3993379141
+dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3993379141
+dimwishlist:item=2228325504&perks=3798852852,3301904089,968510818,3993379141
+dimwishlist:item=2228325504&perks=3525010810,3373736292,3300816228,3993379141
+dimwishlist:item=2228325504&perks=3798852852,3373736292,3300816228,3993379141
+dimwishlist:item=2228325504&perks=3525010810,3301904089,3300816228,3993379141
+dimwishlist:item=2228325504&perks=3798852852,3301904089,3300816228,3993379141
+dimwishlist:item=2228325504&perks=3373736292,3751912585,3078487919
+dimwishlist:item=2228325504&perks=3301904089,3751912585,3078487919
+dimwishlist:item=2228325504&perks=3373736292,968510818,3078487919
+dimwishlist:item=2228325504&perks=3301904089,968510818,3078487919
+dimwishlist:item=2228325504&perks=3373736292,3300816228,3078487919
+dimwishlist:item=2228325504&perks=3301904089,3300816228,3078487919
+dimwishlist:item=2228325504&perks=3373736292,3751912585,3993379141
+dimwishlist:item=2228325504&perks=3301904089,3751912585,3993379141
+dimwishlist:item=2228325504&perks=3373736292,968510818,3993379141
+dimwishlist:item=2228325504&perks=3301904089,968510818,3993379141
+dimwishlist:item=2228325504&perks=3373736292,3300816228,3993379141
+dimwishlist:item=2228325504&perks=3301904089,3300816228,3993379141
+dimwishlist:item=2228325504&perks=3751912585,3078487919
+dimwishlist:item=2228325504&perks=968510818,3078487919
+dimwishlist:item=2228325504&perks=3300816228,3078487919
+
+//
+//
+//
+//
+// Blast radius is much more important on heavy GLs these days. You need 65+ blast radius to be viable. Best option is Impulse Amplifier + Explosive Light
+
+
+//}
+
+//////////////////////////////////////
 /// GRASP OF AVARICE WEAPONS
 //////////////////////////////////////
 
@@ -4310,8 +4656,8 @@ dimwishlist:item=1948035256&perks=106909392,2284787283,1771339417
 // Steadyhand HCS,Fastdraw HCS
 // Ricochet Rounds,High-Caliber Rounds
 // Rangefinder, Perpetual Motion
-// Snapshot Sights,Moving Target,
-//notes:Houdini (PvP): Range Finder + Snapshot Sights is the best roll, but there are lots of good options on this weapon. Maximize stability in the minor perks, ideally with Ricochet Rounds or High-Caliber Rounds. Other perks to keep an eye on: Perpetual Motion, Moving Target|tags:pvp
+// Moving Target
+//notes:Houdini (PvP): Range Finder + Moving Target is the best roll, but there are lots of good options on this weapon. Maximize stability in the minor perks, ideally with Ricochet Rounds or High-Caliber Rounds. Perpetual Motion is also viable. |tags:pvp
 dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,957782887
 dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,957782887
 dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,957782887
