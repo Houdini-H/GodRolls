@@ -2705,6 +2705,22 @@ dimwishlist:item=1968410628&perks=3619207468,555281244
 	
 //}
 
+//{ Aisha's Care
+// Arrowhead Brake
+// Ricochet Rounds, High-Caliber Rounds
+// Zen Moment
+// Headseeker
+//notes:Houdini (PvP): God roll is Zen Moment + Headseeker. There are some other perks like Moving Target that could work, but it's probably worth farming more to get that perfect combo. Optimize for stability in the minor perks|tags:pvp
+dimwishlist:item=3332125295&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=3332125295&perks=839105230,1561002382,2387244414,460017080
+dimwishlist:item=3332125295&perks=2387244414,460017080
+dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=3969379530&perks=839105230,1561002382,2387244414,460017080
+dimwishlist:item=3969379530&perks=2387244414,460017080
+
+
+//}
+
 //////////////////////////////////////
 /// IRON BANNER WEAPONS
 //////////////////////////////////////
@@ -3132,6 +3148,24 @@ dimwishlist:item=1218113510&perks=2822142346,2039302152,3993379141
 //notes:Houdini: Anything with Vorpal Weapon or Bait and Switch is a dismantle.
 dimwishlist:item=-1218113510&perks=1546637391
 dimwishlist:item=-1218113510&perks=3078487919
+
+//}
+
+//{ Crimil's Dagger
+// Smallbore, Corkscrew Rifling
+// Accurized Rounds
+// Moving Target
+// Zen Moment, Explosive Payload, Precision Instrument
+//notes:Houdini (PvP): God roll is Moving Target + Zen Moment. Optimize for Stability in the minor perks. Other viable perks include Explosive Payload and Precision Instrument. |tags:pvp
+dimwishlist:item=198854575&perks=1482024992,3142289711,588594999,2387244414
+dimwishlist:item=198854575&perks=4090651448,3142289711,588594999,2387244414
+dimwishlist:item=198854575&perks=1482024992,3142289711,588594999,3038247973
+dimwishlist:item=198854575&perks=4090651448,3142289711,588594999,3038247973
+dimwishlist:item=198854575&perks=1482024992,3142289711,588594999,555281244
+dimwishlist:item=198854575&perks=4090651448,3142289711,588594999,555281244
+dimwishlist:item=198854575&perks=588594999,2387244414
+dimwishlist:item=198854575&perks=588594999,3038247973
+dimwishlist:item=198854575&perks=588594999,555281244
 
 //}
 
@@ -7280,6 +7314,56 @@ dimwishlist:item=2599338624&perks=2039302152,2978966579
 dimwishlist:item=2599338624&perks=3987942396,2396489472
 dimwishlist:item=2599338624&perks=1955165503,2396489472
 dimwishlist:item=2599338624&perks=2039302152,2396489472
+
+//}
+
+//{ Exuviae
+// Smallbore, Corkscrew Rifling
+// Tactical Mag, Flared Magwell
+// Rimestealer
+// Headstone, Frenzy, Explosive Payload
+//notes:Houdini (PvE): Rimestealer + Headstone is the roll to keep for PvE, but if you don't have that Frenzy and Explosive Payload are acceptable alternatives. Optimize for reload speed in the minor perks. |tags:pve
+dimwishlist:item=2823644677&perks=1482024992,106909392,1955165503,124408337
+dimwishlist:item=2823644677&perks=4090651448,106909392,1955165503,124408337
+dimwishlist:item=2823644677&perks=1482024992,3230963543,1955165503,124408337
+dimwishlist:item=2823644677&perks=4090651448,3230963543,1955165503,124408337
+dimwishlist:item=2823644677&perks=1482024992,106909392,1955165503,4104185692
+dimwishlist:item=2823644677&perks=4090651448,106909392,1955165503,4104185692
+dimwishlist:item=2823644677&perks=1482024992,3230963543,1955165503,4104185692
+dimwishlist:item=2823644677&perks=4090651448,3230963543,1955165503,4104185692
+dimwishlist:item=2823644677&perks=1482024992,106909392,1955165503,3038247973
+dimwishlist:item=2823644677&perks=4090651448,106909392,1955165503,3038247973
+dimwishlist:item=2823644677&perks=1482024992,3230963543,1955165503,3038247973
+dimwishlist:item=2823644677&perks=4090651448,3230963543,1955165503,3038247973
+dimwishlist:item=2823644677&perks=1955165503,124408337
+dimwishlist:item=2823644677&perks=1955165503,4104185692
+dimwishlist:item=2823644677&perks=1955165503,3038247973
+
+// Smallbore, Corkscrew Rifling
+// Flared Magwell, Accurized Rounds
+// Keep Away, Lone Wolf
+// Explosive Payload, Precision Instrument
+//notes:Houdini (PvP): It is annoying that this weapon isn't cartable because that means you probably need to hold onto at least one PvP roll. I'd keep Keep Away + Explosive Payload, but Lone Wolf and Precision Instrument are also viable. |tags:pvp
+dimwishlist:item=2823644677&perks=1482024992,3230963543,3619207468,3038247973
+dimwishlist:item=2823644677&perks=4090651448,3230963543,3619207468,3038247973
+dimwishlist:item=2823644677&perks=1482024992,3142289711,3619207468,3038247973
+dimwishlist:item=2823644677&perks=4090651448,3142289711,3619207468,3038247973
+dimwishlist:item=2823644677&perks=1482024992,3230963543,2579169598,3038247973
+dimwishlist:item=2823644677&perks=4090651448,3230963543,2579169598,3038247973
+dimwishlist:item=2823644677&perks=1482024992,3142289711,2579169598,3038247973
+dimwishlist:item=2823644677&perks=4090651448,3142289711,2579169598,3038247973
+dimwishlist:item=2823644677&perks=1482024992,3230963543,3619207468,555281244
+dimwishlist:item=2823644677&perks=4090651448,3230963543,3619207468,555281244
+dimwishlist:item=2823644677&perks=1482024992,3142289711,3619207468,555281244
+dimwishlist:item=2823644677&perks=4090651448,3142289711,3619207468,555281244
+dimwishlist:item=2823644677&perks=1482024992,3230963543,2579169598,555281244
+dimwishlist:item=2823644677&perks=4090651448,3230963543,2579169598,555281244
+dimwishlist:item=2823644677&perks=1482024992,3142289711,2579169598,555281244
+dimwishlist:item=2823644677&perks=4090651448,3142289711,2579169598,555281244
+dimwishlist:item=2823644677&perks=3619207468,3038247973
+dimwishlist:item=2823644677&perks=2579169598,3038247973
+dimwishlist:item=2823644677&perks=3619207468,555281244
+dimwishlist:item=2823644677&perks=2579169598,555281244
 
 
 //}
