@@ -1,6 +1,33 @@
 title:Houdini's God Rolls
 description:Houdini's wishlist for the Noble Sacrifice clan and friends
 
+// TODO:
+Claws of the Wolf
+Gridskipper
+Jurassic Green
+Vantage Point
+Arcane Embrace
+Ded Gramarye IV
+Legato-11
+Scavenger's Fate
+Sojourner's Tale
+Mechabre
+Soverignty
+Veleda-F
+Noxious Vetiver
+Shayura's Wrath
+Acosmic
+Bitter/Sweet
+VS Chill Inhibitor
+Wicked Sister
+Line in the Sand
+Suspectum-4FR
+Archon's Thunder
+Heretic's Fervor
+Tomorrow's Answer
+Braytech Werewolf
+
+
 //////////////////////////////////////
 /// TRIALS WEAPONS
 //////////////////////////////////////
@@ -2721,6 +2748,75 @@ dimwishlist:item=3969379530&perks=2387244414,460017080
 
 //}
 
+//{ Yesterday's Question
+// Smallbore
+// Ricochet Rounds, High-Caliber Rounds
+// Lone Wolf, To the Pain
+// Headseeker, Eye of the Storm, Zen Moment, Moving Target
+//notes:Houdini (PvP): God Roll is Lone Wolf + Headseeker, but there are many excellent 4th column perks to choose from. Optimize for stability and range in the minor perks. |tags:pvp
+dimwishlist:item=2378785953&perks=1482024992,1885400500,2378785953,460017080
+dimwishlist:item=2378785953&perks=1482024992,1561002382,2378785953,460017080
+dimwishlist:item=2378785953&perks=1482024992,1885400500,3938834702,460017080
+dimwishlist:item=2378785953&perks=1482024992,1561002382,3938834702,460017080
+dimwishlist:item=2378785953&perks=1482024992,1885400500,2378785953,699525795
+dimwishlist:item=2378785953&perks=1482024992,1561002382,2378785953,699525795
+dimwishlist:item=2378785953&perks=1482024992,1885400500,3938834702,699525795
+dimwishlist:item=2378785953&perks=1482024992,1561002382,3938834702,699525795
+dimwishlist:item=2378785953&perks=1482024992,1885400500,2378785953,2387244414
+dimwishlist:item=2378785953&perks=1482024992,1561002382,2378785953,2387244414
+dimwishlist:item=2378785953&perks=1482024992,1885400500,3938834702,2387244414
+dimwishlist:item=2378785953&perks=1482024992,1561002382,3938834702,2387244414
+dimwishlist:item=2378785953&perks=1482024992,1885400500,2378785953,588594999
+dimwishlist:item=2378785953&perks=1482024992,1561002382,2378785953,588594999
+dimwishlist:item=2378785953&perks=1482024992,1885400500,3938834702,588594999
+dimwishlist:item=2378785953&perks=1482024992,1561002382,3938834702,588594999
+dimwishlist:item=2378785953&perks=2378785953,460017080
+dimwishlist:item=2378785953&perks=3938834702,460017080
+dimwishlist:item=2378785953&perks=2378785953,699525795
+dimwishlist:item=2378785953&perks=3938834702,699525795
+dimwishlist:item=2378785953&perks=2378785953,2387244414
+dimwishlist:item=2378785953&perks=3938834702,2387244414
+dimwishlist:item=2378785953&perks=2378785953,588594999
+dimwishlist:item=2378785953&perks=3938834702,588594999
+dimwishlist:item=2300143112&perks=1482024992,1885400500,2378785953,460017080
+dimwishlist:item=2300143112&perks=1482024992,1561002382,2378785953,460017080
+dimwishlist:item=2300143112&perks=1482024992,1885400500,3938834702,460017080
+dimwishlist:item=2300143112&perks=1482024992,1561002382,3938834702,460017080
+dimwishlist:item=2300143112&perks=1482024992,1885400500,2378785953,699525795
+dimwishlist:item=2300143112&perks=1482024992,1561002382,2378785953,699525795
+dimwishlist:item=2300143112&perks=1482024992,1885400500,3938834702,699525795
+dimwishlist:item=2300143112&perks=1482024992,1561002382,3938834702,699525795
+dimwishlist:item=2300143112&perks=1482024992,1885400500,2378785953,2387244414
+dimwishlist:item=2300143112&perks=1482024992,1561002382,2378785953,2387244414
+dimwishlist:item=2300143112&perks=1482024992,1885400500,3938834702,2387244414
+dimwishlist:item=2300143112&perks=1482024992,1561002382,3938834702,2387244414
+dimwishlist:item=2300143112&perks=1482024992,1885400500,2378785953,588594999
+dimwishlist:item=2300143112&perks=1482024992,1561002382,2378785953,588594999
+dimwishlist:item=2300143112&perks=1482024992,1885400500,3938834702,588594999
+dimwishlist:item=2300143112&perks=1482024992,1561002382,3938834702,588594999
+dimwishlist:item=2300143112&perks=2378785953,460017080
+dimwishlist:item=2300143112&perks=3938834702,460017080
+dimwishlist:item=2300143112&perks=2378785953,699525795
+dimwishlist:item=2300143112&perks=3938834702,699525795
+dimwishlist:item=2300143112&perks=2378785953,2387244414
+dimwishlist:item=2300143112&perks=3938834702,2387244414
+dimwishlist:item=2300143112&perks=2378785953,588594999
+dimwishlist:item=2300143112&perks=3938834702,588594999
+
+
+// Smallbore
+// Flared Magwell
+// Fourth Time's the Charm
+// Vorpal Weapon
+//notes:Houdini (PvE): For PvE, Fourth Time's the Charm + Vorpal is the only roll that is probably worth keeping. |tags:pve
+dimwishlist:item=2378785953&perks=1482024992,3230963543,1354429876,1546637391
+dimwishlist:item=2378785953&perks=1354429876,1546637391
+dimwishlist:item=2300143112&perks=1482024992,3230963543,1354429876,1546637391
+dimwishlist:item=2300143112&perks=1354429876,1546637391
+
+
+//}
+
 //////////////////////////////////////
 /// IRON BANNER WEAPONS
 //////////////////////////////////////
@@ -3166,6 +3262,22 @@ dimwishlist:item=198854575&perks=4090651448,3142289711,588594999,555281244
 dimwishlist:item=198854575&perks=588594999,2387244414
 dimwishlist:item=198854575&perks=588594999,3038247973
 dimwishlist:item=198854575&perks=588594999,555281244
+
+//}
+
+//{ Tinasha's Mastery
+// Quick Launch
+// Tactical Mag, High-Explosive Ordnance
+// Impulse Amplifier
+// Chill Clip, Frenzy
+//notes:Houdini (PvE): God Roll is Impulse Amplifier + Chill Clip, but also hold onto a Frenzy roll. While I'll be keeping a roll of this, sadly all of the third column perks are not ideal for PvE. I'm going to be sticking with Impulse Amplifier, but nothing stands out as being particularly good. Optimize for blast radius and velocity in the minor perks. |tags:pve
+dimwishlist:item=480368036&perks=3525010810,106909392,951095735,2978966579
+dimwishlist:item=480368036&perks=3525010810,1380253176,951095735,2978966579
+dimwishlist:item=480368036&perks=3525010810,106909392,951095735,4104185692
+dimwishlist:item=480368036&perks=3525010810,1380253176,951095735,4104185692
+dimwishlist:item=480368036&perks=951095735,2978966579
+dimwishlist:item=480368036&perks=951095735,4104185692
+
 
 //}
 
@@ -3619,6 +3731,19 @@ dimwishlist:item=882778888&perks=706527188,699525795
 dimwishlist:item=882778888&perks=588594999,699525795
 dimwishlist:item=882778888&perks=706527188,957782887
 dimwishlist:item=882778888&perks=588594999,957782887
+
+//}
+
+//{ The Riposte
+// Arrowhead Brake
+// Ricochet Rounds
+// Zen Moment
+// Target Lock, Dynamic Sway Reduction
+//notes:Houdini (PvP): God roll is Zen Moment + Target Lock. Optimize for range and stability in the minor perks. |tags:pvp
+dimwishlist:item=3754408118&perks=839105230,1885400500,2387244414,365154968
+dimwishlist:item=3754408118&perks=839105230,1885400500,2387244414,1359896290
+dimwishlist:item=3754408118&perks=2387244414,365154968
+dimwishlist:item=3754408118&perks=2387244414,1359896290
 
 //}
 
@@ -5137,7 +5262,7 @@ dimwishlist:item=3381450498&perks=2859149211,3673922083
 
 //}
 
-//{
+//{ Dragoncult Sickle
 // Jagged Edge
 // Swordmaster's Guard
 // Slice
@@ -5147,6 +5272,60 @@ dimwishlist:item=3668817296&perks=3666208348,269888150,923806249,2396489472
 dimwishlist:item=3668817296&perks=3666208348,269888150,923806249,831391274
 
 //}
+
+//////////////////////////////////////
+/// VESPER'S HOST WEAPONS
+//////////////////////////////////////
+
+//{ VS Pyroelectric Propellant
+// Arrowhead Brake
+// Ricochet Rounds
+// To the Pain
+// Target Lock
+//notes:Houdini (PvP): God roll is To the Pain + Target Lock. Optimize for range and stability in the minor perks|tags:pvp
+dimwishlist:item=4232480042&perks=839105230,1885400500,3938834702,365154968
+dimwishlist:item=4232480042&perks=3938834702,365154968
+
+//}
+
+//{ VS Gravitic Arrest
+// Arrowhead Brake
+// Accelerated Coils
+// Under Pressure
+// Closing Time
+//notes:Houdini (PvP): God Roll is Under Pressure + Closing Time. Optimize for recoil direction and charge time in the minor perks. |tags:pvp
+dimwishlist:item=93061497&perks=839105230,689005463,1645158859,1194056669
+dimwishlist:item=93061497&perks=1645158859,1194056669
+
+// Arrowhead Brake
+// Accelerated Coils
+// Repulsor Brace, Demolitionist
+// Chain Reaction, Withering Gaze
+//notes:Houdini (PvE): God Roll is Repulsor Brace + Chain Reaction for add clear void builds. Demolitionist and Withering Gaze are also viable perks. Optimize for charge time in the minor perks. |tags:pve
+dimwishlist:item=93061497&perks=839105230,689005463,776531651,2396489472
+dimwishlist:item=93061497&perks=839105230,689005463,3523296417,2396489472
+dimwishlist:item=93061497&perks=839105230,689005463,776531651,1134488199
+dimwishlist:item=93061497&perks=839105230,689005463,3523296417,1134488199
+dimwishlist:item=93061497&perks=776531651,2396489472
+dimwishlist:item=93061497&perks=3523296417,2396489472
+dimwishlist:item=93061497&perks=776531651,1134488199
+dimwishlist:item=93061497&perks=3523296417,1134488199
+
+//}
+
+//{ VS Velocity Baton
+// Quick Launch
+// High-Velocity Rounds
+// Demolitionist, Repulsor Brace
+// Attrition Orbs
+//notes:Houdini (PvE): God Roll is Demolitionist + Attrition Orbs. Repulsor Brace is also viable. Optimize for velocity and reload speed in the minor perks. |tags:pve
+dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275
+dimwishlist:item=1762785663&perks=3525010810,2822142346,776531651,243981275
+dimwishlist:item=1762785663&perks=3523296417,243981275
+dimwishlist:item=1762785663&perks=776531651,243981275
+
+//}
+
 
 //////////////////////////////////////
 /// DEEPSTONE CRYPT WEAPONS
@@ -6404,6 +6583,17 @@ dimwishlist:item=867154247&perks=968510818,3194351027
 
 //}
 
+//{ Maahes HC4
+// Smallbore
+// Tactical Mag
+// Repulsor Brace
+// Frenzy
+//notes:Houdini (PvE): God Roll is Repulsor Brace + Frenzy. There aren't a lot of heavy burst hand cannons, so it is worth keeping one of these just in case. Frenzy means handling and reload speed are not useful, so optimize for magazine size with stability and range in the minor perks. |tags:pve
+dimwishlist:item=1246793994&perks=1482024992,106909392,776531651,4104185692
+dimwishlist:item=1246793994&perks=776531651,4104185692
+
+//}
+
 //////////////////////////////////////
 /// DREAMING CITY WEAPONS
 //////////////////////////////////////
@@ -7259,7 +7449,32 @@ dimwishlist:item=1501688142&perks=839105230,1483536627,968510818,3708227201
 //}
 
 //////////////////////////////////////
-/// Episode Revenant (Season 25) WEAPONS
+/// EPISODE ECHOES (Season 24) WEAPONS
+//////////////////////////////////////
+
+//{ Martyr's Retribution
+// Volatile Launch
+// High-Velocity Rounds
+// Heal Clip, Demolitionist
+// Kill Clip, Incandescent
+//notes:Houdini (PvE): Wave frame GLs have had a bit of a falling off with all of the special ammo side arms in play these days, but definitely worth holding onto the best solar waveframe. God Roll is Heal Clip + Kill Clip, but Demolitionist and Incandescent are also very viable. Optimize for reload speed and blast radius in the minor perks. |tags:pve
+dimwishlist:item=2584830733&perks=332773068,2822142346,3017780555,1015611457
+dimwishlist:item=2584830733&perks=1478423395,2822142346,3017780555,1015611457
+dimwishlist:item=2584830733&perks=332773068,2822142346,3523296417,1015611457
+dimwishlist:item=2584830733&perks=1478423395,2822142346,3523296417,1015611457
+dimwishlist:item=2584830733&perks=332773068,2822142346,3017780555,4293542123
+dimwishlist:item=2584830733&perks=1478423395,2822142346,3017780555,4293542123
+dimwishlist:item=2584830733&perks=332773068,2822142346,3523296417,4293542123
+dimwishlist:item=2584830733&perks=1478423395,2822142346,3523296417,4293542123
+dimwishlist:item=2584830733&perks=3017780555,1015611457
+dimwishlist:item=2584830733&perks=3523296417,1015611457
+dimwishlist:item=2584830733&perks=3017780555,4293542123
+dimwishlist:item=2584830733&perks=3523296417,4293542123
+
+//}
+
+//////////////////////////////////////
+/// EPISODE REVENANT (Season 25) WEAPONS
 //////////////////////////////////////
 
 //{ Chroma Rush
