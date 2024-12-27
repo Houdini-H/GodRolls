@@ -2,30 +2,14 @@ title:Houdini's God Rolls
 description:Houdini's wishlist for the Noble Sacrifice clan and friends
 
 // TODO:
-Claws of the Wolf
-Gridskipper
-Jurassic Green
-Vantage Point
-Arcane Embrace
-Ded Gramarye IV
-Legato-11
-Scavenger's Fate
-Sojourner's Tale
-Mechabre
-Soverignty
-Veleda-F
-Noxious Vetiver
-Shayura's Wrath
-Acosmic
-Bitter/Sweet
-VS Chill Inhibitor
-Wicked Sister
 Line in the Sand
 Suspectum-4FR
 Archon's Thunder
 Heretic's Fervor
 Tomorrow's Answer
 Braytech Werewolf
+
+Dawning Weapons
 
 
 //////////////////////////////////////
@@ -2817,6 +2801,39 @@ dimwishlist:item=2300143112&perks=1354429876,1546637391
 
 //}
 
+//{ Shayura's Wrath
+// Smallbore, Corkscrew Rifling
+// Ricochet Rounds
+// Zen Moment, Dynamic Sway Reduction,
+// Tap The Trigger, Target Lock
+//notes:Houdini (PvP): God Roll is Zen Moment + Tap the Trigger. Dynamic Sway Reduction is also viable and Target Lock may become insane based on the next rework. In the minor perks optimize for stability and range. |tags:pvp
+dimwishlist:item=501345268&perks=1482024992,1885400500,2387244414,1890422124
+dimwishlist:item=501345268&perks=4090651448,1885400500,2387244414,1890422124
+dimwishlist:item=501345268&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=501345268&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=501345268&perks=1482024992,1885400500,2387244414,365154968
+dimwishlist:item=501345268&perks=4090651448,1885400500,2387244414,365154968
+dimwishlist:item=501345268&perks=1482024992,1885400500,1359896290,365154968
+dimwishlist:item=501345268&perks=4090651448,1885400500,1359896290,365154968
+dimwishlist:item=501345268&perks=2387244414,1890422124
+dimwishlist:item=501345268&perks=1359896290,1890422124
+dimwishlist:item=501345268&perks=2387244414,365154968
+dimwishlist:item=501345268&perks=1359896290,365154968
+dimwishlist:item=2022294213&perks=1482024992,1885400500,2387244414,1890422124
+dimwishlist:item=2022294213&perks=4090651448,1885400500,2387244414,1890422124
+dimwishlist:item=2022294213&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=2022294213&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=2022294213&perks=1482024992,1885400500,2387244414,365154968
+dimwishlist:item=2022294213&perks=4090651448,1885400500,2387244414,365154968
+dimwishlist:item=2022294213&perks=1482024992,1885400500,1359896290,365154968
+dimwishlist:item=2022294213&perks=4090651448,1885400500,1359896290,365154968
+dimwishlist:item=2022294213&perks=2387244414,1890422124
+dimwishlist:item=2022294213&perks=1359896290,1890422124
+dimwishlist:item=2022294213&perks=2387244414,365154968
+dimwishlist:item=2022294213&perks=1359896290,365154968
+
+//}
+
 //////////////////////////////////////
 /// IRON BANNER WEAPONS
 //////////////////////////////////////
@@ -3278,6 +3295,17 @@ dimwishlist:item=480368036&perks=3525010810,1380253176,951095735,4104185692
 dimwishlist:item=480368036&perks=951095735,2978966579
 dimwishlist:item=480368036&perks=951095735,4104185692
 
+
+//}
+
+//{ Claws of the Wolf
+// Arrowhead Brake
+// Ricochet Rounds
+// Headseeker
+// Zen Moment
+//notes:Houdini (PvP): Claws of the Wolf is very good. God roll is Headseeker + Zen Moment and there really isn't any other option. Optimize for recoil direction and stability in the minor perks.|tags:pvp
+dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,2387244414
+dimwishlist:item=1505862304&perks=460017080,2387244414
 
 //}
 
@@ -4538,6 +4566,42 @@ dimwishlist:item=1948035256&perks=106909392,2284787283,1771339417
 	
 //}
 
+//{ Wicked Sister
+// Quick Launch
+// Spike Grenades, Augmented Drum, Mini Frags
+// Envious Arsenal, Clown Cartridge
+// Bait and Switch, Explosive Light
+//notes:Houdini (PvE): God roll is Envious Arsenal + Bait and Switch. I'll likely be spending my Vanguard engrams for one of these this season. Clown Cartridge and Explosive Light are also reasonable options. Optimize for velocity and handling in the minor perks. |tags:pve
+dimwishlist:item=2039776723&perks=3525010810,3301904089,3987942396,3078487919
+dimwishlist:item=2039776723&perks=3525010810,1771897777,3987942396,3078487919
+dimwishlist:item=2039776723&perks=3525010810,332133599,3987942396,3078487919
+dimwishlist:item=2039776723&perks=3525010810,3301904089,2284787283,3078487919
+dimwishlist:item=2039776723&perks=3525010810,1771897777,2284787283,3078487919
+dimwishlist:item=2039776723&perks=3525010810,332133599,2284787283,3078487919
+dimwishlist:item=2039776723&perks=3525010810,3301904089,3987942396,3194351027
+dimwishlist:item=2039776723&perks=3525010810,1771897777,3987942396,3194351027
+dimwishlist:item=2039776723&perks=3525010810,332133599,3987942396,3194351027
+dimwishlist:item=2039776723&perks=3525010810,3301904089,2284787283,3194351027
+dimwishlist:item=2039776723&perks=3525010810,1771897777,2284787283,3194351027
+dimwishlist:item=2039776723&perks=3525010810,332133599,2284787283,3194351027
+dimwishlist:item=2039776723&perks=3987942396,3078487919
+dimwishlist:item=2039776723&perks=2284787283,3078487919
+dimwishlist:item=2039776723&perks=3987942396,3194351027
+dimwishlist:item=2039776723&perks=2284787283,3194351027
+
+// Volatile Launch
+// High-Explosive Ordnance, High-Velocity Rounds
+// Impulse Amplifier
+// Explosive Light
+//notes:Houdini (PvP): For PvP, if you don't hit 70 blast radius dismantle it. God roll is Impulse Amplifier + Explosive Light. Optimize for blast radius and velocity in them minor perks. |tags:pvp
+dimwishlist:item=2039776723&perks=332773068,1380253176,951095735,3194351027
+dimwishlist:item=2039776723&perks=1478423395,1380253176,951095735,3194351027
+dimwishlist:item=2039776723&perks=332773068,2822142346,951095735,3194351027
+dimwishlist:item=2039776723&perks=1478423395,2822142346,951095735,3194351027
+dimwishlist:item=2039776723&perks=951095735,3194351027
+
+//}
+
 //////////////////////////////////////
 /// BRAVE WEAPONS
 //////////////////////////////////////
@@ -5326,6 +5390,75 @@ dimwishlist:item=1762785663&perks=776531651,243981275
 
 //}
 
+//{ VS Chill Inhibitor
+// Hard Launch, Quick Launch, Smart Drift Control
+// Spike Grenades, Augmented Drum, Mini Frags
+// Envious Arsenal, Cascade Point
+// Bait and Switch, Explosive Light, Surrounded
+//notes:Houdini (PvE): God Roll is Envious Arsenal + Bait and Switch. I'd also keep a Cascade Point + Bait and Switch roll. There are some options for utility/add clear rolls, but I'm not holding onto any of those since we have a crafted wave-frame stasis GL which seems more likely to be used in any sort of add clear situation. |tags:pve
+dimwishlist:item=1762785662&perks=981914802,3301904089,3987942396,3078487919
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3078487919
+dimwishlist:item=1762785662&perks=3798852852,3301904089,3987942396,3078487919
+dimwishlist:item=1762785662&perks=981914802,1771897777,3987942396,3078487919
+dimwishlist:item=1762785662&perks=3525010810,1771897777,3987942396,3078487919
+dimwishlist:item=1762785662&perks=3798852852,1771897777,3987942396,3078487919
+dimwishlist:item=1762785662&perks=981914802,332133599,3987942396,3078487919
+dimwishlist:item=1762785662&perks=3525010810,332133599,3987942396,3078487919
+dimwishlist:item=1762785662&perks=3798852852,332133599,3987942396,3078487919
+dimwishlist:item=1762785662&perks=981914802,3301904089,3751912585,3078487919
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3078487919
+dimwishlist:item=1762785662&perks=3798852852,3301904089,3751912585,3078487919
+dimwishlist:item=1762785662&perks=981914802,1771897777,3751912585,3078487919
+dimwishlist:item=1762785662&perks=3525010810,1771897777,3751912585,3078487919
+dimwishlist:item=1762785662&perks=3798852852,1771897777,3751912585,3078487919
+dimwishlist:item=1762785662&perks=981914802,332133599,3751912585,3078487919
+dimwishlist:item=1762785662&perks=3525010810,332133599,3751912585,3078487919
+dimwishlist:item=1762785662&perks=3798852852,332133599,3751912585,3078487919
+dimwishlist:item=1762785662&perks=981914802,3301904089,3987942396,3194351027
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3194351027
+dimwishlist:item=1762785662&perks=3798852852,3301904089,3987942396,3194351027
+dimwishlist:item=1762785662&perks=981914802,1771897777,3987942396,3194351027
+dimwishlist:item=1762785662&perks=3525010810,1771897777,3987942396,3194351027
+dimwishlist:item=1762785662&perks=3798852852,1771897777,3987942396,3194351027
+dimwishlist:item=1762785662&perks=981914802,332133599,3987942396,3194351027
+dimwishlist:item=1762785662&perks=3525010810,332133599,3987942396,3194351027
+dimwishlist:item=1762785662&perks=3798852852,332133599,3987942396,3194351027
+dimwishlist:item=1762785662&perks=981914802,3301904089,3751912585,3194351027
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3194351027
+dimwishlist:item=1762785662&perks=3798852852,3301904089,3751912585,3194351027
+dimwishlist:item=1762785662&perks=981914802,1771897777,3751912585,3194351027
+dimwishlist:item=1762785662&perks=3525010810,1771897777,3751912585,3194351027
+dimwishlist:item=1762785662&perks=3798852852,1771897777,3751912585,3194351027
+dimwishlist:item=1762785662&perks=981914802,332133599,3751912585,3194351027
+dimwishlist:item=1762785662&perks=3525010810,332133599,3751912585,3194351027
+dimwishlist:item=1762785662&perks=3798852852,332133599,3751912585,3194351027
+dimwishlist:item=1762785662&perks=981914802,3301904089,3987942396,3708227201
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3708227201
+dimwishlist:item=1762785662&perks=3798852852,3301904089,3987942396,3708227201
+dimwishlist:item=1762785662&perks=981914802,1771897777,3987942396,3708227201
+dimwishlist:item=1762785662&perks=3525010810,1771897777,3987942396,3708227201
+dimwishlist:item=1762785662&perks=3798852852,1771897777,3987942396,3708227201
+dimwishlist:item=1762785662&perks=981914802,332133599,3987942396,3708227201
+dimwishlist:item=1762785662&perks=3525010810,332133599,3987942396,3708227201
+dimwishlist:item=1762785662&perks=3798852852,332133599,3987942396,3708227201
+dimwishlist:item=1762785662&perks=981914802,3301904089,3751912585,3708227201
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3708227201
+dimwishlist:item=1762785662&perks=3798852852,3301904089,3751912585,3708227201
+dimwishlist:item=1762785662&perks=981914802,1771897777,3751912585,3708227201
+dimwishlist:item=1762785662&perks=3525010810,1771897777,3751912585,3708227201
+dimwishlist:item=1762785662&perks=3798852852,1771897777,3751912585,3708227201
+dimwishlist:item=1762785662&perks=981914802,332133599,3751912585,3708227201
+dimwishlist:item=1762785662&perks=3525010810,332133599,3751912585,3708227201
+dimwishlist:item=1762785662&perks=3798852852,332133599,3751912585,3708227201
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+dimwishlist:item=1762785662&perks=3751912585,3078487919
+dimwishlist:item=1762785662&perks=3987942396,3194351027
+dimwishlist:item=1762785662&perks=3751912585,3194351027
+dimwishlist:item=1762785662&perks=3987942396,3708227201
+dimwishlist:item=1762785662&perks=3751912585,3708227201
+
+//}
+
 
 //////////////////////////////////////
 /// DEEPSTONE CRYPT WEAPONS
@@ -6014,6 +6147,28 @@ dimwishlist:item=3871226707&perks=1840239774,1087426260,3300816228,1546637391
 dimwishlist:item=3871226707&perks=4090651448,1087426260,3300816228,1546637391
 dimwishlist:item=3871226707&perks=1482024992,1087426260,3300816228,1546637391
 
+// Fluted Barrel, Corkscrew Rifling, Smallbore
+// Accurized Rounds
+// Lone Wolf, Snapshot Sights
+// Closing Time, Opening Shot
+//notes:Houdini (PvP): Mechabre was already my favorite energy slot sniper, and with the latest perk refresh it gets even better with Lone Wolf + Closing Time. Optimize for handling and range in the minor perks. |tags:pvp
+dimwishlist:item=2477980485&perks=1840239774,3142289711,2579169598,1194056669
+dimwishlist:item=2477980485&perks=4090651448,3142289711,2579169598,1194056669
+dimwishlist:item=2477980485&perks=1482024992,3142289711,2579169598,1194056669
+dimwishlist:item=2477980485&perks=1840239774,3142289711,957782887,1194056669
+dimwishlist:item=2477980485&perks=4090651448,3142289711,957782887,1194056669
+dimwishlist:item=2477980485&perks=1482024992,3142289711,957782887,1194056669
+dimwishlist:item=2477980485&perks=1840239774,3142289711,2579169598,47981717
+dimwishlist:item=2477980485&perks=4090651448,3142289711,2579169598,47981717
+dimwishlist:item=2477980485&perks=1482024992,3142289711,2579169598,47981717
+dimwishlist:item=2477980485&perks=1840239774,3142289711,957782887,47981717
+dimwishlist:item=2477980485&perks=4090651448,3142289711,957782887,47981717
+dimwishlist:item=2477980485&perks=1482024992,3142289711,957782887,47981717
+dimwishlist:item=2477980485&perks=2579169598,1194056669
+dimwishlist:item=2477980485&perks=957782887,1194056669
+dimwishlist:item=2477980485&perks=2579169598,47981717
+dimwishlist:item=2477980485&perks=957782887,47981717
+
 //}
 
 //{ Jurassic Green
@@ -6055,6 +6210,24 @@ dimwishlist:item=3103255595&perks=1428297954,4104185692
 dimwishlist:item=3103255595&perks=3017780555,2610012052
 dimwishlist:item=3103255595&perks=1428297954,2610012052
 
+// Arrowhead Brake
+// Tactical Mag, Flared Magwell
+// Lone Wolf
+// Headseeker
+//notes:Houdini (PvP): Jurassic Green was updated to include Lone Wolf, but I still wouldn't use this over the alternative energy slot rapid fires that roll Zen Moment + Headseeker with Ricochet Rounds. God roll is Lone Wolf + Headseeker. Optimize for recoil direction and stability in the minor perks. |tags:pvp
+dimwishlist:item=689294985&perks=839105230,106909392,2579169598,460017080
+dimwishlist:item=689294985&perks=839105230,3230963543,2579169598,460017080
+dimwishlist:item=689294985&perks=2579169598,460017080
+
+// Arrowhead Brake
+// Extended Mag, Appended Mag
+// Heal Clip
+// Frenzy
+//notes:Houdini (PvE): For PvE, Heal Clip + Frenzy is the God Roll. Optimize for magazine size in the minor perks. |tags:pve
+dimwishlist:item=689294985&perks=839105230,2420895100,3017780555,4104185692
+dimwishlist:item=689294985&perks=839105230,1087426260,3017780555,4104185692
+dimwishlist:item=689294985&perks=3017780555,4104185692
+
 //}
 
 //{ Acosmic
@@ -6073,6 +6246,14 @@ dimwishlist:item=413901114&perks=951095735,3194351027
 //notes:Houdini (PvE): Probably not worth holding onto one of these since there are better options in the game. Best roll is Clown Cartridge + Explosive Light. Optimize for reload speed in the minor perks. |tags:pve
 dimwishlist:item=413901114&perks=3525010810,3301904089,2284787283,3194351027
 dimwishlist:item=413901114&perks=2284787283,3194351027
+
+// Quick Launch
+// Spike Grenades
+// Clown Cartridge
+// Bait And Switch
+//notes:Houdini (PvE): I'm not keeping a single Acosmic this year. God Roll is Clown Cartridge + Bait and Switch, but there are better options for heavy GLs these days. |tags:pve
+dimwishlist:item=425681240&perks=3525010810,3301904089,2284787283,3078487919
+dimwishlist:item=425681240&perks=2284787283,3078487919
 
 //}
 
@@ -6096,6 +6277,40 @@ dimwishlist:item=3558681245&perks=1359896290,365154968
 dimwishlist:item=3558681245&perks=2387244414,1890422124
 dimwishlist:item=3558681245&perks=1359896290,1890422124
 
+
+//}
+
+//{ Arcane Embrace
+// Arrowhead Brake
+// Alloy Magazine, Tactical Mag, Appended Mag
+// Fourth Time's The Charm, Threat Detector
+// Precision Instrument, Surrounded
+//notes:Houdini (PvE): God roll is Fourth Time's The Charm + Precision Instrument. As the only weapon with this frame, it's worth keeping a DPS option in your vault especially since it is time gated to Festival of the Lost. I'm also keeping a Surrounded roll just in case it is useful for roam encounters someday. |tags:pve
+dimwishlist:item=3649985571&perks=839105230,1431678320,1354429876,555281244
+dimwishlist:item=3649985571&perks=839105230,106909392,1354429876,555281244
+dimwishlist:item=3649985571&perks=839105230,1087426260,1354429876,555281244
+dimwishlist:item=3649985571&perks=839105230,1431678320,4071163871,555281244
+dimwishlist:item=3649985571&perks=839105230,106909392,4071163871,555281244
+dimwishlist:item=3649985571&perks=839105230,1087426260,4071163871,555281244
+dimwishlist:item=3649985571&perks=839105230,1431678320,1354429876,3708227201
+dimwishlist:item=3649985571&perks=839105230,106909392,1354429876,3708227201
+dimwishlist:item=3649985571&perks=839105230,1087426260,1354429876,3708227201
+dimwishlist:item=3649985571&perks=839105230,1431678320,4071163871,3708227201
+dimwishlist:item=3649985571&perks=839105230,106909392,4071163871,3708227201
+dimwishlist:item=3649985571&perks=839105230,1087426260,4071163871,3708227201
+dimwishlist:item=3649985571&perks=1354429876,555281244
+dimwishlist:item=3649985571&perks=4071163871,555281244
+dimwishlist:item=3649985571&perks=1354429876,3708227201
+dimwishlist:item=3649985571&perks=4071163871,3708227201
+
+// Fluted Barrel, Corkscrew Rifling
+// Accurized Rounds
+// Lone Wolf
+// Closing Time
+//notes:Houdini (PvP): God Roll is Lone Wolf + Closing Time. I'm not using this in PvP right now, but given it's a one-of-a-kind frame, it's worth holding onto on the off chance it gets buffed. |tags:pvp
+dimwishlist:item=3649985571&perks=1840239774,3142289711,2579169598,1194056669
+dimwishlist:item=3649985571&perks=4090651448,3142289711,2579169598,1194056669
+dimwishlist:item=3649985571&perks=2579169598,1194056669
 
 //}
 
@@ -6591,6 +6806,95 @@ dimwishlist:item=867154247&perks=968510818,3194351027
 //notes:Houdini (PvE): God Roll is Repulsor Brace + Frenzy. There aren't a lot of heavy burst hand cannons, so it is worth keeping one of these just in case. Frenzy means handling and reload speed are not useful, so optimize for magazine size with stability and range in the minor perks. |tags:pve
 dimwishlist:item=1246793994&perks=1482024992,106909392,776531651,4104185692
 dimwishlist:item=1246793994&perks=776531651,4104185692
+
+//}
+
+//{ Ded Gramarye IV
+// Corkscrew Rifling
+// Assault Mag
+// Discord
+// Chain Reaction
+//notes:Houdini (PvE): There is only one roll of this weapon worth holding: Discord + Chain Reaction.|tags:pve
+dimwishlist:item=499245245&perks=4090651448,791862061,3978468247,2396489472
+dimwishlist:item=499245245&perks=3978468247,2396489472
+
+//}
+
+//{ Legato-11
+// Arrowhead Brake, Corkscrew Rifling
+// Assault Mag, Appended Mag, Tactical Mag,
+// Auto-Loading Holster, Heal Clip,
+// Vorpal Weapon, Frenzy
+//notes:Houdini (PvE): God roll is Auto-Loading Holster + Vorpal Weapon. Frenzy is also a viable option. I'm also keeping a Heal-Clip roll since that is a unique perk for shotguns. |tags:pve
+dimwishlist:item=3753063346&perks=839105230,791862061,3300816228,1546637391
+dimwishlist:item=3753063346&perks=4090651448,791862061,3300816228,1546637391
+dimwishlist:item=3753063346&perks=839105230,1087426260,3300816228,1546637391
+dimwishlist:item=3753063346&perks=4090651448,1087426260,3300816228,1546637391
+dimwishlist:item=3753063346&perks=839105230,106909392,3300816228,1546637391
+dimwishlist:item=3753063346&perks=4090651448,106909392,3300816228,1546637391
+dimwishlist:item=3753063346&perks=839105230,791862061,3017780555,1546637391
+dimwishlist:item=3753063346&perks=4090651448,791862061,3017780555,1546637391
+dimwishlist:item=3753063346&perks=839105230,1087426260,3017780555,1546637391
+dimwishlist:item=3753063346&perks=4090651448,1087426260,3017780555,1546637391
+dimwishlist:item=3753063346&perks=839105230,106909392,3017780555,1546637391
+dimwishlist:item=3753063346&perks=4090651448,106909392,3017780555,1546637391
+dimwishlist:item=3753063346&perks=839105230,791862061,3300816228,4104185692
+dimwishlist:item=3753063346&perks=4090651448,791862061,3300816228,4104185692
+dimwishlist:item=3753063346&perks=839105230,1087426260,3300816228,4104185692
+dimwishlist:item=3753063346&perks=4090651448,1087426260,3300816228,4104185692
+dimwishlist:item=3753063346&perks=839105230,106909392,3300816228,4104185692
+dimwishlist:item=3753063346&perks=4090651448,106909392,3300816228,4104185692
+dimwishlist:item=3753063346&perks=839105230,791862061,3017780555,4104185692
+dimwishlist:item=3753063346&perks=4090651448,791862061,3017780555,4104185692
+dimwishlist:item=3753063346&perks=839105230,1087426260,3017780555,4104185692
+dimwishlist:item=3753063346&perks=4090651448,1087426260,3017780555,4104185692
+dimwishlist:item=3753063346&perks=839105230,106909392,3017780555,4104185692
+dimwishlist:item=3753063346&perks=4090651448,106909392,3017780555,4104185692
+dimwishlist:item=3753063346&perks=3300816228,1546637391
+dimwishlist:item=3753063346&perks=3017780555,1546637391
+dimwishlist:item=3753063346&perks=3300816228,4104185692
+dimwishlist:item=3753063346&perks=3017780555,4104185692
+
+// Fluted Barrel, Corkscrew Rifling
+// Accurized Rounds
+// Lone Wolf
+// Closing Time
+//notes:Houdini (PvP): God Roll is Lone Wolf + Closing Time. Optimize for range and handling in the minor perks. |tags:pvp
+dimwishlist:item=3753063346&perks=1840239774,3142289711,2579169598,1194056669
+dimwishlist:item=3753063346&perks=4090651448,3142289711,2579169598,1194056669
+dimwishlist:item=3753063346&perks=2579169598,1194056669
+
+//}
+
+//{ Veleda-F
+// Arrowhead Brake, Fluted Barrel
+// Tactical Mag, Appended Mag
+// Air Trigger
+// Withering Gaze
+//notes:Houdini (PvE): The only perk worth keeping is Withering Gaze. Air Trigger is probably the best option in the 3rd column since it provides increased reserves. Optimize for magazine size and handling in the minor perks.|tags:pve
+dimwishlist:item=4200122994&perks=839105230,106909392,1421772400,1134488199
+dimwishlist:item=4200122994&perks=1840239774,106909392,1421772400,1134488199
+dimwishlist:item=4200122994&perks=839105230,1087426260,1421772400,1134488199
+dimwishlist:item=4200122994&perks=1840239774,1087426260,1421772400,1134488199
+dimwishlist:item=4200122994&perks=1421772400,1134488199
+
+// Fluted Barrel, Arrowhead Brake
+// Accurized Rounds
+// Lone Wolf, Snapshot Sights
+// Closing Time, Opening Shot
+//notes:Houdini (PvP): As a sniper rifle collector, I'll be holding onto at least one roll of this. God roll is Lone Wolf + Closing Time to maximize aim assist. Snapshot Sights and Opening Shot are also good options. Optimize for handling in the minor perks. |tags:pvp
+dimwishlist:item=4200122994&perks=1840239774,3142289711,2579169598,1194056669
+dimwishlist:item=4200122994&perks=839105230,3142289711,2579169598,1194056669
+dimwishlist:item=4200122994&perks=1840239774,3142289711,957782887,1194056669
+dimwishlist:item=4200122994&perks=839105230,3142289711,957782887,1194056669
+dimwishlist:item=4200122994&perks=1840239774,3142289711,2579169598,47981717
+dimwishlist:item=4200122994&perks=839105230,3142289711,2579169598,47981717
+dimwishlist:item=4200122994&perks=1840239774,3142289711,957782887,47981717
+dimwishlist:item=4200122994&perks=839105230,3142289711,957782887,47981717
+dimwishlist:item=4200122994&perks=2579169598,1194056669
+dimwishlist:item=4200122994&perks=957782887,1194056669
+dimwishlist:item=4200122994&perks=2579169598,47981717
+dimwishlist:item=4200122994&perks=957782887,47981717
 
 //}
 
@@ -7473,6 +7777,17 @@ dimwishlist:item=2584830733&perks=3523296417,4293542123
 
 //}
 
+//{ Line In The Sand
+// Arrowhead Brake
+// Accelerated Coils
+// Clown Cartridge
+// Bait and Switch
+//notes:Houdini (PvE): God roll is Clown Cartridge + Bait and Switch. No meta currently, but I'll be holding onto one as the only good arc precision linear. Optimize for recoil direction and charge time in the minor perks.|tags:pve
+dimwishlist:item=2450049485&perks=839105230,689005463,2284787283,3078487919
+dimwishlist:item=2450049485&perks=2284787283,3078487919
+
+//}
+
 //////////////////////////////////////
 /// EPISODE REVENANT (Season 25) WEAPONS
 //////////////////////////////////////
@@ -7579,6 +7894,111 @@ dimwishlist:item=2823644677&perks=3619207468,3038247973
 dimwishlist:item=2823644677&perks=2579169598,3038247973
 dimwishlist:item=2823644677&perks=3619207468,555281244
 dimwishlist:item=2823644677&perks=2579169598,555281244
+
+
+//}
+
+//{ Gridskipper
+// Arrowhead Brake
+// Ricochet Rounds
+// Headseeker
+// Zen Moment
+//notes:Houdini (PvP): Gridskipper is just a better version of Claws of the Wolf. God Roll is Headseeker + Zen Moment. Optimize for recoil direction and stability in the minor perks|tags:pvp
+dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,2387244414
+dimwishlist:item=1505862304&perks=460017080,2387244414
+
+//}
+
+//{ Vantage Point
+// Arrowhead Brake
+// Accurized Rounds, Flared Magwell,
+// Lone Wolf
+// Headseeker
+//notes:Houdini (PvP): God roll is Lone Wolf + Headseeker. If I get a perfect roll, I'll keep it, but I don't expect this to be meta for a while. |tags:pvp
+dimwishlist:item=3830941962&perks=839105230,3142289711,2579169598,460017080
+dimwishlist:item=3830941962&perks=839105230,3230963543,2579169598,460017080
+dimwishlist:item=3830941962&perks=2579169598,460017080
+
+// Arrowhead Brake
+// Appended Mag
+// Eddy Current
+// Jolting Feedback
+//notes:Houdini (PvE): God Roll is Eddy Current + Jolting Feedback. The only reason to keep this weapon is because Jolting Feedback is a rare perk. When better weapons get Jolting Feedback, this will probably be dismantled. |tags:pve
+dimwishlist:item=3830941962&perks=839105230,1087426260,684456054,3966416502
+dimwishlist:item=3830941962&perks=684456054,3966416502
+
+//}
+
+//{ Scavenger's Fate
+// Corkscrew Rifling, Smallbore
+// Assault Mag, Accurized Rounds
+// Lone Wolf
+// Closing Time
+//notes:Houdini (PvP): I'm excited about Scavenger's Fate. I think this might replace my Matador. God roll is Lone Wolf + Closing Time. Optimize for range and handling in the minor perks. |tags:pvp
+dimwishlist:item=2913577176&perks=4090651448,791862061,2579169598,1194056669
+dimwishlist:item=2913577176&perks=1482024992,791862061,2579169598,1194056669
+dimwishlist:item=2913577176&perks=4090651448,3142289711,2579169598,1194056669
+dimwishlist:item=2913577176&perks=1482024992,3142289711,2579169598,1194056669
+dimwishlist:item=2913577176&perks=2579169598,1194056669
+
+//}
+
+//{ Sojourner's Tale
+// Corkscrew Rifling, Smallbore, Fluted Barrel
+// Accurized Rounds, Assault Mag,
+// Quickdraw
+// Opening Shot
+//notes:Houdini (PvP): God Roll is Quick Draw + Opening Shot. Optimize for handling and range in the minor perks. |tags:pvp
+dimwishlist:item=2130875369&perks=4090651448,3142289711,706527188,47981717
+dimwishlist:item=2130875369&perks=1482024992,3142289711,706527188,47981717
+dimwishlist:item=2130875369&perks=1840239774,3142289711,706527188,47981717
+dimwishlist:item=2130875369&perks=4090651448,791862061,706527188,47981717
+dimwishlist:item=2130875369&perks=1482024992,791862061,706527188,47981717
+dimwishlist:item=2130875369&perks=1840239774,791862061,706527188,47981717
+dimwishlist:item=2130875369&perks=706527188,47981717
+
+//}
+
+//{ Sovereignty
+// Arrowhead Brake, Fluted Barrel
+// Tactical Mag, Appended Mag
+// Explosive Payload
+// Withering Gaze
+//notes:Houdini (PvE): The only perk worth keeping is Withering Gaze. Explosive Payload is probably the best option in the 3rd column to go with it. Optimize for magazine size and handling in the minor perks. |tags:pve
+dimwishlist:item=3818198556&perks=839105230,106909392,3038247973,1134488199
+dimwishlist:item=3818198556&perks=1840239774,106909392,3038247973,1134488199
+dimwishlist:item=3818198556&perks=839105230,1087426260,3038247973,1134488199
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3038247973,1134488199
+dimwishlist:item=3818198556&perks=3038247973,1134488199
+
+
+//}
+
+//{ Noxious Vetiver
+// Smallbore, Corkscrew Rifling
+// Flared Magwell, Tactical Mag
+// Loose Change
+// Jolting Feedback
+//notes:Houdini (PvE): This is the only Jolting Feedback SMG, so I'm keeping a roll with that, but otherwise, the 3rd column perks aren't worth using. |tags:pve
+dimwishlist:item=825495813&perks=1482024992,3230963543,1119449540,3966416502
+dimwishlist:item=825495813&perks=4090651448,3230963543,1119449540,3966416502
+dimwishlist:item=825495813&perks=1482024992,106909392,1119449540,3966416502
+dimwishlist:item=825495813&perks=4090651448,106909392,1119449540,3966416502
+dimwishlist:item=825495813&perks=1119449540,3966416502
+
+
+//}
+
+//{ Bitter/Sweet
+// Quick Launch
+// Spike Grenades
+// Envious Arsenal
+// Bait and Switch, Explosive Light
+//notes:Houdini (PvE): God Roll is Envious Arsenal + Bait and Switch. I'm also keeping an Explosive Light variant in case Bait and Switch ever gets a nerf. Optimize for velocity and handling in the minor perks. |tags:pve
+dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3078487919
+dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3194351027
+dimwishlist:item=2599338625&perks=3987942396,3078487919
+dimwishlist:item=2599338625&perks=3987942396,3194351027
 
 
 //}
