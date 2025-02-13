@@ -1,17 +1,6 @@
 title:Houdini's God Rolls
 description:Houdini's wishlist for the Noble Sacrifice clan and friends
 
-// TODO:
-Line in the Sand
-Suspectum-4FR
-Archon's Thunder
-Heretic's Fervor
-Tomorrow's Answer
-Braytech Werewolf
-
-Dawning Weapons
-
-
 //////////////////////////////////////
 /// TRIALS WEAPONS
 //////////////////////////////////////
@@ -2733,60 +2722,51 @@ dimwishlist:item=3969379530&perks=2387244414,460017080
 //}
 
 //{ Yesterday's Question
-// Smallbore
+// Smallbore, Corkscrew Rifling
 // Ricochet Rounds, High-Caliber Rounds
-// Lone Wolf, To the Pain
+// Lone Wolf
 // Headseeker, Eye of the Storm, Zen Moment, Moving Target
-//notes:Houdini (PvP): God Roll is Lone Wolf + Headseeker, but there are many excellent 4th column perks to choose from. Optimize for stability and range in the minor perks. |tags:pvp
-dimwishlist:item=2378785953&perks=1482024992,1885400500,2378785953,460017080
-dimwishlist:item=2378785953&perks=1482024992,1561002382,2378785953,460017080
-dimwishlist:item=2378785953&perks=1482024992,1885400500,3938834702,460017080
-dimwishlist:item=2378785953&perks=1482024992,1561002382,3938834702,460017080
-dimwishlist:item=2378785953&perks=1482024992,1885400500,2378785953,699525795
-dimwishlist:item=2378785953&perks=1482024992,1561002382,2378785953,699525795
-dimwishlist:item=2378785953&perks=1482024992,1885400500,3938834702,699525795
-dimwishlist:item=2378785953&perks=1482024992,1561002382,3938834702,699525795
-dimwishlist:item=2378785953&perks=1482024992,1885400500,2378785953,2387244414
-dimwishlist:item=2378785953&perks=1482024992,1561002382,2378785953,2387244414
-dimwishlist:item=2378785953&perks=1482024992,1885400500,3938834702,2387244414
-dimwishlist:item=2378785953&perks=1482024992,1561002382,3938834702,2387244414
-dimwishlist:item=2378785953&perks=1482024992,1885400500,2378785953,588594999
-dimwishlist:item=2378785953&perks=1482024992,1561002382,2378785953,588594999
-dimwishlist:item=2378785953&perks=1482024992,1885400500,3938834702,588594999
-dimwishlist:item=2378785953&perks=1482024992,1561002382,3938834702,588594999
-dimwishlist:item=2378785953&perks=2378785953,460017080
-dimwishlist:item=2378785953&perks=3938834702,460017080
-dimwishlist:item=2378785953&perks=2378785953,699525795
-dimwishlist:item=2378785953&perks=3938834702,699525795
-dimwishlist:item=2378785953&perks=2378785953,2387244414
-dimwishlist:item=2378785953&perks=3938834702,2387244414
-dimwishlist:item=2378785953&perks=2378785953,588594999
-dimwishlist:item=2378785953&perks=3938834702,588594999
-dimwishlist:item=2300143112&perks=1482024992,1885400500,2378785953,460017080
-dimwishlist:item=2300143112&perks=1482024992,1561002382,2378785953,460017080
-dimwishlist:item=2300143112&perks=1482024992,1885400500,3938834702,460017080
-dimwishlist:item=2300143112&perks=1482024992,1561002382,3938834702,460017080
-dimwishlist:item=2300143112&perks=1482024992,1885400500,2378785953,699525795
-dimwishlist:item=2300143112&perks=1482024992,1561002382,2378785953,699525795
-dimwishlist:item=2300143112&perks=1482024992,1885400500,3938834702,699525795
-dimwishlist:item=2300143112&perks=1482024992,1561002382,3938834702,699525795
-dimwishlist:item=2300143112&perks=1482024992,1885400500,2378785953,2387244414
-dimwishlist:item=2300143112&perks=1482024992,1561002382,2378785953,2387244414
-dimwishlist:item=2300143112&perks=1482024992,1885400500,3938834702,2387244414
-dimwishlist:item=2300143112&perks=1482024992,1561002382,3938834702,2387244414
-dimwishlist:item=2300143112&perks=1482024992,1885400500,2378785953,588594999
-dimwishlist:item=2300143112&perks=1482024992,1561002382,2378785953,588594999
-dimwishlist:item=2300143112&perks=1482024992,1885400500,3938834702,588594999
-dimwishlist:item=2300143112&perks=1482024992,1561002382,3938834702,588594999
-dimwishlist:item=2300143112&perks=2378785953,460017080
-dimwishlist:item=2300143112&perks=3938834702,460017080
-dimwishlist:item=2300143112&perks=2378785953,699525795
-dimwishlist:item=2300143112&perks=3938834702,699525795
-dimwishlist:item=2300143112&perks=2378785953,2387244414
-dimwishlist:item=2300143112&perks=3938834702,2387244414
-dimwishlist:item=2300143112&perks=2378785953,588594999
-dimwishlist:item=2300143112&perks=3938834702,588594999
-
+//notes:Houdini (PvP): God Roll is Lone Wolf + Headseeker, but there are many excellent 4th column perks to choose from. Optimize for stability and range in the minor perks.|tags:pvp
+dimwishlist:item=2378785953&perks=1482024992,1885400500,2579169598,460017080
+dimwishlist:item=2378785953&perks=4090651448,1885400500,2579169598,460017080
+dimwishlist:item=2378785953&perks=1482024992,1561002382,2579169598,460017080
+dimwishlist:item=2378785953&perks=4090651448,1561002382,2579169598,460017080
+dimwishlist:item=2378785953&perks=1482024992,1885400500,2579169598,699525795
+dimwishlist:item=2378785953&perks=4090651448,1885400500,2579169598,699525795
+dimwishlist:item=2378785953&perks=1482024992,1561002382,2579169598,699525795
+dimwishlist:item=2378785953&perks=4090651448,1561002382,2579169598,699525795
+dimwishlist:item=2378785953&perks=1482024992,1885400500,2579169598,2387244414
+dimwishlist:item=2378785953&perks=4090651448,1885400500,2579169598,2387244414
+dimwishlist:item=2378785953&perks=1482024992,1561002382,2579169598,2387244414
+dimwishlist:item=2378785953&perks=4090651448,1561002382,2579169598,2387244414
+dimwishlist:item=2378785953&perks=1482024992,1885400500,2579169598,588594999
+dimwishlist:item=2378785953&perks=4090651448,1885400500,2579169598,588594999
+dimwishlist:item=2378785953&perks=1482024992,1561002382,2579169598,588594999
+dimwishlist:item=2378785953&perks=4090651448,1561002382,2579169598,588594999
+dimwishlist:item=2378785953&perks=2579169598,460017080
+dimwishlist:item=2378785953&perks=2579169598,699525795
+dimwishlist:item=2378785953&perks=2579169598,2387244414
+dimwishlist:item=2378785953&perks=2579169598,588594999
+dimwishlist:item=2300143112&perks=1482024992,1885400500,2579169598,460017080
+dimwishlist:item=2300143112&perks=4090651448,1885400500,2579169598,460017080
+dimwishlist:item=2300143112&perks=1482024992,1561002382,2579169598,460017080
+dimwishlist:item=2300143112&perks=4090651448,1561002382,2579169598,460017080
+dimwishlist:item=2300143112&perks=1482024992,1885400500,2579169598,699525795
+dimwishlist:item=2300143112&perks=4090651448,1885400500,2579169598,699525795
+dimwishlist:item=2300143112&perks=1482024992,1561002382,2579169598,699525795
+dimwishlist:item=2300143112&perks=4090651448,1561002382,2579169598,699525795
+dimwishlist:item=2300143112&perks=1482024992,1885400500,2579169598,2387244414
+dimwishlist:item=2300143112&perks=4090651448,1885400500,2579169598,2387244414
+dimwishlist:item=2300143112&perks=1482024992,1561002382,2579169598,2387244414
+dimwishlist:item=2300143112&perks=4090651448,1561002382,2579169598,2387244414
+dimwishlist:item=2300143112&perks=1482024992,1885400500,2579169598,588594999
+dimwishlist:item=2300143112&perks=4090651448,1885400500,2579169598,588594999
+dimwishlist:item=2300143112&perks=1482024992,1561002382,2579169598,588594999
+dimwishlist:item=2300143112&perks=4090651448,1561002382,2579169598,588594999
+dimwishlist:item=2300143112&perks=2579169598,460017080
+dimwishlist:item=2300143112&perks=2579169598,699525795
+dimwishlist:item=2300143112&perks=2579169598,2387244414
+dimwishlist:item=2300143112&perks=2579169598,588594999
 
 // Smallbore
 // Flared Magwell
@@ -2831,6 +2811,24 @@ dimwishlist:item=2022294213&perks=2387244414,1890422124
 dimwishlist:item=2022294213&perks=1359896290,1890422124
 dimwishlist:item=2022294213&perks=2387244414,365154968
 dimwishlist:item=2022294213&perks=1359896290,365154968
+
+//}
+
+//{ Tomorrow's Answer
+// Quick Launch
+// Impact Casing
+// Envious Arsenal, Withering Gaze
+// Bait and Switch, Explosive Light, Frenzy
+//notes:Houdini (PvE): God roll is Envious Arsenal + Bait and Switch. Explosive Light is also viable, but lacks the synergy with Envious Arsenal. Withering Gaze + Frenzy is another interesting roll that I'll probably keep even if I don't expect to ever use it. |tags:pve
+dimwishlist:item=303107619&perks=3525010810,3796465595,3977735242,,3078487919
+dimwishlist:item=303107619&perks=3525010810,3796465595,3977735242,,3194351027
+dimwishlist:item=303107619&perks=3525010810,3796465595,3977735242,,4104185692
+dimwishlist:item=303107619&perks=3525010810,3796465595,1134488199,4104185692
+dimwishlist:item=303107619&perks=3977735242,,3078487919
+dimwishlist:item=303107619&perks=3977735242,,3194351027
+dimwishlist:item=303107619&perks=3977735242,,4104185692
+dimwishlist:item=303107619&perks=1134488199,4104185692
+
 
 //}
 
@@ -3306,6 +3304,29 @@ dimwishlist:item=480368036&perks=951095735,4104185692
 //notes:Houdini (PvP): Claws of the Wolf is very good. God roll is Headseeker + Zen Moment and there really isn't any other option. Optimize for recoil direction and stability in the minor perks.|tags:pvp
 dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,2387244414
 dimwishlist:item=1505862304&perks=460017080,2387244414
+
+//}
+
+//{ Archon's Thunder
+// Arrowhead Brake, Smallbore
+// Extended Mag, Steady Rounds, Accurized Rounds
+// High-Impact Reserves, Fourth Time's the Charm,
+// Killing Tally
+//notes:Houdini (PvP): God Roll is High-Impact Reserves + Killing Tally, but Fourth Time's the Charm is also viable. I'm not farming for this, but I'd keep it if I got a good one. |tags:pvp
+dimwishlist:item=2896109856&perks=839105230,2420895100,2213355989,557221067
+dimwishlist:item=2896109856&perks=1482024992,2420895100,2213355989,557221067
+dimwishlist:item=2896109856&perks=839105230,3177308360,2213355989,557221067
+dimwishlist:item=2896109856&perks=1482024992,3177308360,2213355989,557221067
+dimwishlist:item=2896109856&perks=839105230,3142289711,2213355989,557221067
+dimwishlist:item=2896109856&perks=1482024992,3142289711,2213355989,557221067
+dimwishlist:item=2896109856&perks=839105230,2420895100,1354429876,557221067
+dimwishlist:item=2896109856&perks=1482024992,2420895100,1354429876,557221067
+dimwishlist:item=2896109856&perks=839105230,3177308360,1354429876,557221067
+dimwishlist:item=2896109856&perks=1482024992,3177308360,1354429876,557221067
+dimwishlist:item=2896109856&perks=839105230,3142289711,1354429876,557221067
+dimwishlist:item=2896109856&perks=1482024992,3142289711,1354429876,557221067
+dimwishlist:item=2896109856&perks=2213355989,557221067
+dimwishlist:item=2896109856&perks=1354429876,557221067
 
 //}
 
@@ -4536,6 +4557,21 @@ dimwishlist:item=1332123064&perks=1523832109,1546637391
 
 //}
 
+//{ Plug One
+// Hammer-Forged Rifling, Arrowhead Brake
+// Accelerated Coils
+// Lone Wolf, Under Pressure
+// Closing Time
+//notes:Houdini (PvP): God Roll is Lone Wolf + Closing Time. Under Pressure is another viable option. Optimize for charge time in the minor perks with an adept charge time armor mod. |tags:pvp
+dimwishlist:item=3106557243&perks=3250034553,689005463,2579169598,1194056669
+dimwishlist:item=3106557243&perks=839105230,689005463,2579169598,1194056669
+dimwishlist:item=3106557243&perks=3250034553,689005463,1645158859,1194056669
+dimwishlist:item=3106557243&perks=839105230,689005463,1645158859,1194056669
+dimwishlist:item=3106557243&perks=2579169598,1194056669
+dimwishlist:item=3106557243&perks=1645158859,1194056669
+
+//}
+
 //////////////////////////////////////
 /// VANGUARD WEAPONS
 //////////////////////////////////////
@@ -5353,12 +5389,13 @@ dimwishlist:item=4232480042&perks=3938834702,365154968
 //}
 
 //{ VS Gravitic Arrest
-// Arrowhead Brake
-// Accelerated Coils
+// Arrowhead Brake, Hammer-Forged Rifling
+// Projection Fuse
 // Under Pressure
 // Closing Time
-//notes:Houdini (PvP): God Roll is Under Pressure + Closing Time. Optimize for recoil direction and charge time in the minor perks. |tags:pvp
-dimwishlist:item=93061497&perks=839105230,689005463,1645158859,1194056669
+//notes:Houdini (PvP): God Roll is Under Pressure + Closing Time. Don't use Accelerated Coils on Adaptive Frame fusions since it lowers the damage enough to cause an extra bullet to be required for a kill. Optimize for range and recoil direction in the minor perks. Charge Time or Range masterwork.|tags:pvp
+dimwishlist:item=93061497&perks=839105230,2969185026,1645158859,1194056669
+dimwishlist:item=93061497&perks=3250034553,2969185026,1645158859,1194056669
 dimwishlist:item=93061497&perks=1645158859,1194056669
 
 // Arrowhead Brake
@@ -6260,23 +6297,22 @@ dimwishlist:item=425681240&perks=2284787283,3078487919
 //{ Braytech Werewolf
 
 // Arrowhead Brake
-// Ricochet Rounds, High-Caliber Rounds
-// Zen Moment,Dynamic Sway Reduction
+// Ricochet Rounds
+// Zen Moment, Lone wolf, Dynamic Sway Reduction
 // Target Lock, Tap the Trigger
-//notes:Houdini (PvP): God roll is Zen Moment + Target Lock. Optimize for stability in the minor perks. Other good perks include Dynamic Sway Reduction and Tap the Trigger. |tags:pvp
+//notes:Houdini (PvP): God roll is Zen Moment + Target Lock. Lone Wolf and Tap the Trigger are also viable perks. Optimize for stability and range in the minor perks. |tags:pvp
 dimwishlist:item=3558681245&perks=839105230,1885400500,2387244414,365154968
-dimwishlist:item=3558681245&perks=839105230,1561002382,2387244414,365154968
+dimwishlist:item=3558681245&perks=839105230,1885400500,2579169598,365154968
 dimwishlist:item=3558681245&perks=839105230,1885400500,1359896290,365154968
-dimwishlist:item=3558681245&perks=839105230,1561002382,1359896290,365154968
 dimwishlist:item=3558681245&perks=839105230,1885400500,2387244414,1890422124
-dimwishlist:item=3558681245&perks=839105230,1561002382,2387244414,1890422124
+dimwishlist:item=3558681245&perks=839105230,1885400500,2579169598,1890422124
 dimwishlist:item=3558681245&perks=839105230,1885400500,1359896290,1890422124
-dimwishlist:item=3558681245&perks=839105230,1561002382,1359896290,1890422124
 dimwishlist:item=3558681245&perks=2387244414,365154968
+dimwishlist:item=3558681245&perks=2579169598,365154968
 dimwishlist:item=3558681245&perks=1359896290,365154968
 dimwishlist:item=3558681245&perks=2387244414,1890422124
+dimwishlist:item=3558681245&perks=2579169598,1890422124
 dimwishlist:item=3558681245&perks=1359896290,1890422124
-
 
 //}
 
@@ -6330,6 +6366,18 @@ dimwishlist:item=1891321753&perks=839105230,3142289711,588594999,460017080
 dimwishlist:item=1891321753&perks=839105230,588594999,460017080
 dimwishlist:item=1891321753&perks=588594999,460017080
 
+// Arrowhead Brake
+// Tactical Mag, Accurized Rounds
+// Lone Wolf, Moving Target
+// Headseeker
+//notes:Houdini (PvP): God roll is Lone Wolf + Headseeker, but Moving Target is also viable. I'm unlikely to use this since it can't roll Ricochet Rounds, but worth holding onto as a good Lightweight pulse. |tags:pvp
+dimwishlist:item=1123433952&perks=839105230,106909392,2579169598,460017080
+dimwishlist:item=1123433952&perks=839105230,3142289711,2579169598,460017080
+dimwishlist:item=1123433952&perks=839105230,106909392,588594999,460017080
+dimwishlist:item=1123433952&perks=839105230,3142289711,588594999,460017080
+dimwishlist:item=1123433952&perks=2579169598,460017080
+dimwishlist:item=1123433952&perks=588594999,460017080
+
 //}
 
 //{ Cold Front
@@ -6368,7 +6416,6 @@ dimwishlist:item=2728851518&perks=3161816588,699525795
 dimwishlist:item=2728851518&perks=1645158859,2213355989
 dimwishlist:item=2728851518&perks=3161816588,2213355989
 
-
 // Arrowhead Brake
 // Accelerated Coils
 // Overflow,Slideshot
@@ -6383,6 +6430,72 @@ dimwishlist:item=2728851518&perks=3161816588,2594592626
 dimwishlist:item=2728851518&perks=3643424744,1427256713
 dimwishlist:item=2728851518&perks=3161816588,1427256713
 
+// Fluted Barrel, Arrowhead Brake, Smallbore,
+// Accelerated Coils, Projection Fuse
+// Lone Wolf, Under Pressure
+// Closing Time
+//notes:Houdini (PvP): God Roll is Lone Wolf + Closing Time. Under Pressure is also a good option. Optimize for charge time, handling, range, stability in the minor perks. |tags:pvp
+dimwishlist:item=1183116657&perks=1840239774,689005463,2579169598,1194056669
+dimwishlist:item=1183116657&perks=839105230,689005463,2579169598,1194056669
+dimwishlist:item=1183116657&perks=1482024992,689005463,2579169598,1194056669
+dimwishlist:item=1183116657&perks=1840239774,2969185026,2579169598,1194056669
+dimwishlist:item=1183116657&perks=839105230,2969185026,2579169598,1194056669
+dimwishlist:item=1183116657&perks=1482024992,2969185026,2579169598,1194056669
+dimwishlist:item=1183116657&perks=1840239774,689005463,1645158859,1194056669
+dimwishlist:item=1183116657&perks=839105230,689005463,1645158859,1194056669
+dimwishlist:item=1183116657&perks=1482024992,689005463,1645158859,1194056669
+dimwishlist:item=1183116657&perks=1840239774,2969185026,1645158859,1194056669
+dimwishlist:item=1183116657&perks=839105230,2969185026,1645158859,1194056669
+dimwishlist:item=1183116657&perks=1482024992,2969185026,1645158859,1194056669
+dimwishlist:item=1183116657&perks=2579169598,1194056669
+dimwishlist:item=1183116657&perks=1645158859,1194056669
+
+// Fluted Barrel, Arrowhead Brake, Smallbore
+// Accelerated Coils, Enhanced Battery, Ionized Battery
+// Overflow, Envious Assassin
+// Controlled Burst, Reservoir Burst
+//notes:Houdini (PvE): God roll is Overflow + Controlled Burst for easy DPS rotations. Envious Assassin and Reservoir Burst are also good backup options. Optimize for magazine size and charge time in the minor perks|tags:pve
+dimwishlist:item=1183116657&perks=1840239774,689005463,3643424744,2594592626
+dimwishlist:item=1183116657&perks=839105230,689005463,3643424744,2594592626
+dimwishlist:item=1183116657&perks=1482024992,689005463,3643424744,2594592626
+dimwishlist:item=1183116657&perks=1840239774,2680121939,3643424744,2594592626
+dimwishlist:item=1183116657&perks=839105230,2680121939,3643424744,2594592626
+dimwishlist:item=1183116657&perks=1482024992,2680121939,3643424744,2594592626
+dimwishlist:item=1183116657&perks=1840239774,1483536627,3643424744,2594592626
+dimwishlist:item=1183116657&perks=839105230,1483536627,3643424744,2594592626
+dimwishlist:item=1183116657&perks=1482024992,1483536627,3643424744,2594592626
+dimwishlist:item=1183116657&perks=1840239774,689005463,968510818,2594592626
+dimwishlist:item=1183116657&perks=839105230,689005463,968510818,2594592626
+dimwishlist:item=1183116657&perks=1482024992,689005463,968510818,2594592626
+dimwishlist:item=1183116657&perks=1840239774,2680121939,968510818,2594592626
+dimwishlist:item=1183116657&perks=839105230,2680121939,968510818,2594592626
+dimwishlist:item=1183116657&perks=1482024992,2680121939,968510818,2594592626
+dimwishlist:item=1183116657&perks=1840239774,1483536627,968510818,2594592626
+dimwishlist:item=1183116657&perks=839105230,1483536627,968510818,2594592626
+dimwishlist:item=1183116657&perks=1482024992,1483536627,968510818,2594592626
+dimwishlist:item=1183116657&perks=1840239774,689005463,3643424744,1427256713
+dimwishlist:item=1183116657&perks=839105230,689005463,3643424744,1427256713
+dimwishlist:item=1183116657&perks=1482024992,689005463,3643424744,1427256713
+dimwishlist:item=1183116657&perks=1840239774,2680121939,3643424744,1427256713
+dimwishlist:item=1183116657&perks=839105230,2680121939,3643424744,1427256713
+dimwishlist:item=1183116657&perks=1482024992,2680121939,3643424744,1427256713
+dimwishlist:item=1183116657&perks=1840239774,1483536627,3643424744,1427256713
+dimwishlist:item=1183116657&perks=839105230,1483536627,3643424744,1427256713
+dimwishlist:item=1183116657&perks=1482024992,1483536627,3643424744,1427256713
+dimwishlist:item=1183116657&perks=1840239774,689005463,968510818,1427256713
+dimwishlist:item=1183116657&perks=839105230,689005463,968510818,1427256713
+dimwishlist:item=1183116657&perks=1482024992,689005463,968510818,1427256713
+dimwishlist:item=1183116657&perks=1840239774,2680121939,968510818,1427256713
+dimwishlist:item=1183116657&perks=839105230,2680121939,968510818,1427256713
+dimwishlist:item=1183116657&perks=1482024992,2680121939,968510818,1427256713
+dimwishlist:item=1183116657&perks=1840239774,1483536627,968510818,1427256713
+dimwishlist:item=1183116657&perks=839105230,1483536627,968510818,1427256713
+dimwishlist:item=1183116657&perks=1482024992,1483536627,968510818,1427256713
+dimwishlist:item=1183116657&perks=3643424744,2594592626
+dimwishlist:item=1183116657&perks=968510818,2594592626
+dimwishlist:item=1183116657&perks=3643424744,1427256713
+dimwishlist:item=1183116657&perks=968510818,1427256713
+
 //}
 
 //{ Avalanche
@@ -6395,6 +6508,27 @@ dimwishlist:item=4220529694&perks=839105230,2420895100,3300816228,4293542123
 dimwishlist:item=4220529694&perks=839105230,1087426260,3300816228,4293542123
 dimwishlist:item=4220529694&perks=839105230,106909392,3300816228,4293542123
 dimwishlist:item=4220529694&perks=3300816228,4293542123
+
+// Arrowhead Brake
+// Appended Mag, Extended Mag, Tactical Mag
+// Auto-Loading Holster
+// Incandescent
+//notes:Houdini (PvE): God roll is Auto-Loading Holster + Incandescent. Optimize for magazine size in the minor perks. |tags:pve
+dimwishlist:item=1845978721&perks=839105230,1087426260,3300816228,4293542123
+dimwishlist:item=1845978721&perks=839105230,2420895100,3300816228,4293542123
+dimwishlist:item=1845978721&perks=839105230,106909392,3300816228,4293542123
+dimwishlist:item=1845978721&perks=3300816228,4293542123
+
+// Arrowhead Brake
+// Extended Mag
+// Closing Time, Dynamic Sway Reduction
+// Golden Tricorn
+//notes:Houdini (PvP): God roll is Closing Time + Golden Tricorn. Dynamic Sway Reduction is also viable. |tags:pvp
+dimwishlist:item=1845978721&perks=839105230,2420895100,1194056669,2610012052
+dimwishlist:item=1845978721&perks=839105230,2420895100,1359896290,2610012052
+dimwishlist:item=1845978721&perks=1194056669,2610012052
+dimwishlist:item=1845978721&perks=1359896290,2610012052
+
 
 //}
 
@@ -6411,7 +6545,41 @@ dimwishlist:item=1911078836&perks=1749209109,3650930298
 dimwishlist:item=1911078836&perks=1749209109,3708227201
 dimwishlist:item=1911078836&perks=1749209109,3913600130
 
-	
+// Jagged Edge
+// Swordmaster's Guard
+// Rimestealer
+// Cold Steel
+//notes:Houdini (PvE): There are plenty of craftable adaptive swords. The only reason to keep Zephyr is for Rimestealer + Cold Steel. I'll probably never use it, but worth holding onto since it is a unique roll. |tags:pve
+dimwishlist:item=601948197&perks=3666208348,269888150,1955165503,3650930298
+dimwishlist:item=601948197&perks=1955165503,3650930298
+
+//}
+
+//{ Mistral Lift
+// Arrowhead Brake
+// Enhanced Battery, Accelerated Coils
+// Envious Arsenal, Withering Gaze
+// Bait and Switch, Firing Line, Frenzy
+//notes:Houdini (PvE): God roll is Envious Arsenal + Bait and Switch. If you get Enhanced Battery + Backup Mag is good, otherwise go for Accelerated Coils. Withering Gaze is an interesting perk if linears are ever meta for GMs again. If you have the pattern for Doomed Petitioner then you don't need to waste vault space with Envious Assassin or Reconstruction. |tags:pve
+dimwishlist:item=3483485727&perks=839105230,2680121939,3987942396,,3078487919
+dimwishlist:item=3483485727&perks=839105230,689005463,3987942396,,3078487919
+dimwishlist:item=3483485727&perks=839105230,2680121939,1134488199,3078487919
+dimwishlist:item=3483485727&perks=839105230,689005463,1134488199,3078487919
+dimwishlist:item=3483485727&perks=839105230,2680121939,3987942396,,1771339417
+dimwishlist:item=3483485727&perks=839105230,689005463,3987942396,,1771339417
+dimwishlist:item=3483485727&perks=839105230,2680121939,1134488199,1771339417
+dimwishlist:item=3483485727&perks=839105230,689005463,1134488199,1771339417
+dimwishlist:item=3483485727&perks=839105230,2680121939,3987942396,,4104185692
+dimwishlist:item=3483485727&perks=839105230,689005463,3987942396,,4104185692
+dimwishlist:item=3483485727&perks=839105230,2680121939,1134488199,4104185692
+dimwishlist:item=3483485727&perks=839105230,689005463,1134488199,4104185692
+dimwishlist:item=3483485727&perks=3987942396,,3078487919
+dimwishlist:item=3483485727&perks=1134488199,3078487919
+dimwishlist:item=3483485727&perks=3987942396,,1771339417
+dimwishlist:item=3483485727&perks=1134488199,1771339417
+dimwishlist:item=3483485727&perks=3987942396,,4104185692
+dimwishlist:item=3483485727&perks=1134488199,4104185692
+
 //}
 
 //////////////////////////////////////
@@ -6895,6 +7063,18 @@ dimwishlist:item=4200122994&perks=2579169598,1194056669
 dimwishlist:item=4200122994&perks=957782887,1194056669
 dimwishlist:item=4200122994&perks=2579169598,47981717
 dimwishlist:item=4200122994&perks=957782887,47981717
+
+//}
+
+//{ Suspectum-4FR
+// Arrowhead Brake
+// Ionized Battery, Accelerated Coils
+// Envious Assassin
+// Firing Line
+//notes:Houdini (PvE): There is no need to keep one of these if you have a Triple Tap + Firing Line Reed's Regret, but if you don't have a Reed's Regret, then Envious Assassin + Firing Line is the God Roll. Optimize for charge time and recoil direction in the minor perks. Use Backup Mag with Ionized Battery to get 7 shots in the mag. |tags:pve
+dimwishlist:item=3615421669&perks=839105230,1483536627,968510818,1771339417
+dimwishlist:item=3615421669&perks=839105230,689005463,968510818,1771339417
+dimwishlist:item=3615421669&perks=968510818,1771339417
 
 //}
 
@@ -7782,7 +7962,7 @@ dimwishlist:item=2584830733&perks=3523296417,4293542123
 // Accelerated Coils
 // Clown Cartridge
 // Bait and Switch
-//notes:Houdini (PvE): God roll is Clown Cartridge + Bait and Switch. No meta currently, but I'll be holding onto one as the only good arc precision linear. Optimize for recoil direction and charge time in the minor perks.|tags:pve
+//notes:Houdini (PvE): God roll is Clown Cartridge + Bait and Switch. Not meta currently, but I'll be holding onto one as the only good arc precision linear. Optimize for recoil direction and charge time in the minor perks.|tags:pve
 dimwishlist:item=2450049485&perks=839105230,689005463,2284787283,3078487919
 dimwishlist:item=2450049485&perks=2284787283,3078487919
 
@@ -7871,30 +8051,19 @@ dimwishlist:item=2823644677&perks=1955165503,3038247973
 
 // Smallbore, Corkscrew Rifling
 // Flared Magwell, Accurized Rounds
-// Keep Away, Lone Wolf
+// Lone Wolf
 // Explosive Payload, Precision Instrument
-//notes:Houdini (PvP): It is annoying that this weapon isn't cartable because that means you probably need to hold onto at least one PvP roll. I'd keep Keep Away + Explosive Payload, but Lone Wolf and Precision Instrument are also viable. |tags:pvp
-dimwishlist:item=2823644677&perks=1482024992,3230963543,3619207468,3038247973
-dimwishlist:item=2823644677&perks=4090651448,3230963543,3619207468,3038247973
-dimwishlist:item=2823644677&perks=1482024992,3142289711,3619207468,3038247973
-dimwishlist:item=2823644677&perks=4090651448,3142289711,3619207468,3038247973
+//notes:Houdini (PvP): It is annoying that this weapon isn't cartable because that means you probably need to hold onto at least one PvP roll. I'd keep Lone Wolf + Explosive Payload, but Precision Instrument is also viable.|tags:pvp
 dimwishlist:item=2823644677&perks=1482024992,3230963543,2579169598,3038247973
 dimwishlist:item=2823644677&perks=4090651448,3230963543,2579169598,3038247973
 dimwishlist:item=2823644677&perks=1482024992,3142289711,2579169598,3038247973
 dimwishlist:item=2823644677&perks=4090651448,3142289711,2579169598,3038247973
-dimwishlist:item=2823644677&perks=1482024992,3230963543,3619207468,555281244
-dimwishlist:item=2823644677&perks=4090651448,3230963543,3619207468,555281244
-dimwishlist:item=2823644677&perks=1482024992,3142289711,3619207468,555281244
-dimwishlist:item=2823644677&perks=4090651448,3142289711,3619207468,555281244
 dimwishlist:item=2823644677&perks=1482024992,3230963543,2579169598,555281244
 dimwishlist:item=2823644677&perks=4090651448,3230963543,2579169598,555281244
 dimwishlist:item=2823644677&perks=1482024992,3142289711,2579169598,555281244
 dimwishlist:item=2823644677&perks=4090651448,3142289711,2579169598,555281244
-dimwishlist:item=2823644677&perks=3619207468,3038247973
 dimwishlist:item=2823644677&perks=2579169598,3038247973
-dimwishlist:item=2823644677&perks=3619207468,555281244
 dimwishlist:item=2823644677&perks=2579169598,555281244
-
 
 //}
 
@@ -7904,8 +8073,8 @@ dimwishlist:item=2823644677&perks=2579169598,555281244
 // Headseeker
 // Zen Moment
 //notes:Houdini (PvP): Gridskipper is just a better version of Claws of the Wolf. God Roll is Headseeker + Zen Moment. Optimize for recoil direction and stability in the minor perks|tags:pvp
-dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,2387244414
-dimwishlist:item=1505862304&perks=460017080,2387244414
+dimwishlist:item=3433930495&perks=839105230,1885400500,460017080,2387244414
+dimwishlist:item=3433930495&perks=460017080,2387244414
 
 //}
 
@@ -7962,15 +8131,14 @@ dimwishlist:item=2130875369&perks=706527188,47981717
 //{ Sovereignty
 // Arrowhead Brake, Fluted Barrel
 // Tactical Mag, Appended Mag
-// Explosive Payload
+// Demolitionist
 // Withering Gaze
-//notes:Houdini (PvE): The only perk worth keeping is Withering Gaze. Explosive Payload is probably the best option in the 3rd column to go with it. Optimize for magazine size and handling in the minor perks. |tags:pve
-dimwishlist:item=3818198556&perks=839105230,106909392,3038247973,1134488199
-dimwishlist:item=3818198556&perks=1840239774,106909392,3038247973,1134488199
-dimwishlist:item=3818198556&perks=839105230,1087426260,3038247973,1134488199
-dimwishlist:item=3818198556&perks=1840239774,1087426260,3038247973,1134488199
-dimwishlist:item=3818198556&perks=3038247973,1134488199
-
+//notes:Houdini (PvE): The only perk worth keeping is Withering Gaze. Demo is probably the best option in the 3rd column to go with it. Optimize for magazine size and handling in the minor perks. |tags:pve
+dimwishlist:item=3818198556&perks=839105230,106909392,3523296417,1134488199
+dimwishlist:item=3818198556&perks=1840239774,106909392,3523296417,1134488199
+dimwishlist:item=3818198556&perks=839105230,1087426260,3523296417,1134488199
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3523296417,1134488199
+dimwishlist:item=3818198556&perks=3523296417,1134488199
 
 //}
 
@@ -8000,5 +8168,16 @@ dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3194351027
 dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3987942396,3194351027
 
+
+//}
+
+//{ Heretic's Fervor
+// Quick Launch
+// Impact Casing
+// Auto-Loading Holster
+// Explosive Light
+//notes:Houdini (PvE): Overall, the perk selection leaves a lot to be desired. God roll is Auto-Loading Holster + Explosive Light, but even if I get that roll it's not clear I would keep it. This is only marginally better than Bump In The Night, but isn't craftable. |tags:pve
+dimwishlist:item=4224667951&perks=3525010810,3796465595,3300816228,3194351027
+dimwishlist:item=4224667951&perks=3300816228,3194351027
 
 //}
