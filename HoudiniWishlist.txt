@@ -1,6 +1,52 @@
 title:Houdini's God Rolls
 description:Houdini's wishlist for the Noble Sacrifice clan and friends
 
+# TODO:
+False Promises
+Resounding
+Refusal of the Call
+Unloved
+Cold Denial
+Fatebringer
+Redrix's Estoc
+Taraxippos
+Peacebond
+Praedyth's Revenge
+Boondoggle Mk. 55
+Mirror Imago
+Unsworn
+Anamnesis
+Afterlight
+Cruoris FR4
+Hollow Words
+Backfang
+Psychopomp
+Exalted Truth
+The Palindrome
+Joxer's Longsword
+Admetus-D
+Unworthy
+Vision of Confluence
+Found Verdict
+Unvoiced
+Division
+Lotus-Eater
+Keen Thistle
+The Title
+Keraunios
+Warlord's Spear
+Hullabaloo
+Eyes Unveiled
+Corrective MEasure
+Qua Furor V
+Watchful Eye
+Crnosure
+Hezen Vengeance
+Abyssal Edge
+Temptation's Hook
+
+
+
 //////////////////////////////////////
 /// TRIALS WEAPONS
 //////////////////////////////////////
@@ -8179,5 +8225,50 @@ dimwishlist:item=2599338625&perks=3987942396,3194351027
 //notes:Houdini (PvE): Overall, the perk selection leaves a lot to be desired. God roll is Auto-Loading Holster + Explosive Light, but even if I get that roll it's not clear I would keep it. This is only marginally better than Bump In The Night, but isn't craftable. |tags:pve
 dimwishlist:item=4224667951&perks=3525010810,3796465595,3300816228,3194351027
 dimwishlist:item=4224667951&perks=3300816228,3194351027
+
+//}
+
+//////////////////////////////////////
+/// EPISODE HERSEY (Season 26) WEAPONS
+//////////////////////////////////////
+
+//{ Adamantite
+// Arrowhead Brake
+// Tactical Mag
+// Reciprocity
+// Attrition Orbs, Frenzy, Circle of Life
+//notes:Houdini (PvE): Adamantite has several viable perks. For a true healing support option, Reciprocity + Attrition Orbs is best. The only reason to use a support frame auto is if you need the healing support, so any roll without Reciprocity is probably not worth keeping. Attrition Orbs is useful for generating even more healing potential, but Frenzy is also a viable option for the reload speed and damage utility. |tags:pve
+dimwishlist:item=601574723&perks=839105230,106909392,692399809,243981275
+dimwishlist:item=601574723&perks=839105230,106909392,692399809,4104185692
+dimwishlist:item=601574723&perks=839105230,106909392,692399809,2298656195
+dimwishlist:item=601574723&perks=692399809,243981275
+dimwishlist:item=601574723&perks=692399809,4104185692
+dimwishlist:item=601574723&perks=692399809,2298656195
+dimwishlist:item=3485029080&perks=839105230,106909392,692399809,243981275
+dimwishlist:item=3485029080&perks=839105230,106909392,692399809,4104185692
+dimwishlist:item=3485029080&perks=839105230,106909392,692399809,2298656195
+dimwishlist:item=3485029080&perks=692399809,243981275
+dimwishlist:item=3485029080&perks=692399809,4104185692
+dimwishlist:item=3485029080&perks=692399809,2298656195
+dimwishlist:item=2987244302&perks=839105230,106909392,692399809,243981275
+dimwishlist:item=2987244302&perks=839105230,106909392,692399809,4104185692
+dimwishlist:item=2987244302&perks=839105230,106909392,692399809,2298656195
+dimwishlist:item=2987244302&perks=692399809,243981275
+dimwishlist:item=2987244302&perks=692399809,4104185692
+dimwishlist:item=2987244302&perks=692399809,2298656195
+dimwishlist:item=3229982889&perks=839105230,106909392,692399809,243981275
+dimwishlist:item=3229982889&perks=839105230,106909392,692399809,4104185692
+dimwishlist:item=3229982889&perks=839105230,106909392,692399809,2298656195
+dimwishlist:item=3229982889&perks=692399809,243981275
+dimwishlist:item=3229982889&perks=692399809,4104185692
+dimwishlist:item=3229982889&perks=692399809,2298656195
+
+//}
+
+//{ False Promises
+// Smallbore, Arrowhead Brake
+//
+//
+//
 
 //}
