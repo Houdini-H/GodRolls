@@ -2,26 +2,7 @@ title:Houdini's God Rolls
 description:Houdini's wishlist for the Noble Sacrifice clan and friends
 
 # TODO:
-False Promises
-Resounding
-Refusal of the Call
-Unloved
-Cold Denial
-Fatebringer
-Redrix's Estoc
-Taraxippos
-Peacebond
-Praedyth's Revenge
-Boondoggle Mk. 55
-Mirror Imago
-Unsworn
-Anamnesis
-Afterlight
-Cruoris FR4
-Hollow Words
-Backfang
-Psychopomp
-Exalted Truth
+
 The Palindrome
 Joxer's Longsword
 Admetus-D
@@ -44,6 +25,7 @@ Crnosure
 Hezen Vengeance
 Abyssal Edge
 Temptation's Hook
+Noxious Vetiver - Attrition Orbs
 
 
 
@@ -52,6 +34,45 @@ Temptation's Hook
 //////////////////////////////////////
 
 //{ Exalted Truth (Adept)
+
+// Chambered Compensator, Smallbore
+// Accurized Rounds
+// Lone Wolf, Zen Moment, Slideshot, Moving Target, Keep Away,
+// Eye of the Storm,
+//notes:Houdini (PvP): God roll is Lone Wolf + Eye of the Storm, but there are several good 3rd column perks. Optimize for recoil direction, stability, and range in the minor perks. |tags:pvp
+dimwishlist:item=1201528146&perks=3661387068,3142289711,2579169598,699525795
+dimwishlist:item=1201528146&perks=1482024992,3142289711,2579169598,699525795
+dimwishlist:item=1201528146&perks=3661387068,3142289711,2387244414,699525795
+dimwishlist:item=1201528146&perks=1482024992,3142289711,2387244414,699525795
+dimwishlist:item=1201528146&perks=3661387068,3142289711,3161816588,699525795
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3161816588,699525795
+dimwishlist:item=1201528146&perks=3661387068,3142289711,588594999,699525795
+dimwishlist:item=1201528146&perks=1482024992,3142289711,588594999,699525795
+dimwishlist:item=1201528146&perks=3661387068,3142289711,3619207468,699525795
+dimwishlist:item=1201528146&perks=1482024992,3142289711,3619207468,699525795
+dimwishlist:item=1201528146&perks=2579169598,699525795
+dimwishlist:item=1201528146&perks=2387244414,699525795
+dimwishlist:item=1201528146&perks=3161816588,699525795
+dimwishlist:item=1201528146&perks=588594999,699525795
+dimwishlist:item=1201528146&perks=3619207468,699525795
+dimwishlist:item=3436626079&perks=3661387068,3142289711,2579169598,699525795
+dimwishlist:item=3436626079&perks=1482024992,3142289711,2579169598,699525795
+dimwishlist:item=3436626079&perks=3661387068,3142289711,2387244414,699525795
+dimwishlist:item=3436626079&perks=1482024992,3142289711,2387244414,699525795
+dimwishlist:item=3436626079&perks=3661387068,3142289711,3161816588,699525795
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3161816588,699525795
+dimwishlist:item=3436626079&perks=3661387068,3142289711,588594999,699525795
+dimwishlist:item=3436626079&perks=1482024992,3142289711,588594999,699525795
+dimwishlist:item=3436626079&perks=3661387068,3142289711,3619207468,699525795
+dimwishlist:item=3436626079&perks=1482024992,3142289711,3619207468,699525795
+dimwishlist:item=3436626079&perks=2579169598,699525795
+dimwishlist:item=3436626079&perks=2387244414,699525795
+dimwishlist:item=3436626079&perks=3161816588,699525795
+dimwishlist:item=3436626079&perks=588594999,699525795
+dimwishlist:item=3436626079&perks=3619207468,699525795
+
+
+
 // Exalted Truth (Adept)
 //notes:Houdini (PvP): Rangefinder+Eye of the Storm is the God Roll. 68 stability is my goal on 140 hand cannons and then dump the rest into range without hurting handling. Other perks to keep an eye on: Perfect Float instead of Rangefinder, Repulsor Brace for Gyrfalcon Hunters, Rangefinder with Kill Clip/Rampage/Frenzy are also good combos|tags:god-pvp
 dimwishlist:item=3920882229&perks=1392496348,106909392,2846385770,699525795,4008116374
@@ -3842,6 +3863,36 @@ dimwishlist:item=3754408118&perks=2387244414,1359896290
 
 //}
 
+//{ Redrix's Estoc
+// Smallbore, Arrowhead Brake
+// Accurized Rounds
+// Lone Wolf, Zen Moment
+// Sword Logic, Headseeker
+// Fitted Stock, Hand-Laid Stock
+//notes:Houdini (PvP): God roll is Lone Wolf + Sword Logic, but Zen Moment and Headseeker are also worth using. Optimize for 100 recoil direction if possible and then prioritize range and stability. |tags:pvp
+dimwishlist:item=3218364298&perks=1482024992,3142289711,2579169598,31345821,4259401308
+dimwishlist:item=3218364298&perks=839105230,3142289711,2579169598,31345821,4259401308
+dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,31345821,4259401308
+dimwishlist:item=3218364298&perks=839105230,3142289711,2387244414,31345821,4259401308
+dimwishlist:item=3218364298&perks=1482024992,3142289711,2579169598,460017080,4259401308
+dimwishlist:item=3218364298&perks=839105230,3142289711,2579169598,460017080,4259401308
+dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,460017080,4259401308
+dimwishlist:item=3218364298&perks=839105230,3142289711,2387244414,460017080,4259401308
+dimwishlist:item=3218364298&perks=1482024992,3142289711,2579169598,31345821,990298390
+dimwishlist:item=3218364298&perks=839105230,3142289711,2579169598,31345821,990298390
+dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,31345821,990298390
+dimwishlist:item=3218364298&perks=839105230,3142289711,2387244414,31345821,990298390
+dimwishlist:item=3218364298&perks=1482024992,3142289711,2579169598,460017080,990298390
+dimwishlist:item=3218364298&perks=839105230,3142289711,2579169598,460017080,990298390
+dimwishlist:item=3218364298&perks=1482024992,3142289711,2387244414,460017080,990298390
+dimwishlist:item=3218364298&perks=839105230,3142289711,2387244414,460017080,990298390
+dimwishlist:item=3218364298&perks=2579169598,31345821
+dimwishlist:item=3218364298&perks=2387244414,31345821
+dimwishlist:item=3218364298&perks=2579169598,460017080
+dimwishlist:item=3218364298&perks=2387244414,460017080
+
+//}
+
 //////////////////////////////////////
 /// NIGHTFALL WEAPONS
 //////////////////////////////////////
@@ -4615,6 +4666,14 @@ dimwishlist:item=3106557243&perks=3250034553,689005463,1645158859,1194056669
 dimwishlist:item=3106557243&perks=839105230,689005463,1645158859,1194056669
 dimwishlist:item=3106557243&perks=2579169598,1194056669
 dimwishlist:item=3106557243&perks=1645158859,1194056669
+
+//}
+
+//{ The Palindrome
+// Smallbore
+// Accurized Rounds
+//
+//
 
 //}
 
@@ -5542,6 +5601,78 @@ dimwishlist:item=1762785662&perks=3751912585,3708227201
 
 //}
 
+//////////////////////////////////////
+/// SUNDERED DOCTRINE WEAPONS
+//////////////////////////////////////
+
+//{ Unloved
+// Smallbore, Corkscrew Rifling, Arrowhead Brake
+// Ricochet Rounds
+// Dragonfly
+// Frenzy, Elemental Honing
+//notes:Houdini (PvE): Unloved is not worth farming for. The 3rd column perks are all pretty bad, but at least the origin trait is as good as a normal perk. Best option is Dragonfly + Frenzy. |tags:pve
+dimwishlist:item=2485881870&perks=1482024992,1885400500,2848615171,4104185692
+dimwishlist:item=2485881870&perks=4090651448,1885400500,2848615171,4104185692
+dimwishlist:item=2485881870&perks=839105230,1885400500,2848615171,4104185692
+dimwishlist:item=2485881870&perks=1482024992,1885400500,2848615171,1089671869
+dimwishlist:item=2485881870&perks=4090651448,1885400500,2848615171,1089671869
+dimwishlist:item=2485881870&perks=839105230,1885400500,2848615171,1089671869
+dimwishlist:item=2485881870&perks=2848615171,4104185692
+dimwishlist:item=2485881870&perks=2848615171,1089671869
+
+//}
+
+//{ Unsworn
+// Corkscrew Rifling, Smallbore,
+// Light Battery, Tactical Battery, Enhanced Battery
+// Shoot to Loot, Rewind Rounds
+// Detonator Beam, Elemental Honing, Killing Tally
+//notes:Houdini (PvE): Shoot to Loot with Detonator Beam is the god roll. Rewind Rounds is also viable. Elemental Honing and Killing Tally are okay, but Detonator Beam is better. Optimize for stability and reload speed in the minor perks. |tags:pve
+dimwishlist:item=1303313141&perks=4090651448,2749775325,3700496672,4198902903
+dimwishlist:item=1303313141&perks=1482024992,2749775325,3700496672,4198902903
+dimwishlist:item=1303313141&perks=4090651448,732557052,3700496672,4198902903
+dimwishlist:item=1303313141&perks=1482024992,732557052,3700496672,4198902903
+dimwishlist:item=1303313141&perks=4090651448,2680121939,3700496672,4198902903
+dimwishlist:item=1303313141&perks=1482024992,2680121939,3700496672,4198902903
+dimwishlist:item=1303313141&perks=4090651448,2749775325,3418782618,4198902903
+dimwishlist:item=1303313141&perks=1482024992,2749775325,3418782618,4198902903
+dimwishlist:item=1303313141&perks=4090651448,732557052,3418782618,4198902903
+dimwishlist:item=1303313141&perks=1482024992,732557052,3418782618,4198902903
+dimwishlist:item=1303313141&perks=4090651448,2680121939,3418782618,4198902903
+dimwishlist:item=1303313141&perks=1482024992,2680121939,3418782618,4198902903
+dimwishlist:item=1303313141&perks=4090651448,2749775325,3700496672,1089671869
+dimwishlist:item=1303313141&perks=1482024992,2749775325,3700496672,1089671869
+dimwishlist:item=1303313141&perks=4090651448,732557052,3700496672,1089671869
+dimwishlist:item=1303313141&perks=1482024992,732557052,3700496672,1089671869
+dimwishlist:item=1303313141&perks=4090651448,2680121939,3700496672,1089671869
+dimwishlist:item=1303313141&perks=1482024992,2680121939,3700496672,1089671869
+dimwishlist:item=1303313141&perks=4090651448,2749775325,3418782618,1089671869
+dimwishlist:item=1303313141&perks=1482024992,2749775325,3418782618,1089671869
+dimwishlist:item=1303313141&perks=4090651448,732557052,3418782618,1089671869
+dimwishlist:item=1303313141&perks=1482024992,732557052,3418782618,1089671869
+dimwishlist:item=1303313141&perks=4090651448,2680121939,3418782618,1089671869
+dimwishlist:item=1303313141&perks=1482024992,2680121939,3418782618,1089671869
+dimwishlist:item=1303313141&perks=4090651448,2749775325,3700496672,557221067
+dimwishlist:item=1303313141&perks=1482024992,2749775325,3700496672,557221067
+dimwishlist:item=1303313141&perks=4090651448,732557052,3700496672,557221067
+dimwishlist:item=1303313141&perks=1482024992,732557052,3700496672,557221067
+dimwishlist:item=1303313141&perks=4090651448,2680121939,3700496672,557221067
+dimwishlist:item=1303313141&perks=1482024992,2680121939,3700496672,557221067
+dimwishlist:item=1303313141&perks=4090651448,2749775325,3418782618,557221067
+dimwishlist:item=1303313141&perks=1482024992,2749775325,3418782618,557221067
+dimwishlist:item=1303313141&perks=4090651448,732557052,3418782618,557221067
+dimwishlist:item=1303313141&perks=1482024992,732557052,3418782618,557221067
+dimwishlist:item=1303313141&perks=4090651448,2680121939,3418782618,557221067
+dimwishlist:item=1303313141&perks=1482024992,2680121939,3418782618,557221067
+dimwishlist:item=1303313141&perks=3700496672,4198902903
+dimwishlist:item=1303313141&perks=3418782618,4198902903
+dimwishlist:item=1303313141&perks=3700496672,1089671869
+dimwishlist:item=1303313141&perks=3418782618,1089671869
+dimwishlist:item=1303313141&perks=3700496672,557221067
+dimwishlist:item=1303313141&perks=3418782618,557221067
+
+//}
+
 
 //////////////////////////////////////
 /// DEEPSTONE CRYPT WEAPONS
@@ -5688,17 +5819,139 @@ dimwishlist:item=342514437&perks=839105230,1885400500,1523832109,3215448563
 //}
 
 //////////////////////////////////////
+/// VAULT OF GLASS WEAPONS
+//////////////////////////////////////
+
+//{ Fatebringer
+// Smallbore
+// Accurized Rounds
+// Explosive Payload, Opening Shot
+// Eye of the Storm, Precision Instrument
+//notes:Houdini (PvP): God roll is Explosive Payload + Eye of the Storm. Opening Shot and Precision Instrument are also viable perks. Optimize for stability and range in the minor perks. |tags:pvp
+dimwishlist:item=4219826183&perks=1482024992,3142289711,3038247973,699525795
+dimwishlist:item=4219826183&perks=1482024992,3142289711,47981717,699525795
+dimwishlist:item=4219826183&perks=1482024992,3142289711,3038247973,555281244
+dimwishlist:item=4219826183&perks=1482024992,3142289711,47981717,555281244
+dimwishlist:item=4219826183&perks=3038247973,699525795
+dimwishlist:item=4219826183&perks=47981717,699525795
+dimwishlist:item=4219826183&perks=3038247973,555281244
+dimwishlist:item=4219826183&perks=47981717,555281244
+dimwishlist:item=4184168210&perks=1482024992,3142289711,3038247973,699525795
+dimwishlist:item=4184168210&perks=1482024992,3142289711,47981717,699525795
+dimwishlist:item=4184168210&perks=1482024992,3142289711,3038247973,555281244
+dimwishlist:item=4184168210&perks=1482024992,3142289711,47981717,555281244
+dimwishlist:item=4184168210&perks=3038247973,699525795
+dimwishlist:item=4184168210&perks=47981717,699525795
+dimwishlist:item=4184168210&perks=3038247973,555281244
+dimwishlist:item=4184168210&perks=47981717,555281244
+
+// Smallbore
+// Accurized Rounds, Tactical Mag, Appended Mag
+// Explosive Payload, Kinetic Tremors
+// Frenzy
+//notes:Houdini (PvE): God roll is Explosive Payload + Frenzy. Kinetic Tremors could be useful, but if you can shoot a target 6 times with a hand cannon and it isn't dead you probably shouldn't have been shooting it with a hand cannon. |tags:pve
+dimwishlist:item=4219826183&perks=1482024992,3142289711,3038247973,4104185692
+dimwishlist:item=4219826183&perks=1482024992,106909392,3038247973,4104185692
+dimwishlist:item=4219826183&perks=1482024992,1087426260,3038247973,4104185692
+dimwishlist:item=4219826183&perks=1482024992,3142289711,3891536761,4104185692
+dimwishlist:item=4219826183&perks=1482024992,106909392,3891536761,4104185692
+dimwishlist:item=4219826183&perks=1482024992,1087426260,3891536761,4104185692
+dimwishlist:item=4219826183&perks=3038247973,4104185692
+dimwishlist:item=4219826183&perks=3891536761,4104185692
+dimwishlist:item=4184168210&perks=1482024992,3142289711,3038247973,4104185692
+dimwishlist:item=4184168210&perks=1482024992,106909392,3038247973,4104185692
+dimwishlist:item=4184168210&perks=1482024992,1087426260,3038247973,4104185692
+dimwishlist:item=4184168210&perks=1482024992,3142289711,3891536761,4104185692
+dimwishlist:item=4184168210&perks=1482024992,106909392,3891536761,4104185692
+dimwishlist:item=4184168210&perks=1482024992,1087426260,3891536761,4104185692
+dimwishlist:item=4184168210&perks=3038247973,4104185692
+dimwishlist:item=4184168210&perks=3891536761,4104185692
+
+//}
+
+//{ Praedyth's Revenge
+// Arrowhead Brake
+// Appended Mag, Tactical Mag
+// Fourth Time's the Charm, Kinetic Tremors, Envious Arsenal, Rewind Rounds
+// Bait and Switch, Elemental Honing
+//notes:Houdini (PvE): God roll is Fourth Time's the Charm + Bait and Switch, but since this is a raid weapon you can get 3 perks in each column so try to get one with Fourth Time's the Charm, Kinetic Tremors, and Envious Arsenal in the 3rd column wit Bait and Switch and Elemental Honing in the 4th column. Rewind Rounds is also viable, but Fourth Time's the Charm is a better variant of Rewind Rounds. Optimize for magazine size and recoil direction in the minor perks. |tags:pve
+dimwishlist:item=2362652544&perks=839105230,1087426260,1354429876,3078487919
+dimwishlist:item=2362652544&perks=839105230,106909392,1354429876,3078487919
+dimwishlist:item=2362652544&perks=839105230,1087426260,3891536761,3078487919
+dimwishlist:item=2362652544&perks=839105230,106909392,3891536761,3078487919
+dimwishlist:item=2362652544&perks=839105230,1087426260,3987942396,3078487919
+dimwishlist:item=2362652544&perks=839105230,106909392,3987942396,3078487919
+dimwishlist:item=2362652544&perks=839105230,1087426260,3418782618,3078487919
+dimwishlist:item=2362652544&perks=839105230,106909392,3418782618,3078487919
+dimwishlist:item=2362652544&perks=839105230,1087426260,1354429876,1089671869
+dimwishlist:item=2362652544&perks=839105230,106909392,1354429876,1089671869
+dimwishlist:item=2362652544&perks=839105230,1087426260,3891536761,1089671869
+dimwishlist:item=2362652544&perks=839105230,106909392,3891536761,1089671869
+dimwishlist:item=2362652544&perks=839105230,1087426260,3987942396,1089671869
+dimwishlist:item=2362652544&perks=839105230,106909392,3987942396,1089671869
+dimwishlist:item=2362652544&perks=839105230,1087426260,3418782618,1089671869
+dimwishlist:item=2362652544&perks=839105230,106909392,3418782618,1089671869
+dimwishlist:item=2362652544&perks=1354429876,3078487919
+dimwishlist:item=2362652544&perks=3891536761,3078487919
+dimwishlist:item=2362652544&perks=3987942396,3078487919
+dimwishlist:item=2362652544&perks=3418782618,3078487919
+dimwishlist:item=2362652544&perks=1354429876,1089671869
+dimwishlist:item=2362652544&perks=3891536761,1089671869
+dimwishlist:item=2362652544&perks=3987942396,1089671869
+dimwishlist:item=2362652544&perks=3418782618,1089671869
+dimwishlist:item=3844610113&perks=839105230,1087426260,1354429876,3078487919
+dimwishlist:item=3844610113&perks=839105230,106909392,1354429876,3078487919
+dimwishlist:item=3844610113&perks=839105230,1087426260,3891536761,3078487919
+dimwishlist:item=3844610113&perks=839105230,106909392,3891536761,3078487919
+dimwishlist:item=3844610113&perks=839105230,1087426260,3987942396,3078487919
+dimwishlist:item=3844610113&perks=839105230,106909392,3987942396,3078487919
+dimwishlist:item=3844610113&perks=839105230,1087426260,3418782618,3078487919
+dimwishlist:item=3844610113&perks=839105230,106909392,3418782618,3078487919
+dimwishlist:item=3844610113&perks=839105230,1087426260,1354429876,1089671869
+dimwishlist:item=3844610113&perks=839105230,106909392,1354429876,1089671869
+dimwishlist:item=3844610113&perks=839105230,1087426260,3891536761,1089671869
+dimwishlist:item=3844610113&perks=839105230,106909392,3891536761,1089671869
+dimwishlist:item=3844610113&perks=839105230,1087426260,3987942396,1089671869
+dimwishlist:item=3844610113&perks=839105230,106909392,3987942396,1089671869
+dimwishlist:item=3844610113&perks=839105230,1087426260,3418782618,1089671869
+dimwishlist:item=3844610113&perks=839105230,106909392,3418782618,1089671869
+dimwishlist:item=3844610113&perks=1354429876,3078487919
+dimwishlist:item=3844610113&perks=3891536761,3078487919
+dimwishlist:item=3844610113&perks=3987942396,3078487919
+dimwishlist:item=3844610113&perks=3418782618,3078487919
+dimwishlist:item=3844610113&perks=1354429876,1089671869
+dimwishlist:item=3844610113&perks=3891536761,1089671869
+dimwishlist:item=3844610113&perks=3987942396,1089671869
+dimwishlist:item=3844610113&perks=3418782618,1089671869
+
+//}
+
+//////////////////////////////////////
 /// GUARDIAN GAMES WEAPONS
 //////////////////////////////////////
 
 //{ Taraxippos
+
+// 2025
+// Arrowhead Brake
+// Steady Rounds
+// Lone Wolf, Zen Moment
+// Explosive Payload, Eye of the Storm
+//notes:Houdini (PvP): God roll is Lone Wolf + Explosive Payload. Eye of the Storm and Zen Moment are also viable perks. Optimize for recoil direction and stability in the minor perks. |tags:pvp
+dimwishlist:item=2595813005&perks=839105230,3177308360,2579169598,3038247973
+dimwishlist:item=2595813005&perks=839105230,3177308360,2387244414,3038247973
+dimwishlist:item=2595813005&perks=839105230,3177308360,2579169598,699525795
+dimwishlist:item=2595813005&perks=839105230,3177308360,2387244414,699525795
+dimwishlist:item=2595813005&perks=2579169598,3038247973
+dimwishlist:item=2595813005&perks=2387244414,3038247973
+dimwishlist:item=2595813005&perks=2579169598,699525795
+dimwishlist:item=2595813005&perks=2387244414,699525795
 
 // 2024
 // Arrowhead Brake
 // Steady Rounds,Flared Magwell,Tactical Mag
 // Zen Moment,Eye of the Storm,Moving Target
 // Explosive Payload
-// Not much has changed this year. God Roll is still Zen Moment + Explosive Payload. Eye of the Storm or Moving Target are also viable perks. Optimize for recoil direction and stability in the minor perks. 
 //notes:Houdini (PvP): Not much has changed this year. God Roll is still Zen Moment + Explosive Payload. Eye of the Storm or Moving Target are also viable perks. Optimize for recoil direction and stability in the minor perks. |tags:pvp
 dimwishlist:item=3007479950&perks=839105230,3177308360,2387244414,3038247973
 dimwishlist:item=3007479950&perks=839105230,3230963543,2387244414,3038247973
@@ -5971,6 +6224,14 @@ dimwishlist:item=657927352&perks=2173046394,2610012052
 dimwishlist:item=657927352&perks=3300816228,2610012052
 
 	
+//}
+
+//{ Keraunios
+//
+//
+//
+//
+
 //}
 
 //////////////////////////////////////
@@ -8267,8 +8528,160 @@ dimwishlist:item=3229982889&perks=692399809,2298656195
 
 //{ False Promises
 // Smallbore, Arrowhead Brake
-//
-//
-//
+// Ricochet Rounds
+// Dynamic Sway Reduction
+// Zen Moment
+//notes:Houdini (PvP): God Roll is Dynamic Sway Reduction + Zen Moment. I wouldn't go out of my way to farm for one of these, but if I accidentally get one I'll keep it. Optimize for stability and range in the minor perks. |tags:pvp
+dimwishlist:item=1390080550&perks=1482024992,1885400500,1359896290,2387244414
+dimwishlist:item=1390080550&perks=839105230,1885400500,1359896290,2387244414
+dimwishlist:item=1390080550&perks=1359896290,2387244414
+
+
+//}
+
+//{ Cold Denial
+// Arrowhead Brake
+// Ricochet Rounds
+// Zen Moment
+// Headseeker, Eye of the Storm
+//notes:Houdini (PvP): God roll is Zen Moment + Headseeker. If you already have a good Messenger you don't need to worry about getting a Cold Denial.|tags:pvp
+dimwishlist:item=558794124&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=558794124&perks=839105230,1885400500,2387244414,699525795
+dimwishlist:item=558794124&perks=2387244414,460017080
+dimwishlist:item=558794124&perks=2387244414,699525795
+
+//}
+
+//{ Afterlight
+// Arrowhead Brake
+// Accelerated Coils
+// Discord, Lead from Gold
+// Destabilizing Rounds, Reservoir Burst
+//notes:Houdini (PvE): It's been a while since I've used a fusion as my primary add clear weapon, but this is probably the best add clear fusion in the game. God roll is Discord + Destabilizing Rounds. If you are really on top of managing Discord, then Reservoir Burst is also viable, but I'd prefer the the simpler Destabilizing Rounds combo. Optimize for recoil direction and charge time in the minor perks. |tags:pve
+dimwishlist:item=861521336&perks=839105230,689005463,3978468247,2048641572
+dimwishlist:item=861521336&perks=839105230,689005463,1556840489,2048641572
+dimwishlist:item=861521336&perks=839105230,689005463,3978468247,1427256713
+dimwishlist:item=861521336&perks=839105230,689005463,1556840489,1427256713
+dimwishlist:item=861521336&perks=3978468247,2048641572
+dimwishlist:item=861521336&perks=1556840489,2048641572
+dimwishlist:item=861521336&perks=3978468247,1427256713
+dimwishlist:item=861521336&perks=1556840489,1427256713
+dimwishlist:item=3953163559&perks=839105230,689005463,3978468247,2048641572
+dimwishlist:item=3953163559&perks=839105230,689005463,1556840489,2048641572
+dimwishlist:item=3953163559&perks=839105230,689005463,3978468247,1427256713
+dimwishlist:item=3953163559&perks=839105230,689005463,1556840489,1427256713
+dimwishlist:item=3953163559&perks=3978468247,2048641572
+dimwishlist:item=3953163559&perks=1556840489,2048641572
+dimwishlist:item=3953163559&perks=3978468247,1427256713
+dimwishlist:item=3953163559&perks=1556840489,1427256713
+dimwishlist:item=1834313033&perks=839105230,689005463,3978468247,2048641572
+dimwishlist:item=1834313033&perks=839105230,689005463,1556840489,2048641572
+dimwishlist:item=1834313033&perks=839105230,689005463,3978468247,1427256713
+dimwishlist:item=1834313033&perks=839105230,689005463,1556840489,1427256713
+dimwishlist:item=1834313033&perks=3978468247,2048641572
+dimwishlist:item=1834313033&perks=1556840489,2048641572
+dimwishlist:item=1834313033&perks=3978468247,1427256713
+dimwishlist:item=1834313033&perks=1556840489,1427256713
+dimwishlist:item=3228630258&perks=839105230,689005463,3978468247,2048641572
+dimwishlist:item=3228630258&perks=839105230,689005463,1556840489,2048641572
+dimwishlist:item=3228630258&perks=839105230,689005463,3978468247,1427256713
+dimwishlist:item=3228630258&perks=839105230,689005463,1556840489,1427256713
+dimwishlist:item=3228630258&perks=3978468247,2048641572
+dimwishlist:item=3228630258&perks=1556840489,2048641572
+dimwishlist:item=3228630258&perks=3978468247,1427256713
+dimwishlist:item=3228630258&perks=1556840489,1427256713
+
+//}
+
+//{ Cruoris FR4
+
+// Arrowhead Brake
+// Accelerated Coils
+// Discord
+// One For All
+//notes:Houdini (PvE): I'm not sure Cruoris is worth keeping, but if I get a Discord + One For All roll I'd hold onto it. Optimize for charge time and recoil direction in the minor perks. |tags:pve
+dimwishlist:item=891996636&perks=839105230,689005463,3978468247,4049631843
+dimwishlist:item=891996636&perks=3978468247,4049631843
+
+//}
+
+//{ Hollow Words
+
+//notes:Houdini (trash): There is no reason to use Hollow Words. In both PvP and PvE Plug One is just straight up better. |tags:trash
+dimwishlist:item=-342027677
+
+//}
+
+//{ Psychopomp
+// Quick Launch
+// High-Velocity Rounds
+// Envious Arsenal, Ambitious Assassin
+// Elemental Honing, Frenzy, Rolling Storm, Demolitionist
+//notes:Houdini (??? PvE ???): For damage rotations, I want Envious Arsenal + Elemental Honing, for general PvE I want Ambitious Assassin + Frenzy. Other viable perks include Rolling Storm and Demolitionist. Optimize for Velocity and Blast Radius in the minor perks. |tags:PvE
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,1089671869
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,1089671869
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,4104185692
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,4104185692
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,3523296417
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,3523296417
+dimwishlist:item=704410186&perks=3987942396,1089671869
+dimwishlist:item=704410186&perks=2010801679,1089671869
+dimwishlist:item=704410186&perks=3987942396,4104185692
+dimwishlist:item=704410186&perks=2010801679,4104185692
+dimwishlist:item=704410186&perks=3987942396,3218042543
+dimwishlist:item=704410186&perks=2010801679,3218042543
+dimwishlist:item=704410186&perks=3987942396,3523296417
+dimwishlist:item=704410186&perks=2010801679,3523296417
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,1089671869
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,1089671869
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,4104185692
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,4104185692
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,3523296417
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,3523296417
+dimwishlist:item=3840794631&perks=3987942396,1089671869
+dimwishlist:item=3840794631&perks=2010801679,1089671869
+dimwishlist:item=3840794631&perks=3987942396,4104185692
+dimwishlist:item=3840794631&perks=2010801679,4104185692
+dimwishlist:item=3840794631&perks=3987942396,3218042543
+dimwishlist:item=3840794631&perks=2010801679,3218042543
+dimwishlist:item=3840794631&perks=3987942396,3523296417
+dimwishlist:item=3840794631&perks=2010801679,3523296417
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,1089671869
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,1089671869
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,4104185692
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,4104185692
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,3523296417
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,3523296417
+dimwishlist:item=2553380021&perks=3987942396,1089671869
+dimwishlist:item=2553380021&perks=2010801679,1089671869
+dimwishlist:item=2553380021&perks=3987942396,4104185692
+dimwishlist:item=2553380021&perks=2010801679,4104185692
+dimwishlist:item=2553380021&perks=3987942396,3218042543
+dimwishlist:item=2553380021&perks=2010801679,3218042543
+dimwishlist:item=2553380021&perks=3987942396,3523296417
+dimwishlist:item=2553380021&perks=2010801679,3523296417
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,1089671869
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,1089671869
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,4104185692
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,4104185692
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,3523296417
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,3523296417
+dimwishlist:item=4028298892&perks=3987942396,1089671869
+dimwishlist:item=4028298892&perks=2010801679,1089671869
+dimwishlist:item=4028298892&perks=3987942396,4104185692
+dimwishlist:item=4028298892&perks=2010801679,4104185692
+dimwishlist:item=4028298892&perks=3987942396,3218042543
+dimwishlist:item=4028298892&perks=2010801679,3218042543
+dimwishlist:item=4028298892&perks=3987942396,3523296417
+dimwishlist:item=4028298892&perks=2010801679,3523296417
+
 
 //}
