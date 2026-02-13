@@ -27,7 +27,17 @@ Abyssal Edge
 Temptation's Hook
 Noxious Vetiver - Attrition Orbs
 
-
+Compact Defender - Destabilizing + Repulsor | Rangefinder + Kill Clip
+Permafrost - Rimestealer + Crystaline & Reaper's Tithe
+Mistral Lift - Envious & Reconstruction & Withering Gaze + Bait
+Refurbished A499 - any + Aggregate Charge + Accelerated Assault
+Psi Aeterna IV - Blast Distributor + Elemental Honing
+Nox Sidereal IV - Clown + Frenzy + Accelerated Assault
+Gizmo Weft - Air Trigger & Slideshot + Bipod
+Mos Athanor IV - Keep Away & Lone Wolf + Eye of the Storm
+Astral Horizon - Barrel Shroud + Accurized + Threat Detector | Opening Shot
+Immortal - Smallbore + Ricochet + Rangefinder | Elemental Honing + Target Lock
+Corundum Hammer - Smallbore + Accurized + Lone Wolf + Percision/Keep Away
 
 //////////////////////////////////////
 /// TRIALS WEAPONS
@@ -2896,6 +2906,31 @@ dimwishlist:item=303107619&perks=3977735242,,3194351027
 dimwishlist:item=303107619&perks=3977735242,,4104185692
 dimwishlist:item=303107619&perks=1134488199,4104185692
 
+
+//}
+
+//{ THe Martlet
+
+// The Martlet (pve)
+//notes: For PvE, holding a Repulsor + Destabilizing Rounds roll is probably a good idea, but this is primarily a PvP weapon tags:pve
+dimwishlist:item=877384&perks=3048246338,1709045111,2541826827,1926441324
+dimwishlist:item=877384&perks=2541826827,1926441324
+
+
+// The Martlet (pvp)
+//notes: For PvP, the default roll is Headseeker + Zen Moment, but Kill Clip or Swordlogic can also be helpful. Arrowhead is best, but Smallbore can also be viable paired with a Counterbalance Mod. Accurized Rounds is the best 2nd column perk.  tags:pvp
+dimwishlist:item=877384&perks=3048246338,3267421167,4045335048,1748774930
+dimwishlist:item=877384&perks=3048246338,3267421167,4045335048,2923251173
+dimwishlist:item=877384&perks=3048246338,3267421167,4045335048,639190697
+dimwishlist:item=877384&perks=2860123632,3267421167,4045335048,1748774930
+dimwishlist:item=877384&perks=2860123632,3267421167,4045335048,2923251173
+dimwishlist:item=877384&perks=2860123632,3267421167,4045335048,639190697
+dimwishlist:item=877384&perks=4045335048,1748774930
+dimwishlist:item=877384&perks=4045335048,2923251173
+dimwishlist:item=877384&perks=4045335048,639190697
+dimwishlist:item=877384&perks=4045335048,1748774930
+dimwishlist:item=877384&perks=4045335048,2923251173
+dimwishlist:item=877384&perks=4045335048,639190697
 
 //}
 
@@ -8683,5 +8718,81 @@ dimwishlist:item=4028298892&perks=2010801679,3218042543
 dimwishlist:item=4028298892&perks=3987942396,3523296417
 dimwishlist:item=4028298892&perks=2010801679,3523296417
 
+
+//}
+
+//////////////////////////////////////
+/// Renegades (Season 28) WEAPONS
+//////////////////////////////////////
+
+//{ All or Nothing
+// All or Nothing (pvp)
+//notes:Houdini: PvP Only. Overclocked Heatsink and Accelerated Assault are super nice to have perks for increasing damage. Arrowhead is good, but you probably will want to run a Counterbalance mod anyway, so Extended Barrel might be even better. Smallbore or Chambered are also fine. In the 3rd column, Zen Moment is what I really want, but Delicate Tuning or Keep Away would work. Headseeker is a good default 4th column perk, but Kill Clip is very good on blasters.  tags:pvp
+dimwishlist:item=2023002233&perks=3048246338,226831738,1748774930,4045335048,2671305723
+dimwishlist:item=2023002233&perks=3048246338,226831738,1748774930,2923251173,2671305723
+dimwishlist:item=2023002233&perks=2860123632,226831738,1748774930,4045335048,2671305723
+dimwishlist:item=2023002233&perks=2860123632,226831738,1748774930,2923251173,2671305723
+dimwishlist:item=2023002233&perks=1932356121,226831738,1748774930,4045335048,2671305723
+dimwishlist:item=2023002233&perks=1932356121,226831738,1748774930,2923251173,2671305723
+dimwishlist:item=2023002233&perks=3399528164,226831738,1748774930,4045335048,2671305723
+dimwishlist:item=2023002233&perks=3399528164,226831738,1748774930,2923251173,2671305723
+dimwishlist:item=2023002233&perks=1748774930,4045335048,2671305723
+dimwishlist:item=2023002233&perks=1748774930,2923251173,2671305723
+
+//}
+
+
+//{ Uncivil Discourse
+// Uncivil Discourse - Lucky Pants (pve)
+//notes:Houdini: Arrowhead Brake + Overclocked Heatsink with Accelerated Assault are the base. For Lucky Pants builds you want Precision Instrument.  tags:pve
+dimwishlist:item=3146657389&perks=3048246338,226831738,3291427296,332733060
+dimwishlist:item=3146657389&perks=3048246338,226831738,3291427296,3007133316
+dimwishlist:item=3146657389&perks=3291427296,332733060
+dimwishlist:item=3146657389&perks=3291427296,3007133316
+
+
+// Uncivil Discourse (pve)
+//notes:Houdini: Arrowhead Brake + Overclocked Heatsink with Accelerated Assault are the base. For general PvE, I like Frenzy or Desperate Measures more.  tags:pve
+dimwishlist:item=3146657389&perks=3048246338,226831738,3291427296,3007133316
+dimwishlist:item=3146657389&perks=3048246338,226831738,3291427296,2799030358
+dimwishlist:item=3146657389&perks=3291427296,3007133316
+dimwishlist:item=3146657389&perks=3291427296,2799030358
+
+
+// Uncivil Discourse (pvp)
+//notes:Houdini: Arrowhead Brake + Overclocked Heatsink are the base. You do not need accelerated assault for PvP rolls since you'll rarely proc it, but it doesn't hurt. For general PvP, look for Lone Wolf and then the 4th column could be anything. Desperate Measures is probably what I would keep for a chance at a good damage buff.  tags:pvp
+dimwishlist:item=3146657389&perks=3048246338,226831738,2073244114,2799030358
+dimwishlist:item=3146657389&perks=3048246338,226831738,2073244114,1370847713
+dimwishlist:item=3146657389&perks=2073244114,2799030358
+dimwishlist:item=3146657389&perks=2073244114,1370847713
+
+//}
+
+
+//{ King Orfeo
+
+// King Orfeo (pvp)
+//notes:Houdini: Low priority weapon. Non-Denouement is a better Arc bow in PvE and I doubt I'm using this in PvP. If you keep one, draw time is essential on bows. Impulse and Rangefinder are what I would keep if I had one.  tags:pvp
+dimwishlist:item=3481382332&perks=3956406253,52802868,3878366039,509594246
+dimwishlist:item=3481382332&perks=3878366039,509594246
+
+//}
+
+//{ The Heron
+
+// The Heron (pve)
+//notes:Houdini: I'm not using a Glaive for PvP, so we're only looking for PvE perks here. Repulsor + Destabilizing Rounds is probably the niche roll to keep for PvE, but in general I'm just trying to hold one with a variety of good glaive perks "just in case"  tags:pve
+dimwishlist:item=2246386812&perks=2719770986,1065371964,2541826827,1926441324
+dimwishlist:item=2246386812&perks=2719770986,1065371964,2541826827,2241043034
+dimwishlist:item=2246386812&perks=2719770986,1065371964,2216471363,1926441324
+dimwishlist:item=2246386812&perks=2719770986,1065371964,2216471363,2241043034
+dimwishlist:item=2246386812&perks=2719770986,1065371964,1592669035,1926441324
+dimwishlist:item=2246386812&perks=2719770986,1065371964,1592669035,2241043034
+dimwishlist:item=2246386812&perks=2541826827,1926441324
+dimwishlist:item=2246386812&perks=2541826827,2241043034
+dimwishlist:item=2246386812&perks=2216471363,1926441324
+dimwishlist:item=2246386812&perks=2216471363,2241043034
+dimwishlist:item=2246386812&perks=1592669035,1926441324
+dimwishlist:item=2246386812&perks=1592669035,2241043034
 
 //}
